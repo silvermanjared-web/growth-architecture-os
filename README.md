@@ -76,11 +76,13 @@ flowchart TD
 
 ## Related repos
 
-- [`marketing-intelligence-agent`](https://github.com/silvermanjared-web/marketing-intelligence-agent) — local marketing intelligence, monitoring, risk detection, and briefing workflows.
-- [`marketing-ops-toolkit`](https://github.com/silvermanjared-web/marketing-ops-toolkit) — practical automation scripts for marketing operations, audits, reporting, and campaign-health workflows.
-- [`marketing-ops-playbooks`](https://github.com/silvermanjared-web/marketing-ops-playbooks) — repeatable playbooks for taxonomy governance, data validation, funnel QA, and performance diagnostics.
-- [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system) — structured context bundle for AI-assisted design and front-end work.
-- [`brand-design-system-starter`](https://github.com/silvermanjared-web/brand-design-system-starter) — portable design-system starter for tokens, foundations, components, CSS variables, and AI-assisted handoff.
+This repo is part of a connected public system. See the [GitHub Ecosystem Map](docs/ecosystem-map.md) for how the repos relate.
+
+- [`marketing-intelligence-agent`](https://github.com/silvermanjared-web/marketing-intelligence-agent)
+- [`marketing-ops-toolkit`](https://github.com/silvermanjared-web/marketing-ops-toolkit)
+- [`marketing-ops-playbooks`](https://github.com/silvermanjared-web/marketing-ops-playbooks)
+- [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system)
+- [`brand-design-system-starter`](https://github.com/silvermanjared-web/brand-design-system-starter)
 
 ## Signature frameworks
 
