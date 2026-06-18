@@ -2,17 +2,15 @@
 
 These files show the operating pattern behind Jared's work.
 
-## Files in this folder
+## Current coverage
 
-- `ohdela-cro-roadmap.md`
-- `pansophic-growth-system.md`
-- `pansophic-rapid-campaign-launch.md`
-- `np-digital-paid-media-reset.md`
-- `wex-app-growth-rebuild.md`
-- `stand-together-ffia-measurement.md`
-- `global-enterprise-enablement.md`
-- `samsung-audience-first-growth.md`
-- `sap-global-sem-playbooks.md`
+This folder now includes public-safe case studies across CRO, portfolio growth, paid media operations, enterprise enablement, app growth, platform strategy, rapid launch systems, and AI-enabled marketing operations.
+
+## Newly completed files
+
+- `stand-together-paid-media-rebuild.md`
+- `global-enterprise-media.md`
+- `ai-enabled-marketing-ops.md`
 
 ## Standard
 
