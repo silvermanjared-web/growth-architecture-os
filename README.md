@@ -1,6 +1,6 @@
 # Growth Architecture OS
 
-**Jared Silverman’s public operating system for growth leadership.**
+**Jared Silverman's public operating system for growth leadership.**
 
 This repository is not a portfolio in the usual sense. It is a structured view of how I think, operate, diagnose growth systems, build decision infrastructure, and turn fragmented marketing environments into something leaders can actually manage.
 
@@ -12,52 +12,35 @@ Growth usually does not break because a team lacks tactics. It breaks because th
 
 This repo documents the system I use to solve that problem.
 
-It includes:
-
-- Executive positioning and professional narrative
-- Case studies and proof points
-- First-90-day operating model
-- CRO, media, measurement, and agency governance playbooks
-- AI workflow architecture for marketing operations
-- Executive templates and decision memos
-- Writing, voice, and personal brand standards
-- Claim bank and public-safe proof index
-
 ## Core point of view
 
 I build the operating system underneath growth: the visibility, standards, QA, cadence, and decision logic that make spend easier to manage and performance easier to improve.
-
-The outcome I care about is practical:
-
-- Less noise
-- Faster truth
-- Cleaner ownership
-- Better investment decisions
-- Systems that do not depend on heroics
 
 ## Repo map
 
 | Folder | Purpose |
 |---|---|
-| `00-positioning/` | Executive narrative, bio, leadership principles, operating style, proof points |
+| `00-positioning/` | Executive narrative, bio, leadership principles, operating style, proof controls |
 | `01-case-studies/` | Public-safe case studies from growth, CRO, media, and operating-model work |
-| `02-growth-architecture/` | Reusable frameworks for media, measurement, CRO, reporting, and agency governance |
+| `02-growth-architecture/` | Reusable frameworks for media, CRO, reporting, and agency governance |
 | `03-playbooks/` | Practical playbooks for diagnosis, triage, testing, taxonomy, and media correction |
 | `04-ai-systems/` | AI-enabled marketing operations, agent workflows, prompt patterns, and risk controls |
-| `05-templates/` | Executive-ready templates for briefs, readouts, decision memos, and roadmaps |
-| `07-data-dictionaries/` | KPI definitions, funnel terms, taxonomy logic, and reporting standards |
-| `08-brand-and-voice/` | Jared’s writing style, personal brand system, and communication rules |
-| `09-job-market/` | Role targeting, interview stories, and executive positioning material |
-| `_meta/` | Claim bank, content map, proof-point index, and sensitive-topic guardrails |
-| `design-system/` | Lightweight visual and token system for future web/portfolio work |
+| `05-templates/` | Executive-ready templates and meeting guides |
+| `06-reference/` | Small reference models for signal quality, outcome logic, and decision support |
+| `08-brand-and-voice/` | Writing style, personal brand system, and communication rules |
+| `09-job-market/` | Private positioning material for role targeting, interview stories, and recruiter conversations |
+| `10-thought-leadership/` | Public POV files from articles, platform shifts, and media strategy themes |
+| `notes/` | Review notes, source maps, and maintenance guidance |
+| `_meta/` | Content map and repo metadata |
+| `design-system/` | Lightweight visual/token system for future web or portfolio work; intentionally in progress |
 
 ## Signature frameworks
 
 ### The first 90 days
 
-1. **Days 1–30:** Listen hard. Map reality. Find the leaks.
-2. **Days 31–60:** Rebuild the layer that makes execution trustworthy.
-3. **Days 61–90:** Move from recovery mode to operating rhythm.
+1. **Days 1-30:** Listen hard. Map reality. Find the leaks.
+2. **Days 31-60:** Rebuild the layer that makes execution trustworthy.
+3. **Days 61-90:** Move from recovery mode to operating rhythm.
 
 By day 90, leadership should know what is working, what is risky, who owns what, and where to invest next.
 
@@ -77,16 +60,6 @@ By day 90, leadership should know what is working, what is risky, who owns what,
 - Decision-ready communication
 - Reusable operating models
 
-## Selected proof points
-
-- 15+ years across paid media, CRO, analytics, and marketing operations
-- $100M+ global media programs across Google, Alphabet, Samsung, and SAP
-- 180+ institution portfolio experience in education growth systems
-- $15M+ media investment oversight in a PE-backed education environment
-- 500% lift in approved applications for WEX through paid media and full-funnel restructuring
-- 86% YoY growth in web-qualified engagements at Stand Together
-- Lead-to-enrollment improvement from roughly 17% to 28% after channel-mix correction
-
 ## How to read this repo
 
 Start here:
@@ -99,8 +72,12 @@ Start here:
 
 If you are evaluating me for a senior growth, performance marketing, CMO-adjacent, marketing operations, or AI-enabled transformation role, this repo is meant to show the work behind the resume.
 
+## Review standard
+
+The repo should not sound more certain than the source material. Metrics, titles, case studies, and public-facing summaries should stay grounded in resume, portfolio, deck, article, or source-note support.
+
 ## IP and usage
 
-This repository contains Jared Silverman’s personal intellectual property, professional positioning, frameworks, templates, and work samples. It is shared for evaluation, collaboration, and professional context. It is not licensed for reuse, resale, training, or commercial adaptation without permission.
+This repository contains Jared Silverman's personal intellectual property, professional positioning, frameworks, templates, and work samples. It is shared for evaluation, collaboration, and professional context. It is not licensed for reuse, resale, training, or commercial adaptation without permission.
 
 © 2026 Jared Silverman. All rights reserved.
