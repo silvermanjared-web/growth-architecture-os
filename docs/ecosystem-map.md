@@ -13,7 +13,7 @@ The goal is not to present unrelated projects. The goal is to show how growth le
 | `marketing-intelligence-agent` | Intelligence and monitoring layer | AI-assisted monitoring, signal detection, risk triage, and briefing workflows |
 | `marketing-ops-toolkit` | Utility and automation layer | Practical scripts and tools for marketing operations, audits, reporting, and campaign-health workflows |
 | `marketing-ops-playbooks` | Repeatable method layer | Playbooks for taxonomy, QA, funnel review, governance, and performance diagnostics |
-| `brand-context-system` | Intake and context layer | Structured collection of brand rules, voice, code references, Figma notes, assets, examples, and prompts |
+| `brand-context-system` | Intake and context layer | Working context bundle with structured JSON, demo source notes, selected code samples, asset manifests, Figma metadata, prompts, example output, and validation |
 | `brand-design-system-starter` | Implementation and handoff layer | Tokens, foundations, component specs, CSS variables, and AI-assisted front-end handoff |
 
 ## Supporting navigation
