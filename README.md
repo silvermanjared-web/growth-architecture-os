@@ -63,7 +63,7 @@ flowchart TD
 | `03-playbooks/` | Practical playbooks for diagnosis, triage, testing, taxonomy, and media correction |
 | `04-ai-systems/` | AI-enabled marketing operations, agent workflows, prompt patterns, and risk controls |
 | `05-templates/` | Executive-ready templates and meeting guides |
-| `06-reference/` | Small reference models for signal quality, outcome logic, and decision support |
+| `06-reference/` | Small reference models for signal quality, outcome logic, financial translation, and decision support |
 | `07-data-dictionaries/` | Shared KPI, funnel, taxonomy, and reporting language |
 | `08-brand-and-voice/` | Writing style, personal brand system, and communication rules |
 | `09-job-market/` | Private positioning material for role targeting, interview stories, and recruiter conversations |
@@ -112,7 +112,7 @@ By day 90, leadership should know what is working, what is risky, who owns what,
 
 ## How to read this repo
 
-For a narrative on how this GitHub ecosystem fits together, see [`docs/why-i-run-growth-like-a-platform-team.md`](docs/why-i-run-growth-like-a-platform-team.md). For a concise repo-by-repo map, see [`docs/ecosystem-map.md`](docs/ecosystem-map.md). For shared terminology, see [`docs/common-language.md`](docs/common-language.md). For role-specific reader paths, see [`docs/evaluator-paths.md`](docs/evaluator-paths.md).
+For a narrative on how this GitHub ecosystem fits together, see [`docs/why-i-run-growth-like-a-platform-team.md`](docs/why-i-run-growth-like-a-platform-team.md). For a concise repo-by-repo map, see [`docs/ecosystem-map.md`](docs/ecosystem-map.md). For shared terminology, see [`docs/common-language.md`](docs/common-language.md). For role-specific reader paths, see [`docs/evaluator-paths.md`](docs/evaluator-paths.md). For finance-first evaluators, see [`06-reference/media-metrics-to-financial-outcomes.md`](06-reference/media-metrics-to-financial-outcomes.md).
 
 Start here:
 
@@ -130,6 +130,7 @@ If you are evaluating me for a senior growth, performance marketing, CMO-adjacen
 - [GitHub Ecosystem Map](docs/ecosystem-map.md)
 - [Common Language](docs/common-language.md)
 - [Evaluator Paths](docs/evaluator-paths.md)
+- [Media Metrics to Financial Outcomes](06-reference/media-metrics-to-financial-outcomes.md)
 
 ## Review standard
 
