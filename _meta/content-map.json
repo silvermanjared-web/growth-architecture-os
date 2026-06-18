@@ -1,0 +1,22 @@
+{
+  "repo": "growth-architecture-os",
+  "owner": "Jared Silverman",
+  "purpose": "Executive positioning, growth architecture frameworks, playbooks, case studies, AI workflows, and templates.",
+  "primary_audience": [
+    "CMOs",
+    "growth executives",
+    "recruiters",
+    "founders",
+    "PE-backed operators",
+    "AI-assisted writing and strategy tools"
+  ],
+  "folders": {
+    "00-positioning": "Narrative, bio, operating style, leadership principles, and proof points.",
+    "01-case-studies": "Public-safe project and operating-model case studies.",
+    "02-growth-architecture": "Reusable frameworks for media, CRO, agency governance, and reporting.",
+    "03-playbooks": "Practical execution playbooks.",
+    "04-ai-systems": "AI-enabled workflows, prompt patterns, and governance.",
+    "05-templates": "Reusable executive-ready templates.",
+    "08-brand-and-voice": "Writing style and personal brand guidance."
+  }
+}
