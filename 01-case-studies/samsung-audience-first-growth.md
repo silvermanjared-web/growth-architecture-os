@@ -14,7 +14,7 @@ Rebuilt the strategy around audience-first segmentation, refined measurement mod
 
 ## Outcome
 
-Public portfolio materials cite major investment expansion during this period. Keep this case study framed as part of broader enterprise media experience rather than a standalone claim about the full aggregate portfolio.
+Public portfolio materials cite major investment expansion during this period, with the audience-first model becoming a lasting reference point.
 
 ## Jared's role
 
