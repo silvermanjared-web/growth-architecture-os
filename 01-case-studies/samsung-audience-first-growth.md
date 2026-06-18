@@ -2,11 +2,11 @@
 
 ## Context
 
-A major consumer technology brand needed to move beyond legacy media planning and scale investment with stronger relevance.
+A major consumer technology brand needed to move beyond legacy media planning and scale with stronger relevance.
 
 ## Challenge
 
-The existing digital media approach was too rooted in keyword-first thinking. Investment potential was high, but the operating model and team routines needed to catch up.
+The existing digital media approach was too rooted in keyword-first thinking. Opportunity was high, but the operating model and team routines needed to catch up.
 
 ## Approach
 
@@ -14,7 +14,7 @@ Rebuilt the strategy around audience-first segmentation, refined measurement mod
 
 ## Outcome
 
-Public portfolio materials cite a doubling of media investment to $100M in six months, with the audience-first model becoming a lasting reference point.
+Public portfolio materials cite major investment expansion during this period. Keep this case study framed as part of broader enterprise media experience rather than a standalone claim about the full aggregate portfolio.
 
 ## Jared's role
 
