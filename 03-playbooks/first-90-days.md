@@ -98,7 +98,7 @@ By this point, the question should shift from `what is broken?` to `how do we ru
 - Exception-based management rhythm
 - Next-quarter roadmap
 
-## Political QA
+## Stakeholder QA
 
 No takeover theater. No surprise blame. No vague ownership.
 
