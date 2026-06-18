@@ -35,6 +35,8 @@ flowchart TD
 
 Growth Architecture OS is the center of the public portfolio. The supporting repos show how specific parts of the operating system become reusable tools, playbooks, context systems, and implementation layers.
 
+For the canonical portfolio map and recommended reader paths, see [`docs/ecosystem-map.md`](docs/ecosystem-map.md).
+
 ```mermaid
 flowchart TD
     OS[Growth Architecture OS] --> MI[Marketing Intelligence Agent]
@@ -108,7 +110,7 @@ By day 90, leadership should know what is working, what is risky, who owns what,
 
 ## How to read this repo
 
-For a narrative on how this GitHub ecosystem fits together, see [`docs/why-i-run-growth-like-a-platform-team.md`](docs/why-i-run-growth-like-a-platform-team.md).
+For a narrative on how this GitHub ecosystem fits together, see [`docs/why-i-run-growth-like-a-platform-team.md`](docs/why-i-run-growth-like-a-platform-team.md). For a concise repo-by-repo map, see [`docs/ecosystem-map.md`](docs/ecosystem-map.md).
 
 Start here:
 
@@ -123,6 +125,7 @@ If you are evaluating me for a senior growth, performance marketing, CMO-adjacen
 ## Further reading
 
 - [Why I Run Growth Like a Platform Team](docs/why-i-run-growth-like-a-platform-team.md)
+- [GitHub Ecosystem Map](docs/ecosystem-map.md)
 
 ## Review standard
 
