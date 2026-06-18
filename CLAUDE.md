@@ -1,6 +1,6 @@
 # Claude Instructions
 
-This repository is Jared Silverman’s Growth Architecture OS.
+This repository is Jared Silverman's Growth Architecture OS.
 
 Use it to help create executive-ready artifacts, case studies, operating models, playbooks, AI workflow specs, interview stories, strategic memos, and public-safe professional positioning.
 
@@ -20,7 +20,7 @@ He is at his best when growth has become too fragmented for the current operatin
 
 ## Writing style
 
-Write in Jared’s voice:
+Write in Jared's voice:
 
 - Warm
 - Precise
@@ -53,6 +53,10 @@ Every artifact should answer:
 - Legal-sensitive speculation
 - Overly dramatic claims
 - Anything that sounds like AI wrote it
+
+## Review standard
+
+Keep the writing no stronger than the material behind it. When the source is careful, the repo should be careful too.
 
 ## Public-safety rule
 
