@@ -33,6 +33,7 @@ I build the operating system underneath growth: the visibility, standards, QA, c
 | `10-thought-leadership/` | Public POV files from articles, platform shifts, and media strategy themes |
 | `_meta/` | Content map, source index, and repo metadata |
 | `design-system/` | Lightweight visual/token system for future web or portfolio work; intentionally in progress |
+| `docs/` | Longer thesis and explanatory articles behind the operating system |
 | `GOVERNANCE.md` | Public governance standard for claim discipline, source support, and public safety |
 | `proof-points.md` | Root alias for the canonical claim bank in `00-positioning/` |
 
@@ -73,6 +74,10 @@ Start here:
 5. `04-ai-systems/ai-operating-model.md`
 
 If you are evaluating me for a senior growth, performance marketing, CMO-adjacent, marketing operations, or AI-enabled transformation role, this repo is meant to show the work behind the resume.
+
+## Further reading
+
+- [Why I Run Growth Like a Platform Team](docs/why-i-run-growth-like-a-platform-team.md)
 
 ## Review standard
 
