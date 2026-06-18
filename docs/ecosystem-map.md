@@ -43,35 +43,9 @@ That means the portfolio is not only about campaign execution. It is about the i
 - reusable playbooks
 - implementation-ready handoff systems
 
-## Recommended reading paths
+## Reader paths
 
-### For growth leadership
-
-1. `growth-architecture-os`
-2. `marketing-ops-playbooks`
-3. `marketing-ops-toolkit`
-
-### For marketing operations and AI workflows
-
-1. `growth-architecture-os`
-2. `marketing-intelligence-agent`
-3. `marketing-ops-toolkit`
-4. `marketing-ops-playbooks`
-
-### For brand, design, and front-end handoff
-
-1. `brand-context-system`
-2. `brand-design-system-starter`
-3. `growth-architecture-os`
-
-### For quick evaluation
-
-1. Profile README
-2. Growth Architecture OS README
-3. Brand Design System Starter README
-4. Marketing Intelligence Agent README
-
-For more detailed audience-specific paths, see [Evaluator Paths](evaluator-paths.md).
+For audience-specific reading paths, see [Evaluator Paths](evaluator-paths.md).
 
 ## Source-of-truth note
 
