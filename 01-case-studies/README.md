@@ -1,27 +1,19 @@
 # Case Studies
 
-These case studies are written to show how Jared thinks, not to expose confidential operating detail.
+These files show the operating pattern behind Jared's work.
 
-Each case study follows the same structure:
+## Files in this folder
 
-1. Context
-2. Problem
-3. Diagnosis
-4. Operating move
-5. Result or signal
-6. Reusable lesson
+- `ohdela-cro-roadmap.md`
+- `pansophic-growth-system.md`
+- `pansophic-rapid-campaign-launch.md`
+- `np-digital-paid-media-reset.md`
+- `wex-app-growth-rebuild.md`
+- `stand-together-ffia-measurement.md`
+- `global-enterprise-enablement.md`
+- `samsung-audience-first-growth.md`
+- `sap-global-sem-playbooks.md`
 
-The goal is to make the pattern visible: diagnose before prescribing, separate system issues from channel noise, sequence work by dependency, and build the operating model that lets performance improve.
+## Standard
 
-## Included case studies
-
-- `ohdela-cro-roadmap.md` — CRO roadmap and enrollment conversion operating model
-- `pansophic-growth-system.md` — multi-brand education growth system and operating model
-- `np-digital-paid-media-reset.md` — paid media division restructuring and QA discipline
-- `stand-together-paid-media-rebuild.md` — paid media operation rebuild for advocacy/philanthropy environment
-- `global-enterprise-media.md` — global media leadership across Google, Samsung, SAP, and Alphabet environments
-- `ai-enabled-marketing-ops.md` — practical AI workflows for performance monitoring and decision support
-
-## Public-safety note
-
-These are public-safe versions. They preserve the strategic truth while stripping internal detail that does not need to be public.
+Each case study should stay public-safe, specific, and source-aware.
