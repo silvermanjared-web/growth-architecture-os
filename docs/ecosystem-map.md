@@ -16,6 +16,11 @@ The goal is not to present unrelated projects. The goal is to show how growth le
 | `brand-context-system` | Intake and context layer | Structured collection of brand rules, voice, code references, Figma notes, assets, examples, and prompts |
 | `brand-design-system-starter` | Implementation and handoff layer | Tokens, foundations, component specs, CSS variables, and AI-assisted front-end handoff |
 
+## Supporting navigation
+
+- [Common Language](common-language.md) defines the shared terms used across the ecosystem.
+- [Evaluator Paths](evaluator-paths.md) gives role-specific reading paths for different audiences.
+
 ## How the system works
 
 Growth Architecture OS is the hub. It explains the larger operating philosophy: stabilize the system, then scale it.
@@ -65,6 +70,8 @@ That means the portfolio is not only about campaign execution. It is about the i
 2. Growth Architecture OS README
 3. Brand Design System Starter README
 4. Marketing Intelligence Agent README
+
+For more detailed audience-specific paths, see [Evaluator Paths](evaluator-paths.md).
 
 ## Source-of-truth note
 
