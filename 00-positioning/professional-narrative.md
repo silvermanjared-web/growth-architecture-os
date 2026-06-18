@@ -20,6 +20,8 @@ I map how demand actually moves. I identify where measurement is trusted, broken
 
 ## What I am best hired to own
 
+The common thread is ownership of the connective tissue between performance, measurement, partners, and leadership decisions.
+
 - Performance marketing leadership across brands, channels, agencies, and internal teams
 - Media investment strategy, allocation, and ROI accountability across $10M to $100M+ programs
 - Full-funnel growth systems across paid media, CRO, analytics, CRM, and enrollment or revenue operations
