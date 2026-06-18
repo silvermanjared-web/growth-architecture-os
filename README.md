@@ -65,6 +65,8 @@ By day 90, leadership should know what is working, what is risky, who owns what,
 
 ## How to read this repo
 
+For a narrative on how this GitHub ecosystem fits together, see [`docs/why-i-run-growth-like-a-platform-team.md`](docs/why-i-run-growth-like-a-platform-team.md).
+
 Start here:
 
 1. `00-positioning/professional-narrative.md`
