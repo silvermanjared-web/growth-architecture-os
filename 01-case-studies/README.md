@@ -2,6 +2,8 @@
 
 These files show the operating pattern behind Jared's work.
 
+These are not exhaustive project archives. They are public-safe examples of how Jared diagnoses systems, sequences work, and turns growth problems into repeatable operating patterns.
+
 ## Index
 
 | File | Focus |
