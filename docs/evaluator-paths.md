@@ -40,6 +40,24 @@ What to look for:
 - how I use taxonomy and reporting standards to improve accountability
 - how I make performance easier for executives to understand
 
+## If you are evaluating finance-linked growth judgment
+
+Start here:
+
+1. `06-reference/media-metrics-to-financial-outcomes.md`
+2. `03-playbooks/first-90-days.md`
+3. `02-growth-architecture/performance-media-operating-model.md`
+4. `01-case-studies/`
+5. `proof-points.md`
+
+What to look for:
+
+- how I translate media signals into investment questions
+- how I connect CAC, LTV, payback, retention, and forecast variance to operating decisions
+- how I separate performance reporting from financial proof
+- how I avoid overstating revenue or enterprise-value impact without source support
+- how I make channel performance legible to finance-first evaluators
+
 ## If you are evaluating marketing operations
 
 Start here:
