@@ -27,11 +27,12 @@ I build the operating system underneath growth: the visibility, standards, QA, c
 | `04-ai-systems/` | AI-enabled marketing operations, agent workflows, prompt patterns, and risk controls |
 | `05-templates/` | Executive-ready templates and meeting guides |
 | `06-reference/` | Small reference models for signal quality, outcome logic, and decision support |
+| `07-data-dictionaries/` | Shared KPI, funnel, taxonomy, and reporting language |
 | `08-brand-and-voice/` | Writing style, personal brand system, and communication rules |
 | `09-job-market/` | Private positioning material for role targeting, interview stories, and recruiter conversations |
 | `10-thought-leadership/` | Public POV files from articles, platform shifts, and media strategy themes |
 | `notes/` | Review notes, source maps, and maintenance guidance |
-| `_meta/` | Content map and repo metadata |
+| `_meta/` | Content map, source index, and repo metadata |
 | `design-system/` | Lightweight visual/token system for future web or portfolio work; intentionally in progress |
 
 ## Signature frameworks
