@@ -9,12 +9,17 @@
 - CRO roadmap deck
 - Jared Media Group website
 - Public portfolio case studies
+- Published articles and article text provided by Jared
 
 ## How to use sources
 
 Use source material to support claims, shape language, and preserve Jared's actual operating logic.
 
 Do not turn source material into confidential disclosure. Public-facing repo content should preserve the truth while removing unnecessary internal detail.
+
+## Canonical claim bank
+
+Use `00-positioning/proof-points.md` as the canonical claim bank and metric-control file.
 
 ## Public web source themes
 
