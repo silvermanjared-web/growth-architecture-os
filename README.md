@@ -31,6 +31,26 @@ flowchart TD
     H --> I[More visible, governable, repeatable growth]
 ```
 
+## Ecosystem map
+
+Growth Architecture OS is the center of the public portfolio. The supporting repos show how specific parts of the operating system become reusable tools, playbooks, context systems, and implementation layers.
+
+```mermaid
+flowchart TD
+    OS[Growth Architecture OS] --> MI[Marketing Intelligence Agent]
+    OS --> Toolkit[Marketing Ops Toolkit]
+    OS --> Playbooks[Marketing Ops Playbooks]
+    OS --> Context[Brand Context System]
+    Context --> Starter[Brand Design System Starter]
+    OS --> Starter
+
+    MI --> Briefs[Monitoring and executive briefs]
+    Toolkit --> Automation[Operational scripts]
+    Playbooks --> Repeatable[Repeatable governance methods]
+    Context --> Inputs[Brand, code, Figma, assets]
+    Starter --> Tokens[Tokens, foundations, components]
+```
+
 ## Repo map
 
 | Folder / File | Purpose |
@@ -51,6 +71,14 @@ flowchart TD
 | `docs/` | Longer thesis and explanatory articles behind the operating system |
 | `GOVERNANCE.md` | Public governance standard for claim discipline, source support, and public safety |
 | `proof-points.md` | Root alias for the canonical claim bank in `00-positioning/` |
+
+## Related repos
+
+- [`marketing-intelligence-agent`](https://github.com/silvermanjared-web/marketing-intelligence-agent) — local marketing intelligence, monitoring, risk detection, and briefing workflows.
+- [`marketing-ops-toolkit`](https://github.com/silvermanjared-web/marketing-ops-toolkit) — practical automation scripts for marketing operations, audits, reporting, and campaign-health workflows.
+- [`marketing-ops-playbooks`](https://github.com/silvermanjared-web/marketing-ops-playbooks) — repeatable playbooks for taxonomy governance, data validation, funnel QA, and performance diagnostics.
+- [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system) — structured context bundle for AI-assisted design and front-end work.
+- [`brand-design-system-starter`](https://github.com/silvermanjared-web/brand-design-system-starter) — portable design-system starter for tokens, foundations, components, CSS variables, and AI-assisted handoff.
 
 ## Signature frameworks
 
