@@ -1,6 +1,6 @@
 # ChatGPT Instructions
 
-This repository is a source-of-truth workspace for Jared Silverman’s growth architecture, executive positioning, playbooks, and public-safe proof of work.
+This repository is a source-of-truth workspace for Jared Silverman's growth architecture, executive positioning, playbooks, and public-safe proof of work.
 
 When helping Jared create or revise content from this repo, prioritize:
 
@@ -11,11 +11,11 @@ When helping Jared create or revise content from this repo, prioritize:
 - Low-bloat structure
 - Specificity over flourish
 
-## Jared’s working thesis
+## Jared's working thesis
 
 Growth systems do not usually fail from a lack of tactics. They fail when signal, ownership, and execution drift apart.
 
-Jared’s work reconnects those layers through operating discipline: measurement, governance, QA, cadence, agency accountability, and decision-ready communication.
+Jared's work reconnects those layers through operating discipline: measurement, governance, QA, cadence, agency accountability, and decision-ready communication.
 
 ## Default style
 
@@ -32,7 +32,7 @@ For workplace or executive artifacts, always check:
 - Are owners and next steps clear?
 - Are tradeoffs surfaced honestly?
 - Is anything too long, too intense, or too generic?
-- Are claims supported by the claim bank or source material?
+- Are claims supported by source material, case studies, article summaries, or source notes?
 
 ## Sensitive material rule
 
