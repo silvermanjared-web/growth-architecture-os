@@ -35,7 +35,7 @@ flowchart TD
 
 Growth Architecture OS is the center of the public portfolio. The supporting repos show how specific parts of the operating system become reusable tools, playbooks, context systems, and implementation layers.
 
-For the canonical portfolio map and recommended reader paths, see [`docs/ecosystem-map.md`](docs/ecosystem-map.md).
+For the canonical portfolio map and supporting navigation, see [`docs/ecosystem-map.md`](docs/ecosystem-map.md).
 
 ```mermaid
 flowchart TD
@@ -49,7 +49,7 @@ flowchart TD
     MI --> Briefs[Monitoring and executive briefs]
     Toolkit --> Automation[Operational scripts]
     Playbooks --> Repeatable[Repeatable governance methods]
-    Context --> Inputs[Brand, code, Figma, assets]
+    Context --> Inputs[Structured context bundle]
     Starter --> Tokens[Tokens, foundations, components]
 ```
 
