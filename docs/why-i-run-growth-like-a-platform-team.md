@@ -6,7 +6,11 @@ A campaign can miss a target because the media mix is wrong. It can also miss be
 
 Those are not just campaign problems. They are system problems.
 
+Campaigns are the symptom. The operating system is the cause.
+
 That is why I think about growth the way a strong engineering organization thinks about platforms.
+
+This GitHub ecosystem is the public version of that platform thinking.
 
 ## The platform-team idea
 
