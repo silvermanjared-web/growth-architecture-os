@@ -1,5 +1,7 @@
 # Role Targeting
 
+This file is for private positioning, recruiter conversations, and role evaluation. Do not copy it directly into public-facing repo summaries without review.
+
 ## Best-fit roles
 
 - VP Growth
