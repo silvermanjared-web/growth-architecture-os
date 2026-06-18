@@ -112,7 +112,7 @@ By day 90, leadership should know what is working, what is risky, who owns what,
 
 ## How to read this repo
 
-For a narrative on how this GitHub ecosystem fits together, see [`docs/why-i-run-growth-like-a-platform-team.md`](docs/why-i-run-growth-like-a-platform-team.md). For a concise repo-by-repo map, see [`docs/ecosystem-map.md`](docs/ecosystem-map.md).
+For a narrative on how this GitHub ecosystem fits together, see [`docs/why-i-run-growth-like-a-platform-team.md`](docs/why-i-run-growth-like-a-platform-team.md). For a concise repo-by-repo map, see [`docs/ecosystem-map.md`](docs/ecosystem-map.md). For shared terminology, see [`docs/common-language.md`](docs/common-language.md). For role-specific reader paths, see [`docs/evaluator-paths.md`](docs/evaluator-paths.md).
 
 Start here:
 
@@ -128,6 +128,8 @@ If you are evaluating me for a senior growth, performance marketing, CMO-adjacen
 
 - [Why I Run Growth Like a Platform Team](docs/why-i-run-growth-like-a-platform-team.md)
 - [GitHub Ecosystem Map](docs/ecosystem-map.md)
+- [Common Language](docs/common-language.md)
+- [Evaluator Paths](docs/evaluator-paths.md)
 
 ## Review standard
 
