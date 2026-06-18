@@ -16,6 +16,21 @@ This repo documents the system I use to solve that problem.
 
 I build the operating system underneath growth: the visibility, standards, QA, cadence, and decision logic that make spend easier to manage and performance easier to improve.
 
+```mermaid
+flowchart TD
+    A[Messy growth environment] --> B[Diagnostic lenses]
+    B --> C[Operating system layer]
+    C --> D[Playbooks and templates]
+    C --> E[Data dictionaries and taxonomy]
+    C --> F[AI-enabled workflows]
+    C --> G[Governance and decision cadence]
+    D --> H[Clearer execution]
+    E --> H
+    F --> H
+    G --> H
+    H --> I[More visible, governable, repeatable growth]
+```
+
 ## Repo map
 
 | Folder / File | Purpose |
