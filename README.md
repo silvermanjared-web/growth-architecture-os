@@ -140,4 +140,6 @@ The repo should not sound more certain than the source material. Metrics, titles
 
 This repository contains Jared Silverman's personal intellectual property, professional positioning, frameworks, templates, and work samples. It is shared for evaluation, collaboration, and professional context. It is not licensed for reuse, resale, training, or commercial adaptation without permission.
 
+Usage and rights: see [USAGE.md](USAGE.md).
+
 © 2026 Jared Silverman. All rights reserved.
