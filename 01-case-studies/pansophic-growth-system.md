@@ -54,7 +54,7 @@ This made experimentation less ad hoc and more manageable across agency, web, an
 
 ### Correct channel mix where the funnel showed distortion
 
-In one brick-and-mortar school environment, media had become too search-heavy. Reintegrating YouTube into the channel mix helped improve lead-to-enrollment rate from roughly 17% to 28%, which then informed future allocation planning.
+In one brick-and-mortar school environment, media had become too search-heavy. Reintegrating YouTube into the channel mix helped improve the downstream enrollment signal and informed future allocation planning.
 
 ### Protect in-housing from becoming disruption
 
