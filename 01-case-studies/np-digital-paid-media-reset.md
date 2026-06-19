@@ -48,7 +48,9 @@ Developed capability audits and channel roadmaps that opened new growth paths ac
 
 ### Delivered measurable client impact
 
-For WEX, a phased account rebuild and tighter investment discipline drove a 500% lift in approved applications.
+For WEX, a phased account rebuild and tighter investment discipline supported ~500% growth in approved applications.
+
+This is an application-stage metric, not a revenue, margin, or enterprise-value claim. The point is that stronger account structure, KPI alignment, QA discipline, and measurement clarity helped the acquisition system optimize against a cleaner operating signal.
 
 ## Why this matters
 
