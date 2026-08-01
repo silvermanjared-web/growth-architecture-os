@@ -14,9 +14,16 @@ Do not read the repository front to back. Start with the question you are trying
 |---|---|
 | Can I run a complex growth system? | [`02-growth-architecture/performance-media-operating-model.md`](02-growth-architecture/performance-media-operating-model.md) |
 | Can I connect media performance to business economics without overstating causality? | [`06-reference/media-metrics-to-financial-outcomes.md`](06-reference/media-metrics-to-financial-outcomes.md) |
-| Is there a concrete, source-bounded outcome? | [`01-case-studies/wex-app-growth-rebuild.md`](01-case-studies/wex-app-growth-rebuild.md) |
+| Can I show proven outcomes? | See the two bounded case studies below. |
 | Can I establish an operating rhythm quickly? | [`03-playbooks/first-90-days.md`](03-playbooks/first-90-days.md) |
 | Is the AI work governed and useful? | [`04-ai-systems/ai-operating-model.md`](04-ai-systems/ai-operating-model.md) |
+
+### Proven outcomes
+
+| Case study | Bounded evidence |
+|---|---|
+| [App Growth Rebuild](01-case-studies/wex-app-growth-rebuild.md) | Approved applications grew ~500% after the rebuild; application-stage only |
+| [Education Performance Media Rebuild](01-case-studies/education-performance-media-rebuild.md) | Directional cost-per-enrollment, approved-application efficiency, and portfolio pacing improvements |
 
 ## What this repo is
 
@@ -78,7 +85,7 @@ flowchart TD
 | `06-reference/` | Small reference models for signal quality, outcome logic, financial translation, and decision support |
 | `07-data-dictionaries/` | Shared KPI, funnel, taxonomy, and reporting language |
 | `08-brand-and-voice/` | Writing style, personal brand system, and communication rules |
-| `09-job-market/` | Private positioning material for role targeting, interview stories, and recruiter conversations |
+| `09-positioning/` | Private positioning material for role targeting, interview stories, and recruiter conversations |
 | `10-thought-leadership/` | Public POV files from articles, platform shifts, and media strategy themes |
 | `_meta/` | Content map, source index, and repo metadata |
 | `design-system/` | Lightweight visual/token system for future web or portfolio work; intentionally in progress |
