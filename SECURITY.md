@@ -62,3 +62,9 @@ Do not exploit the vulnerability, access data that does not belong to you, or pe
 This security policy applies only to this repository and its contents.
 
 It does not apply to third-party tools, platforms, vendors, or services referenced by the project. Please report vulnerabilities in those systems through their official security channels.
+
+## Branch Protection
+
+Main branch force-push and deletion protection is enforced via GitHub branch
+protection rules. Direct pushes to main are blocked; all changes require a
+pull request with passing CI.
