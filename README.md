@@ -18,7 +18,7 @@ Do not read the repository front to back. Start with the question you are trying
 | Can I establish an operating rhythm quickly? | [`03-playbooks/first-90-days.md`](03-playbooks/first-90-days.md) |
 | Is the AI work governed and useful? | [`04-ai-systems/ai-operating-model.md`](04-ai-systems/ai-operating-model.md) |
 
-### Proven outcomes
+### Bounded evidence
 
 | Case study | Bounded evidence |
 |---|---|
