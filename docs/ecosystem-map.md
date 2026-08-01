@@ -15,6 +15,7 @@ The goal is not to present unrelated projects. The goal is to show how growth le
 | `marketing-ops-playbooks` | Repeatable method layer | Playbooks for taxonomy, QA, funnel review, governance, and performance diagnostics |
 | `brand-context-system` | Intake and context layer | Working context bundle with structured JSON, demo source notes, selected code samples, asset manifests, Figma metadata, prompts, example output, and validation |
 | `brand-design-system-starter` | Implementation and handoff layer | Tokens, foundations, component specs, CSS variables, and AI-assisted front-end handoff |
+| `private-to-public-release-gate` | Publication-governance layer | Privacy scanning, explicit exclusions, allowlisted overlays, and Git-aware drift checks for reviewed public derivatives of private systems |
 
 ## Supporting navigation
 
@@ -29,6 +30,8 @@ The marketing operations repos show how that operating philosophy becomes practi
 
 The brand and design-system repos show a related implementation pattern: collect the right context first, then turn that context into reusable front-end structure.
 
+The release-gate repo defines the publication boundary around the ecosystem. It shows how a reusable pattern can move from a private canonical system into a reviewed public artifact without treating matching repository trees as proof that the content is safe. It is a governance pattern for private-derived releases, not a claim that every repository in this portfolio is generated from private source.
+
 ## Portfolio logic
 
 The repos are organized around one central idea: growth systems become easier to scale when the underlying operating model is visible, governable, and repeatable.
@@ -42,6 +45,7 @@ That means the portfolio is not only about campaign execution. It is about the i
 - AI-assisted workflows
 - reusable playbooks
 - implementation-ready handoff systems
+- privacy-aware publication controls
 
 ## Reader paths
 
