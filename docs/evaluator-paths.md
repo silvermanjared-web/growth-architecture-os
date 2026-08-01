@@ -152,15 +152,15 @@ What to look for:
 
 ## If you only have five minutes
 
-Read these in order:
+Pick the question that matters most and inspect the evidence directly:
 
-1. Profile README
-2. Growth Architecture OS README
-3. `docs/ecosystem-map.md`
-4. `docs/evaluator-paths.md`
-5. Brand Design System Starter README
+1. **Growth leadership:** [`02-growth-architecture/performance-media-operating-model.md`](../02-growth-architecture/performance-media-operating-model.md)
+2. **Business and financial judgment:** [`06-reference/media-metrics-to-financial-outcomes.md`](../06-reference/media-metrics-to-financial-outcomes.md)
+3. **Concrete outcome evidence:** [`01-case-studies/wex-app-growth-rebuild.md`](../01-case-studies/wex-app-growth-rebuild.md)
+4. **Operating cadence:** [`03-playbooks/first-90-days.md`](../03-playbooks/first-90-days.md)
+5. **Governed AI capability:** [`04-ai-systems/ai-operating-model.md`](../04-ai-systems/ai-operating-model.md)
 
-That gives the shortest view of the portfolio, the operating-system thesis, the repo ecosystem, and one concrete implementation layer.
+These are inspection paths, not a claim that every artifact proves downstream revenue or enterprise value. The case studies and reference models state their own evidence boundaries.
 
 ## Reading rule
 
