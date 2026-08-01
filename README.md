@@ -6,6 +6,18 @@ This repository is not a portfolio in the usual sense. It is a structured view o
 
 My work sits at the intersection of performance media, CRO, analytics, marketing operations, agency governance, and AI-enabled workflows. The throughline is simple: **stabilize the system, then scale it.**
 
+## Five-minute proof
+
+Do not read the repository front to back. Start with the question you are trying to answer.
+
+| Question | Evidence |
+|---|---|
+| Can I run a complex growth system? | [`02-growth-architecture/performance-media-operating-model.md`](02-growth-architecture/performance-media-operating-model.md) |
+| Can I connect media performance to business economics without overstating causality? | [`06-reference/media-metrics-to-financial-outcomes.md`](06-reference/media-metrics-to-financial-outcomes.md) |
+| Is there a concrete, source-bounded outcome? | [`01-case-studies/wex-app-growth-rebuild.md`](01-case-studies/wex-app-growth-rebuild.md) |
+| Can I establish an operating rhythm quickly? | [`03-playbooks/first-90-days.md`](03-playbooks/first-90-days.md) |
+| Is the AI work governed and useful? | [`04-ai-systems/ai-operating-model.md`](04-ai-systems/ai-operating-model.md) |
+
 ## What this repo is
 
 Growth usually does not break because a team lacks tactics. It breaks because the operating model is unclear: spend moves faster than measurement, agencies execute without a shared standard, teams debate reports instead of decisions, and leadership sees risk too late.
@@ -114,15 +126,7 @@ By day 90, leadership should know what is working, what is risky, who owns what,
 
 For a narrative on how this GitHub ecosystem fits together, see [`docs/why-i-run-growth-like-a-platform-team.md`](docs/why-i-run-growth-like-a-platform-team.md). For a concise repo-by-repo map, see [`docs/ecosystem-map.md`](docs/ecosystem-map.md). For shared terminology, see [`docs/common-language.md`](docs/common-language.md). For role-specific reader paths, see [`docs/evaluator-paths.md`](docs/evaluator-paths.md). For finance-first evaluators, see [`06-reference/media-metrics-to-financial-outcomes.md`](06-reference/media-metrics-to-financial-outcomes.md).
 
-Start here:
-
-1. `00-positioning/professional-narrative.md`
-2. `03-playbooks/first-90-days.md`
-3. `01-case-studies/ohdela-cro-roadmap.md`
-4. `02-growth-architecture/performance-media-operating-model.md`
-5. `04-ai-systems/ai-operating-model.md`
-
-If you are evaluating me for a senior growth, performance marketing, CMO-adjacent, marketing operations, or AI-enabled transformation role, this repo is meant to show the work behind the resume.
+Use the five-minute proof above for a fast inspection, or [`docs/evaluator-paths.md`](docs/evaluator-paths.md) for a role-specific route. The repository is meant to show the work behind the resume, not make you take the resume's claims on faith.
 
 ## Further reading
 
