@@ -54,6 +54,8 @@ flowchart TD
 
 Growth Architecture OS is the center of the public portfolio. The supporting repos show how specific parts of the operating system become reusable tools, playbooks, context systems, and implementation layers.
 
+The [`private-to-public-release-gate`](https://github.com/silvermanjared-web/private-to-public-release-gate) adds the publication-governance layer: it demonstrates how private canonical work can produce a reviewed public artifact through explicit exclusions, privacy scanning, allowlisted overlays, and Git-aware drift checks.
+
 For the canonical portfolio map and supporting navigation, see [`docs/ecosystem-map.md`](docs/ecosystem-map.md).
 
 ```mermaid
