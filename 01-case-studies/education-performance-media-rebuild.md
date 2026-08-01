@@ -29,9 +29,9 @@ The rebuild created a common operating language. Media results could be interpre
 
 ## Outcome
 
-The rebuild reduced cost-per-enrollment, improved approved-application efficiency, and stabilized budget pacing across the portfolio.
+The portfolio observed directional improvements in cost-per-enrollment, approved-application efficiency, and budget pacing alongside this operating-model work.
 
-These are directional operating signals, not claims of revenue, margin, profit, or enterprise-value impact. The bounded result is that a more consistent media and governance system made application-stage performance easier to compare, manage, and improve.
+These are directional operating signals, not isolated causal claims or claims of revenue, margin, profit, or enterprise-value impact. The bounded contribution is that a more consistent media and governance system made application-stage performance easier to compare and manage while broader team, market, product, and institutional factors also influenced results.
 
 ## Jared's role
 
