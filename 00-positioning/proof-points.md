@@ -1,43 +1,47 @@
-# Proof Points / Canonical Claim Bank
+# Proof Points / Governed Claim System
 
-This file is the repo's control point for public-facing claims.
+This is the human-facing entry point to the repository's public claim system.
 
-Use it to keep metrics, case-study language, resume-backed proof, and public positioning grounded in source support. A claim can be useful without being inflated. The standard is simple: public wording should never sound cleaner, broader, or more causal than the evidence behind it.
+The old model was a flat table of approved wording. The current model separates factual authority, claim boundaries, semantic interpretation, evidence routing, and fail-closed escalation.
 
-## Claim-control table
+## Start here
 
-| Proof area | Allowed public wording | Evidence / source basis | Scope | Do not imply | Approved use |
-|---|---|---|---|---|---|
-| Growth systems leadership | I build the operating system underneath growth: visibility, standards, QA, cadence, and decision logic. | Resume-backed operating roles, public-safe portfolio materials, Growth Architecture OS frameworks. | General professional positioning. | Do not imply ownership of every business outcome created by a broader company, agency, product, or executive team. | Profile README, `00-positioning/`, executive narrative, recruiter-facing summaries. |
-| Performance media and CRO | I connect performance media, CRO, measurement, and operating cadence so growth is easier to manage and improve. | Case studies, CRO roadmap examples, media operating-model files, portfolio summaries. | Cross-functional growth operating model. | Do not reduce the claim to channel optimization alone, and do not imply unsupported revenue or margin causality. | README files, case-study intros, interview narratives. |
-| WEX app-growth rebuild | Approved applications grew ~500% after the rebuild. This is an application-stage metric, not a revenue, margin, or enterprise-value claim. | `01-case-studies/wex-app-growth-rebuild.md`; public-safe portfolio claim discipline. | Application-stage acquisition result. | Do not convert this into revenue growth, profitability, valuation, or sole-causality language. | WEX case study, interview story, proof-point summary. |
-| Myron / sub-brand upside | Approximately $500K+ in directional YoY sub-brand revenue upside when the underlying program context is available. | Resume-backed / portfolio-backed directional program context. | Directional sub-brand revenue upside. | Do not imply audited finance ownership, company-wide revenue lift, or isolated media-only causality. | Controlled case-study or interview context only. |
-| SAP growth claim | Public portfolio materials cite roughly 30%+ YoY revenue growth. | Public portfolio / resume-backed materials. | Publicly described portfolio result. | Do not state a clean causal claim unless the source material supports it. | Resume proof context, carefully qualified portfolio summaries. |
-| Samsung scale claim | Distinguish single-program scale from broader aggregate enterprise media experience. | Resume-backed program and enterprise media experience. | Scale / enterprise media credibility. | Do not collapse one program into all-company media scope or overstate budget ownership. | Interview examples, enterprise media positioning. |
-| Current-employer operating work | Use non-numeric operating-signal language: complex portfolio growth system, measurement discipline, agency governance, funnel visibility, and executive decision support. | Public-safe experience summary only. | High-level operating language. | Do not publish internal conversion-rate, enrollment-rate, forecast, agency, personnel, or confidential operational figures. | High-level positioning only. |
-| Marketing operations | I turn recurring marketing operations work into repeatable systems: taxonomy, validation, QA, reporting, and governance. | `marketing-ops-playbooks`, `marketing-ops-toolkit`, data dictionary and playbook files. | Methods, workflows, tools, and operating discipline. | Do not imply every tool is production software unless executable validation or examples support it. | Repo READMEs, methods, playbook summaries. |
-| AI-enabled workflows | I use AI to support source-aware briefs, diagnostics, QA, monitoring, and executive communication while keeping human judgment in the loop. | `04-ai-systems/`, `marketing-intelligence-agent`, public-safe prompt and workflow materials. | AI-assisted operating workflows. | Do not imply autonomous decision-making, private data exposure, or unsupported productionization. | AI workflow docs, portfolio overview, interview examples. |
-| Brand / design-system handoff | I structure brand, design, code, asset, and review context so humans and AI tools can produce more consistent front-end handoff. | `brand-context-system`, `brand-design-system-starter`, validation scripts, token/foundation/component files. | Public-safe brand/design workflow demonstration. | Do not imply a full production design system or client-specific source material unless explicitly supported. | Design-system repo READMEs, profile featured work, implementation examples. |
+- [`claims/README.md`](claims/README.md) — architecture and authority order.
+- [`claims/claims-registry.json`](claims/claims-registry.json) — machine-readable public claim authority.
+- [`claims/semantic-governance.md`](claims/semantic-governance.md) — SG0-SG3 admission and semantic closure.
+- [`claims/semantic-routes.jsonl`](claims/semantic-routes.jsonl) — competency-to-evidence routes.
+- [`claims/intent-aliases.json`](claims/intent-aliases.json) — common phrasings mapped to governed routes.
 
-## Current proof themes
+## Canonical public evidence
 
-- Growth systems leadership
-- Performance media and CRO
-- Marketing operations
-- Agency governance
-- Executive decision support
-- AI-enabled workflows
-- Platform and media strategy
-- Brand and design-system handoff
+| Evidence | Admitted public wording | Critical boundary |
+|---|---|---|
+| Current scope | $15M+ in media across 180+ institutions inside a $700M PE-backed education enterprise | Scale, not formal enterprise P&L or company revenue ownership |
+| Operating transformation | Governed performance-media and CRO model across three business units with five CRO workstreams | Cross-functional governance, not ownership of every function |
+| Capital allocation | Redirected $500K in media investment across priority markets | Do not invent incremental revenue, profit, or savings |
+| Current funnel outcome | Lead-to-enrollment improved from approximately 17% to 28% following a broader nine-school channel-mix correction | Observed after the broader change; never YouTube-only causality |
+| CRO infrastructure | 150+ custom landing pages | Infrastructure scale, not 150+ experiments or a claimed conversion lift |
+| High-pressure execution | 60+ campaigns restructured in under four weeks | Do not attach unrelated downstream outcomes |
+| WEX | Approximately 500% growth in approved applications after a phased rebuild | Approved applications are not revenue or profit |
+| Stand Together | 86% YoY growth in web-qualified engagements while outperforming benchmarks by 3x | Engagement metric, not revenue; 3x is benchmark outperformance |
+| TBC | 85% cost savings for an online-pharmacy client | Engagement-specific, not a portfolio-wide savings claim |
+| Butler/Till | 50% increase in brand SEO adoption | Adoption, not revenue or SEO performance lift |
+| Myron | More than $500K above sub-brand revenue target YoY | Sub-brand scope; do not imply company-wide revenue lift |
+| Essence | $100M+ global programs and 30+ person teams | Program/team scale; 30+ does not mean 30+ direct reports |
+| Starcom / Performics | Doubled managed investment to $100M | Managed investment, not client revenue or profit |
 
-## Metric-use rules
+## Claim rules
 
-- Use exact or approximate metrics only when the supporting source context is known.
-- Keep the metric at the same funnel level as the evidence. Do not turn leads into revenue, applications into profit, or operating improvements into enterprise-value claims.
-- Separate contribution from causality. If a result came from a broader team, market, product, or organizational system, do not write as if one person or one tactic solely caused it.
-- Current-employer material must remain public-safe and non-numeric unless already cleared for public use.
-- When in doubt, use operating-signal language instead of unsupported financial language.
+- Keep every metric at the funnel level supported by its source.
+- Separate scope from outcome and contribution from causality.
+- The canonical resume may clear current-employer metrics for public use; private internal diagnostics remain excluded.
+- Semantic routing may choose or narrow approved evidence. It may never strengthen a claim.
+- If a question does not semantically close against admitted evidence, fail closed rather than filling the gap with plausible language.
+
+## Public-safety standard
+
+The public registry intentionally excludes compensation policy, references, contact data, private application answers, sensitive employer diagnostics, personnel information, and unapproved internal metrics.
 
 ## Standard
 
-Keep claims grounded. Do not make the repo sound more certain than the source material.
+The strongest claim is the strongest claim the evidence actually supports, not the strongest sentence a model can produce.

@@ -14,7 +14,7 @@ Created and deployed unified SEM playbooks across global regions. Supported in-m
 
 ## Outcome
 
-Public portfolio materials cite 30%+ year-over-year revenue growth and adoption of unified SEM systems across business units.
+Public portfolio materials support the adoption of unified SEM systems across business units. The public claim here is enablement and operating-system adoption, not a clean revenue-causality claim.
 
 ## Jared's role
 

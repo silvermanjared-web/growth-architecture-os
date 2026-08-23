@@ -1,0 +1,21 @@
+{
+  "growth_systems_positioning": ["growth leadership", "what kind of leader", "professional positioning", "growth systems"],
+  "enterprise_scale": ["enterprise experience", "portfolio size", "budget scale", "scale of responsibility"],
+  "operating_transformation": ["transformation", "operating model", "change initiative", "governance redesign"],
+  "capital_allocation": ["budget allocation", "investment tradeoff", "move spend", "forecast risk"],
+  "current_growth_outcome": ["channel mix", "enrollment quality", "deep funnel outcome", "current performance result"],
+  "acquisition_rebuild": ["account rebuild", "growth rebuild", "performance turnaround", "acquisition transformation"],
+  "organizational_performance": ["organizational leadership", "rebuild a function", "benchmark outperformance"],
+  "people_leadership": ["team leadership", "direct reports", "large team", "develop teams"],
+  "global_scale": ["global leadership", "international scale", "multi-region", "global programs"],
+  "client_side_agency_governance": ["agency management", "agency accountability", "in-housing", "vendor governance"],
+  "agency_side_transformation": ["agency leadership", "agency operations", "delivery quality", "agency transformation"],
+  "high_pressure_execution": ["urgent turnaround", "peak season", "execute under pressure", "move fast"],
+  "cro_conversion_system": ["CRO", "conversion optimization", "landing pages", "experimentation system"],
+  "measurement_and_attribution": ["measurement", "attribution", "offline conversions", "signal quality"],
+  "revenue_outcome": ["revenue result", "commercial impact", "financial outcome", "revenue growth"],
+  "cost_efficiency": ["cost savings", "efficiency", "reduce cost", "unit economics"],
+  "capability_enablement": ["training", "adoption", "enablement", "capability building"],
+  "portfolio_growth": ["grow budget", "expand investment", "managed investment", "portfolio growth"],
+  "ai_and_automation": ["AI", "automation", "AI governance", "AI-enabled workflows"]
+}

@@ -6,9 +6,9 @@ Use it to help create executive-ready artifacts, case studies, operating models,
 
 ## Who Jared is
 
-Jared Silverman is a senior growth and performance marketing leader with 15+ years across paid media, CRO, analytics, and marketing operations.
+Jared Silverman is a growth systems leader with 15+ years across media investment, CRO, measurement, agency governance, and marketing operations.
 
-His strongest differentiator is building the operating system underneath growth: the measurement integrity, governance architecture, QA routines, reporting cadence, agency standards, and decision logic that make performance easier to manage at scale.
+His strongest differentiator is building the operating system underneath growth: investment logic, CRO, measurement integrity, governance architecture, QA, operating cadence, agency standards, AI-enabled workflows, and executive decision support.
 
 He is not best positioned as a channel tactician. He is best positioned as a growth systems operator.
 

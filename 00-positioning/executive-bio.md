@@ -1,12 +1,12 @@
 # Executive Bio
 
-Jared Silverman is a senior growth and performance marketing leader with 15+ years of experience across paid media, CRO, analytics, and marketing operations.
+Jared Silverman is a growth systems leader with 15+ years across media investment, CRO, measurement, agency governance, and marketing operations.
 
 This repo positions Jared for VP, Head of Growth, and senior growth-architecture roles while keeping the current-role history clear in resume-backed materials.
 
 He specializes in stabilizing and scaling complex growth systems: aligning agencies and internal teams, tightening measurement, improving budget discipline, and building the operating cadence leadership needs to make clear decisions faster.
 
-Jared has led or supported growth programs across Fortune 500, PE-backed, advocacy, education, B2B, and high-growth environments. His experience includes directing $100M+ global media programs for Google, Alphabet, Samsung, and SAP; rebuilding paid media operations at Stand Together; restructuring NP Digital's largest paid media division; and leading performance media and CRO work across a 180+ institution education portfolio.
+Jared has led growth work across PE-backed, enterprise, global, advocacy, education, B2B, healthcare, retail, and financial-services environments. He currently leads $15M+ in media across 180+ institutions; previously directed $100M+ global programs and 30+ person teams, rebuilt paid media operations at Stand Together, and restructured NP Digital's largest paid media division.
 
 His work is grounded in a practical belief: growth improves when the system becomes clearer. That means cleaner signals, better ownership, stronger QA, more useful reporting, and decision logic that makes the next move easier to defend.
 
@@ -14,7 +14,7 @@ Jared's public work includes marketing operations repositories and AI-enabled wo
 
 ## Short bio
 
-Jared Silverman is a growth and performance marketing leader who builds the operating systems behind scalable demand. His work spans paid media, CRO, analytics, agency governance, marketing operations, and AI-enabled workflows across Fortune 500, PE-backed, advocacy, education, and high-growth environments.
+Jared Silverman is a growth systems leader who builds the operating infrastructure behind scalable demand. His work spans performance media, CRO, measurement, agency governance, marketing operations, AI-enabled workflows, and executive decision support across PE-backed, enterprise, global, and high-growth environments.
 
 ## One-line positioning
 

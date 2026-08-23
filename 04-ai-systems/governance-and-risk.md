@@ -56,6 +56,21 @@ Before using AI-assisted output, check:
 - Automating broken processes
 - Creating workflows without adoption planning
 
+
+## Claim and evidence governance
+
+When AI is used for professional positioning, public case studies, or evaluator-facing summaries, the model should not decide claim strength from style.
+
+Use the governed claim system before drafting:
+
+1. Identify the competency being tested.
+2. Select only admitted public evidence from the claim registry.
+3. Preserve funnel level, scope, ownership, and causal boundaries.
+4. Escalate when the question is composite, sensitive, or unsupported.
+5. Validate the final wording against the prohibited-inference controls.
+
+AI can help classify intent and draft concise language. It cannot promote an application metric into revenue, an observed outcome into single-channel causality, or a scope claim into formal ownership.
+
 ## Standard
 
 AI should make the work more useful, not just faster.

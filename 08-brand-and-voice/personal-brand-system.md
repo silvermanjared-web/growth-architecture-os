@@ -6,11 +6,11 @@ I stabilize and scale growth systems.
 
 ## Category
 
-Growth architecture, performance marketing leadership, CRO, marketing operations, and AI-enabled operating systems.
+Growth systems leadership, performance media, CRO, measurement, agency governance, marketing operations, and AI-enabled decision systems.
 
 ## Differentiator
 
-I do not just manage channels. I build the operating layer that makes channels easier to manage: measurement, governance, QA, cadence, agency accountability, and decision logic.
+Performance media is the deep functional foundation, but the broader work is the operating layer: investment allocation, CRO, measurement, governance, QA, agency accountability, AI-enabled workflows, and executive decision logic.
 
 ## Tone
 

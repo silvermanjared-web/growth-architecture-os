@@ -2,35 +2,53 @@
 
 This page gives different readers a fast path through the GitHub ecosystem.
 
-The portfolio is broad by design. Different evaluators will care about different proof points. Use the path that matches the question you are trying to answer.
+The portfolio is broad by design. Different evaluators will care about different proof points. Use the path that matches the question you are trying to answer. For claim-sensitive review, start with the governed claim system before reading case studies.
 
-## If you are evaluating growth leadership
+## If you are evaluating growth systems leadership
 
 Start here:
 
 1. `README.md`
 2. `00-positioning/professional-narrative.md`
-3. `03-playbooks/first-90-days.md`
+3. `01-case-studies/pansophic-growth-system.md`
 4. `02-growth-architecture/performance-media-operating-model.md`
-5. `05-templates/`
+5. `03-playbooks/first-90-days.md`
 
 What to look for:
 
-- how I diagnose messy growth environments
-- how I create operating rhythm
+- how I diagnose fragmented growth environments
+- how I connect investment, CRO, measurement, agencies, and decision cadence
 - how I clarify ownership and decision rights
-- how I turn reporting into action
 - how I stabilize before scaling
+- how current portfolio evidence is bounded by explicit claim controls
+
+## If you are evaluating current bounded evidence
+
+Start here:
+
+1. `00-positioning/claims/README.md`
+2. `00-positioning/proof-points.md`
+3. `01-case-studies/pansophic-growth-system.md`
+4. `01-case-studies/pansophic-rapid-campaign-launch.md`
+5. `GOVERNANCE.md`
+
+What to look for:
+
+- admitted public claims and prohibited inferences
+- the canonical-resume binding behind the public claim registry
+- the difference between scope, outcome, and causality
+- why the 17% to 28% lead-to-enrollment movement is associated with a broader mix correction, not one tactic
+- how public evidence avoids private application-policy and employer-confidential material
 
 ## If you are evaluating performance media leadership
 
 Start here:
 
 1. `02-growth-architecture/performance-media-operating-model.md`
-2. `03-playbooks/first-90-days.md`
-3. `01-case-studies/`
-4. `07-data-dictionaries/`
-5. `marketing-ops-playbooks`
+2. `01-case-studies/pansophic-growth-system.md`
+3. `01-case-studies/wex-app-growth-rebuild.md`
+4. `03-playbooks/media-mix-correction.md`
+5. `07-data-dictionaries/`
 
 What to look for:
 
@@ -45,18 +63,18 @@ What to look for:
 Start here:
 
 1. `06-reference/media-metrics-to-financial-outcomes.md`
-2. `03-playbooks/first-90-days.md`
-3. `02-growth-architecture/performance-media-operating-model.md`
-4. `01-case-studies/`
+2. `00-positioning/claims/semantic-governance.md`
+3. `01-case-studies/pansophic-growth-system.md`
+4. `01-case-studies/wex-app-growth-rebuild.md`
 5. `proof-points.md`
 
 What to look for:
 
 - how I translate media signals into investment questions
-- how I connect CAC, LTV, payback, retention, and forecast variance to operating decisions
 - how I separate performance reporting from financial proof
-- how I avoid overstating revenue or enterprise-value impact without source support
-- how I make channel performance legible to finance-first evaluators
+- how I avoid overstating revenue, profit, P&L, or enterprise-value impact without support
+- how I keep metrics at their supported funnel level
+- how claim routing prevents useful proof from becoming inflated language
 
 ## If you are evaluating marketing operations
 
@@ -81,11 +99,11 @@ What to look for:
 
 Start here:
 
-1. `marketing-intelligence-agent`
-2. `04-ai-systems/`
-3. `marketing-ops-toolkit`
-4. `brand-context-system`
-5. `brand-design-system-starter`
+1. `04-ai-systems/governance-and-risk.md`
+2. `04-ai-systems/ai-operating-model.md`
+3. `04-ai-systems/agent-workflows.md`
+4. `00-positioning/claims/semantic-governance.md`
+5. `marketing-intelligence-agent`
 
 What to look for:
 
@@ -93,25 +111,43 @@ What to look for:
 - structured prompting and handoff
 - human review controls
 - practical automation around recurring work
+- semantic routing and claim validation, not unsupported AI-generated certainty
 - AI used for synthesis, monitoring, QA, and consistency rather than novelty
 
 ## If you are evaluating CRO and funnel systems
 
 Start here:
 
-1. `01-case-studies/`
-2. `02-growth-architecture/`
-3. `03-playbooks/`
-4. `marketing-ops-playbooks/frameworks/`
-5. `05-templates/`
+1. `01-case-studies/pansophic-growth-system.md`
+2. `01-case-studies/ohdela-cro-roadmap.md`
+3. `02-growth-architecture/cro-program-model.md`
+4. `03-playbooks/cro-roadmap-playbook.md`
+5. `05-templates/cro-roadmap-template.md`
 
 What to look for:
 
-- how I structure test roadmaps
+- how I structure CRO as an operating model, not isolated test ideas
 - how I distinguish symptoms from root causes
 - how I use funnel data to prioritize work
 - how I connect page-level improvements to operating rhythm
 - how I keep testing tied to decision-making
+
+## If you are evaluating agency governance and in-housing judgment
+
+Start here:
+
+1. `02-growth-architecture/agency-governance-model.md`
+2. `01-case-studies/pansophic-growth-system.md`
+3. `01-case-studies/np-digital-paid-media-reset.md`
+4. `03-playbooks/first-90-days.md`
+5. `00-positioning/claims/semantic-routes.jsonl`
+
+What to look for:
+
+- the difference between client-side agency governance and agency-side operating leadership
+- how scope, pricing, accountability, escalation, and decision rights fit together
+- how in-housing is treated as an operating-model decision rather than a slogan
+- how public claims stay bounded when agency performance depends on multiple parties
 
 ## If you are evaluating brand, design, and front-end systems thinking
 
@@ -154,11 +190,11 @@ What to look for:
 
 Pick the question that matters most and inspect the evidence directly:
 
-1. **Growth leadership:** [`02-growth-architecture/performance-media-operating-model.md`](../02-growth-architecture/performance-media-operating-model.md)
-2. **Business and financial judgment:** [`06-reference/media-metrics-to-financial-outcomes.md`](../06-reference/media-metrics-to-financial-outcomes.md)
-3. **Concrete outcome evidence:** [`01-case-studies/wex-app-growth-rebuild.md`](../01-case-studies/wex-app-growth-rebuild.md)
-4. **Operating cadence:** [`03-playbooks/first-90-days.md`](../03-playbooks/first-90-days.md)
-5. **Governed AI capability:** [`04-ai-systems/ai-operating-model.md`](../04-ai-systems/ai-operating-model.md)
+1. **Current growth systems leadership:** [`01-case-studies/pansophic-growth-system.md`](../01-case-studies/pansophic-growth-system.md)
+2. **Claim discipline:** [`00-positioning/claims/README.md`](../00-positioning/claims/README.md)
+3. **Business and financial judgment:** [`06-reference/media-metrics-to-financial-outcomes.md`](../06-reference/media-metrics-to-financial-outcomes.md)
+4. **Concrete acquisition outcome:** [`01-case-studies/wex-app-growth-rebuild.md`](../01-case-studies/wex-app-growth-rebuild.md)
+5. **Governed AI capability:** [`04-ai-systems/governance-and-risk.md`](../04-ai-systems/governance-and-risk.md)
 
 These are inspection paths, not a claim that every artifact proves downstream revenue or enterprise value. The case studies and reference models state their own evidence boundaries.
 
@@ -166,4 +202,4 @@ These are inspection paths, not a claim that every artifact proves downstream re
 
 Do not try to read everything linearly. Read by evaluation question.
 
-The ecosystem is designed so each repo can stand alone, but the strongest signal comes from seeing the pattern across repos: diagnose the system, define the source of truth, create repeatable standards, and make execution easier to govern.
+The ecosystem is designed so each repo can stand alone, but the strongest signal comes from seeing the pattern across repos: diagnose the system, define the source of truth, create repeatable standards, route evidence carefully, and make execution easier to govern.

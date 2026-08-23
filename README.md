@@ -14,7 +14,8 @@ Do not read the repository front to back. Start with the question you are trying
 |---|---|
 | Can I run a complex growth system? | [`02-growth-architecture/performance-media-operating-model.md`](02-growth-architecture/performance-media-operating-model.md) |
 | Can I connect media performance to business economics without overstating causality? | [`06-reference/media-metrics-to-financial-outcomes.md`](06-reference/media-metrics-to-financial-outcomes.md) |
-| Can I show bounded evidence? | See the two carefully scoped case studies below. |
+| Can I show current bounded evidence? | [`01-case-studies/pansophic-growth-system.md`](01-case-studies/pansophic-growth-system.md) |
+| Are the claims themselves governed? | [`00-positioning/claims/README.md`](00-positioning/claims/README.md) |
 | Can I establish an operating rhythm quickly? | [`03-playbooks/first-90-days.md`](03-playbooks/first-90-days.md) |
 | Is the AI work governed and useful? | [`04-ai-systems/ai-operating-model.md`](04-ai-systems/ai-operating-model.md) |
 
@@ -22,8 +23,9 @@ Do not read the repository front to back. Start with the question you are trying
 
 | Case study | Bounded evidence |
 |---|---|
+| [Multi-Brand Education Growth System](01-case-studies/pansophic-growth-system.md) | $15M+ media scope, 180+ institutions, $500K reallocation, 150+ landing pages, 60+ campaigns, and an observed ~17% to ~28% lead-to-enrollment movement with explicit causal boundaries |
 | [App Growth Rebuild](01-case-studies/wex-app-growth-rebuild.md) | Approved applications grew ~500% after the rebuild; application-stage only |
-| [Education Performance Media Rebuild](01-case-studies/education-performance-media-rebuild.md) | Directional cost-per-enrollment, approved-application efficiency, and portfolio pacing improvements |
+| [FFIA Measurement Model](01-case-studies/stand-together-ffia-measurement.md) | 86% YoY growth in web-qualified engagements while outperforming benchmarks by 3x; engagement-stage only |
 
 ## What this repo is
 
@@ -78,7 +80,7 @@ flowchart TD
 
 | Folder / File | Purpose |
 |---|---|
-| `00-positioning/` | Executive narrative, bio, leadership principles, operating style, proof controls |
+| `00-positioning/` | Executive narrative, bio, leadership principles, operating style, and semantically governed claim controls |
 | `01-case-studies/` | Public-safe case studies from growth, CRO, media, and operating-model work |
 | `02-growth-architecture/` | Reusable frameworks for media, CRO, reporting, and agency governance |
 | `03-playbooks/` | Practical playbooks for diagnosis, triage, testing, taxonomy, and media correction |
@@ -87,13 +89,13 @@ flowchart TD
 | `06-reference/` | Small reference models for signal quality, outcome logic, financial translation, and decision support |
 | `07-data-dictionaries/` | Shared KPI, funnel, taxonomy, and reporting language |
 | `08-brand-and-voice/` | Writing style, personal brand system, and communication rules |
-| `09-positioning/` | Private positioning material for role targeting, interview stories, and recruiter conversations |
+| `09-positioning/` | Public-safe evaluator positioning, interview story routes, role targeting, and recruiter framing |
 | `10-thought-leadership/` | Public POV files from articles, platform shifts, and media strategy themes |
 | `_meta/` | Content map, source index, and repo metadata |
 | `design-system/` | Lightweight visual/token system for future web or portfolio work; intentionally in progress |
 | `docs/` | Longer thesis and explanatory articles behind the operating system |
 | `GOVERNANCE.md` | Public governance standard for claim discipline, source support, and public safety |
-| `proof-points.md` | Root alias for the canonical claim bank in `00-positioning/` |
+| `proof-points.md` | Root alias for the governed public claim system in `00-positioning/` |
 
 ## Related repos
 
@@ -147,7 +149,7 @@ Use the five-minute proof above for a fast inspection, or [`docs/evaluator-paths
 
 ## Review standard
 
-The repo should not sound more certain than the source material. Metrics, titles, case studies, and public-facing summaries should stay grounded in resume, portfolio, deck, article, or source-note support.
+The repo should not sound more certain than the source material. Metrics, titles, case studies, and public-facing summaries should stay grounded in admitted sources. Semantic routing may select evidence, but it may not promote funnel level, causality, ownership, or qualifications beyond the claim registry.
 
 ## IP and usage
 

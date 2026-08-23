@@ -11,12 +11,19 @@
     "AI-assisted writing and strategy tools"
   ],
   "folders": {
-    "00-positioning": "Narrative, bio, operating style, leadership principles, and proof points.",
+    "00-positioning": "Narrative, bio, operating style, leadership principles, and semantically governed public claims.",
     "01-case-studies": "Public-safe project and operating-model case studies.",
     "02-growth-architecture": "Reusable frameworks for media, CRO, agency governance, and reporting.",
     "03-playbooks": "Practical execution playbooks.",
     "04-ai-systems": "AI-enabled workflows, prompt patterns, and governance.",
     "05-templates": "Reusable executive-ready templates.",
     "08-brand-and-voice": "Writing style and personal brand guidance."
+  },
+  "claim_governance": {
+    "human_entry": "00-positioning/proof-points.md",
+    "registry": "00-positioning/claims/claims-registry.json",
+    "semantic_policy": "00-positioning/claims/semantic-governance.md",
+    "routes": "00-positioning/claims/semantic-routes.jsonl",
+    "aliases": "00-positioning/claims/intent-aliases.json"
   }
 }
