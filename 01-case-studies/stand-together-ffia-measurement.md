@@ -21,7 +21,7 @@ The goal was to make performance conversations more useful: less reporting theat
 
 ## Outcome
 
-The work supported 86% year-over-year growth and a 3x improvement in quality engagement, according to public portfolio materials.
+The work delivered 86% year-over-year growth in web-qualified engagements while outperforming benchmarks by three times.
 
 ## Jared's role
 

@@ -13,7 +13,7 @@ The goal is consistency without making the work feel over-polished or generic.
 
 Jared stabilizes and scales growth systems.
 
-The strongest brand frame is not narrow paid media execution. It is growth architecture: the operating layer behind performance media, CRO, analytics, agency governance, executive communication, and AI-enabled workflows.
+The strongest brand frame is not narrow paid media execution. It is growth systems leadership: the operating layer behind performance media, CRO, measurement, agency governance, marketing operations, executive decision support, and AI-enabled workflows.
 
 ## Voice standard
 

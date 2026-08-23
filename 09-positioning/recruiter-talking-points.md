@@ -6,7 +6,7 @@ I stabilize and scale growth systems.
 
 ## Stronger positioning
 
-I am a growth and performance marketing leader who builds the operating layer behind scalable demand: measurement, governance, media allocation, CRO, agency accountability, and executive decision support.
+I am a growth systems leader with deep performance-media operating expertise. I build the operating layer behind scalable demand: investment allocation, CRO, measurement, agency governance, marketing operations, AI-enabled workflows, and executive decision support.
 
 ## What I am best hired to fix
 
@@ -19,7 +19,7 @@ I am a growth and performance marketing leader who builds the operating layer be
 
 ## What makes me different
 
-I can move between systems and people without dropping the thread. I understand the media, the data, the creative, the politics, and the operating model.
+I can move from campaign architecture and signal QA to agency economics, operating design, and executive decision support without losing the business thread.
 
 ## Questions to ask recruiters
 

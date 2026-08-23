@@ -14,7 +14,7 @@ Built a scalable launch workflow across campaign build, QA, pacing, creative ref
 
 ## Outcome
 
-Public portfolio materials cite 60+ campaigns relaunched and restructured in under one month, with improved cross-team visibility, speed, and campaign agility.
+Restructured 60+ campaigns in under four weeks during a high-pressure enrollment period, restoring clearer market, audience, and channel architecture while improving visibility into pacing and execution risk.
 
 ## Jared's role
 

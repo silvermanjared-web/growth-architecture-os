@@ -88,6 +88,31 @@ The habit of ensuring public claims are supported by source material, experience
 
 Proof discipline prevents the portfolio from sounding more certain than the underlying evidence supports.
 
+
+## Claim registry
+
+The machine-readable public authority for approved professional claims, metric definitions, funnel levels, causal boundaries, source basis, and prohibited inference.
+
+The claim registry prevents a useful proof point from being moved into a stronger claim than the evidence supports.
+
+## Semantic governance
+
+The rules that classify what a question is testing and determine which approved evidence is eligible to answer it.
+
+Semantic governance controls meaning and routing. It does not decide what is true, and it cannot override the claim registry or canonical resume.
+
+## Evidence routing
+
+The process of selecting the best admitted proof for a specific competency or evaluator question.
+
+A routing rule may prefer newer, more senior evidence, but it can use older evidence when it is more quantified or directly matched to the question.
+
+## Semantic closure
+
+The check that every material part of a question is actually supported by admitted evidence.
+
+If a prompt asks for transformation, stakeholder resistance, and a measurable result, a routed answer must support all three. If one axis is missing, the system should qualify the answer or fail closed rather than fill the gap with plausible prose.
+
 ## System drift
 
 The gradual divergence between what a system says should happen and what actually happens in practice.

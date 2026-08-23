@@ -1,6 +1,6 @@
 # Role Targeting
 
-This file is for private positioning, recruiter conversations, and role evaluation. Do not copy it directly into public-facing repo summaries without review.
+This file defines the role families where the operating model shown in this public repo is most relevant. It is positioning guidance, not a claim that every role below is identical.
 
 ## Best-fit roles
 
@@ -8,10 +8,8 @@ This file is for private positioning, recruiter conversations, and role evaluati
 - VP Performance Marketing
 - Head of Growth
 - Head of Performance Marketing
-- VP Marketing Operations
 - Senior Director or VP Growth Strategy
-- Chief of Staff to CMO in growth-heavy environments
-- Marketing transformation leader
+- Growth Operations or Marketing Transformation Leader
 - AI-enabled marketing operations leader
 
 ## Best-fit environments
@@ -39,4 +37,4 @@ That means clearer ownership, better signal quality, stronger media allocation l
 
 The strongest frame is not: I run paid media.
 
-The stronger frame is: I build the operating model that makes paid media, CRO, analytics, agencies, and leadership decisions work together.
+The stronger frame is: I build the growth operating system that makes investment, performance media, CRO, measurement, agencies, and leadership decisions work together.

@@ -1,37 +1,71 @@
-# Interview Stories
+# Interview Story Map
 
-## Story 1: Rebuilding the system before scaling the spend
+These are public-safe story routes, not scripts. Use the governed claim system in `00-positioning/claims/` to select evidence and preserve metric and causal boundaries.
 
-**Situation:** A growth environment had active investment, multiple partners, and unclear signal quality.
+## Story 1: Rebuilding a growth operating system
 
-**Stakes:** Leadership needed better control, not more channel commentary.
+**Use for:** transformation, operating-model design, cross-functional leadership, change management.
 
-**Action:** Mapped the system, clarified ownership, tightened QA, and rebuilt the cadence around decisions.
+**Situation:** A complex education portfolio had performance media, CRO, measurement, agencies, and executive reporting moving through different operating rhythms.
 
-**Result:** The work created clearer visibility, faster escalation, and more defensible budget movement.
+**Action:** Rebuilt performance media and CRO into a governed model across three business units, including five CRO workstreams and shared standards for conversion logic, taxonomy, QA, pacing, reporting, escalation, and ownership.
 
-**Point:** I am strongest when the problem is not one campaign. It is the operating model around the campaign.
+**Result:** Leadership gained a clearer operating structure for interpreting spend, funnel performance, forecast exposure, and the decisions that needed to move.
 
-## Story 2: CRO as operating discipline
+**Claim route:** `operating_transformation`
 
-**Situation:** A conversion path looked like a traffic problem, but the deeper issue was friction and proof placement.
+## Story 2: Making an allocation decision under pressure
 
-**Stakes:** High-intent users were not getting the simplest path.
+**Use for:** capital allocation, difficult decisions, incomplete data, forecasting and risk.
 
-**Action:** Built a roadmap that sequenced tracking, credibility, form experience, ownership, and scorecard logic.
+**Situation:** Portfolio performance and forecast risk required moving investment rather than defending the existing plan.
 
-**Result:** The roadmap gave leaders a way to act on conversion systematically instead of debating isolated test ideas.
+**Action:** Redirected $500K across priority markets using funnel quality, pacing, and portfolio needs to guide the tradeoff.
 
-**Point:** Good CRO starts with the system, not the button.
+**Result:** The reallocation created a clearer investment response to changing performance conditions. Do not invent incremental revenue or profit.
+**Claim route:** `capital_allocation`
 
-## Story 3: Turning reporting into trust
+## Story 3: Correcting channel mix without overstating causality
 
-**Situation:** Reporting existed, but it was not driving enough confidence or action.
+**Use for:** growth outcomes, channel strategy, full-funnel thinking, measurement discipline.
 
-**Stakes:** Teams needed a clearer link between activity, quality, and decisions.
+**Situation:** A nine-school acquisition mix had become too search-heavy and top-line efficiency was not telling the full downstream story.
 
-**Action:** Reframed reporting around facts, insight, action, and follow-through.
+**Action:** Corrected the broader channel mix and used deeper enrollment signals to evaluate the change.
 
-**Result:** The work helped shift conversations from recap to decision support.
+**Result:** Lead-to-enrollment improved from approximately 17% to 28% following the broader correction, informing subsequent allocation planning.
 
-**Point:** A report is only useful if it changes the quality of the next decision.
+**Boundary:** This is an observed outcome after the broader mix change, not proof that one channel caused the improvement.
+
+**Claim route:** `current_growth_outcome`
+
+## Story 4: Rebuilding acquisition end to end
+
+**Use for:** acquisition turnaround, account rebuild, performance improvement, measurement alignment.
+
+**Situation:** WEX needed a cleaner acquisition system across account structure, conversion tracking, KPI alignment, QA, and pacing.
+
+**Action:** Led a phased rebuild around the right application-stage signal rather than surface-level activity.
+
+**Result:** Approved applications grew approximately 500% after the rebuild.
+**Boundary:** Approved applications are not revenue or profit.
+
+**Claim route:** `acquisition_rebuild`
+
+## Story 5: Leading at global scale
+
+**Use for:** large-team leadership, global complexity, enterprise programs.
+
+**Situation:** Global digital investment required shared standards across North America, EMEA, APJ, and LATAM.
+
+**Action:** Led 30+ person teams spanning media, analytics, and strategy across $100M+ programs.
+
+**Result:** Built planning, testing, measurement, and enablement frameworks that could operate across regions while preserving local execution judgment.
+
+**Boundary:** 30+ person teams does not mean 30+ direct reports.
+
+**Claim routes:** `people_leadership`, `global_scale`
+
+## Selection rule
+
+Do not use the story with the flashiest metric. Use the story that best closes the competency being tested. If the requested axis is unsupported, do not fill the gap with plausible prose.

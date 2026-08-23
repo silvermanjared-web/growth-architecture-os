@@ -1,0 +1,650 @@
+{
+  "schema_version": "growth-architecture.claim-registry/v1",
+  "owner": "Jared Silverman",
+  "canonical_resume_binding": {
+    "label": "August 2026 canonical resume",
+    "filename": "Jared_Neal_Silverman_August_2026_Final_Resume.docx",
+    "sha256": "b0d5e2e6cc1d26219161766dacbd25140937a5edc09aab7eba7f449898e6484f",
+    "role": "Primary authority for positioning, chronology, titles, dates, current-role framing, and resume-cleared claims."
+  },
+  "public_safety": {
+    "excluded_categories": [
+      "private application policy",
+      "compensation floors",
+      "references",
+      "contact data",
+      "sensitive employer diagnostics",
+      "personnel information",
+      "unapproved internal metrics"
+    ],
+    "rule": "A fact may exist privately without being admissible for public use."
+  },
+  "claims": [
+    {
+      "id": "career.growth_systems_positioning",
+      "company": "Career",
+      "competencies": [
+        "growth_systems",
+        "executive_positioning"
+      ],
+      "canonical_public_wording": "I stabilize and scale growth systems by connecting investment allocation, CRO, measurement, agency governance, marketing operations, and executive decision support.",
+      "metric": null,
+      "funnel_level": "not_applicable",
+      "causal_state": "scope_only",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:executive_profile",
+        "00-positioning/professional-narrative.md"
+      ],
+      "prohibited_inference": [
+        "Do not reduce the positioning to channel optimization alone.",
+        "Do not imply ownership of every business outcome produced by a broader organization."
+      ]
+    },
+    {
+      "id": "career.experience_15plus_years",
+      "company": "Career",
+      "competencies": [
+        "experience_scale",
+        "executive_positioning"
+      ],
+      "canonical_public_wording": "15+ years across media investment, CRO, measurement, agency governance, and marketing operations.",
+      "metric": {
+        "value": 15,
+        "unit": "years",
+        "qualifier": "plus"
+      },
+      "funnel_level": "not_applicable",
+      "causal_state": "scope_only",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:executive_profile"
+      ],
+      "prohibited_inference": [
+        "Do not convert years of broad growth experience into unsupported years for a narrower specialty."
+      ]
+    },
+    {
+      "id": "pansophic.enterprise_context_700m",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "enterprise_scale",
+        "growth_systems"
+      ],
+      "canonical_public_wording": "Current work sits inside a $700M PE-backed education enterprise.",
+      "metric": {
+        "value": 700000000,
+        "unit": "USD",
+        "qualifier": "enterprise_context"
+      },
+      "funnel_level": "not_applicable",
+      "causal_state": "scope_only",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:pansophic_scope"
+      ],
+      "prohibited_inference": [
+        "This is an enterprise-scale descriptor, not company revenue, personal P&L ownership, or value created by Jared."
+      ]
+    },
+    {
+      "id": "pansophic.media_scope_15mplus",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "media_investment",
+        "enterprise_scale",
+        "capital_allocation"
+      ],
+      "canonical_public_wording": "Lead $15M+ in media investment across a complex education portfolio.",
+      "metric": {
+        "value": 15000000,
+        "unit": "USD",
+        "qualifier": "plus"
+      },
+      "funnel_level": "not_applicable",
+      "causal_state": "scope_only",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:executive_profile",
+        "canonical_resume:pansophic_scope"
+      ],
+      "prohibited_inference": [
+        "Do not imply formal enterprise P&L ownership or that all company marketing spend sits in this scope."
+      ]
+    },
+    {
+      "id": "pansophic.institutions_180plus",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "portfolio_scale",
+        "enterprise_scale"
+      ],
+      "canonical_public_wording": "Operate across a portfolio of 180+ institutions.",
+      "metric": {
+        "value": 180,
+        "unit": "institutions",
+        "qualifier": "plus"
+      },
+      "funnel_level": "not_applicable",
+      "causal_state": "scope_only",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:executive_profile",
+        "canonical_resume:pansophic_scope"
+      ],
+      "prohibited_inference": [
+        "Do not imply identical responsibility or media activity at every institution."
+      ]
+    },
+    {
+      "id": "pansophic.business_units_3",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "operating_transformation",
+        "cross_functional_governance"
+      ],
+      "canonical_public_wording": "Rebuilt performance media and CRO into a governed operating model across three business units.",
+      "metric": {
+        "value": 3,
+        "unit": "business_units",
+        "qualifier": "exact"
+      },
+      "funnel_level": "not_applicable",
+      "causal_state": "directly_supported",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:pansophic_operating_model"
+      ],
+      "prohibited_inference": [
+        "Do not imply direct-line ownership of every function inside the three business units."
+      ]
+    },
+    {
+      "id": "pansophic.cro_workstreams_5",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "cro",
+        "operating_transformation",
+        "change_management"
+      ],
+      "canonical_public_wording": "Established a five-workstream CRO operating model with shared standards for conversion logic, taxonomy, QA, pacing, reporting, escalation, and ownership.",
+      "metric": {
+        "value": 5,
+        "unit": "workstreams",
+        "qualifier": "exact"
+      },
+      "funnel_level": "not_applicable",
+      "causal_state": "directly_supported",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:pansophic_operating_model",
+        "01-case-studies/pansophic-growth-system.md"
+      ],
+      "prohibited_inference": [
+        "Do not describe five workstreams as five isolated tests or five business units."
+      ]
+    },
+    {
+      "id": "pansophic.reallocation_500k",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "capital_allocation",
+        "forecast_risk",
+        "portfolio_management"
+      ],
+      "canonical_public_wording": "Redirected $500K in media investment across priority markets based on portfolio needs and allocation tradeoffs.",
+      "metric": {
+        "value": 500000,
+        "unit": "USD",
+        "qualifier": "exact"
+      },
+      "funnel_level": "not_applicable",
+      "causal_state": "directly_supported",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:pansophic_allocation"
+      ],
+      "prohibited_inference": [
+        "Do not translate the reallocation into unsupported incremental revenue, profit, or savings."
+      ]
+    },
+    {
+      "id": "pansophic.lead_to_enrollment_17_to_28",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "channel_mix",
+        "growth_outcomes",
+        "funnel_quality"
+      ],
+      "canonical_public_wording": "Following a broader nine-school channel-mix correction, lead-to-enrollment improved from approximately 17% to 28%, informing subsequent allocation planning.",
+      "metric": {
+        "from": 17,
+        "to": 28,
+        "unit": "percent",
+        "qualifier": "approximate",
+        "population": "nine-school group"
+      },
+      "funnel_level": "lead_to_enrollment",
+      "causal_state": "associated_after_change",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:pansophic_allocation"
+      ],
+      "prohibited_inference": [
+        "Never attribute the improvement solely to YouTube or a single channel.",
+        "Do not convert lead-to-enrollment into revenue or profit."
+      ]
+    },
+    {
+      "id": "pansophic.landing_pages_150plus",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "cro",
+        "conversion_infrastructure",
+        "measurement"
+      ],
+      "canonical_public_wording": "Scaled acquisition and conversion infrastructure across 150+ custom landing pages.",
+      "metric": {
+        "value": 150,
+        "unit": "landing_pages",
+        "qualifier": "plus"
+      },
+      "funnel_level": "conversion_infrastructure",
+      "causal_state": "scope_only",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:pansophic_conversion_infrastructure"
+      ],
+      "prohibited_inference": [
+        "Do not describe 150+ pages as 150+ experiments or claim a conversion lift without separate evidence."
+      ]
+    },
+    {
+      "id": "pansophic.campaigns_60plus_under_4_weeks",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "high_pressure_execution",
+        "campaign_architecture",
+        "stabilization"
+      ],
+      "canonical_public_wording": "Restructured 60+ campaigns in under four weeks during a high-pressure enrollment period.",
+      "metric": {
+        "value": 60,
+        "unit": "campaigns",
+        "qualifier": "plus",
+        "time_window": "under four weeks"
+      },
+      "funnel_level": "execution_scale",
+      "causal_state": "directly_supported",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:pansophic_campaign_restructure",
+        "01-case-studies/pansophic-rapid-campaign-launch.md"
+      ],
+      "prohibited_inference": [
+        "Do not imply the restructure alone caused later business outcomes without evidence."
+      ]
+    },
+    {
+      "id": "pansophic.agency_governance_reset",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "agency_governance",
+        "in_housing",
+        "operating_transformation"
+      ],
+      "canonical_public_wording": "Reset agency governance across media, creative, analytics, and CRO by tightening scope, pricing, budget controls, performance accountability, and in-housing decision rights.",
+      "metric": null,
+      "funnel_level": "not_applicable",
+      "causal_state": "directly_supported",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:pansophic_agency_governance",
+        "02-growth-architecture/agency-governance-model.md"
+      ],
+      "prohibited_inference": [
+        "Do not imply every partner was replaced or that in-housing is always the preferred model."
+      ]
+    },
+    {
+      "id": "pansophic.measurement_depth",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "measurement",
+        "attribution",
+        "decision_support"
+      ],
+      "canonical_public_wording": "Strengthened Google/Meta-to-Salesforce measurement, offline and deep-funnel conversion signals, and QA so investment decisions could increasingly optimize toward applications and enrollments rather than lead volume alone.",
+      "metric": null,
+      "funnel_level": "applications_and_enrollments",
+      "causal_state": "directly_supported",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:pansophic_conversion_infrastructure"
+      ],
+      "prohibited_inference": [
+        "Do not claim perfect attribution, formal MMM ownership, or causal certainty not supported by the source."
+      ]
+    },
+    {
+      "id": "npdigital.media_scope_10mplus",
+      "company": "NP Digital",
+      "competencies": [
+        "agency_leadership",
+        "media_investment",
+        "organizational_scale"
+      ],
+      "canonical_public_wording": "Led enterprise strategy and delivery quality across $10M+ in annual media investment while restructuring the firm's largest paid media division.",
+      "metric": {
+        "value": 10000000,
+        "unit": "USD_annual_media",
+        "qualifier": "plus"
+      },
+      "funnel_level": "not_applicable",
+      "causal_state": "scope_only",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:np_digital",
+        "01-case-studies/np-digital-paid-media-reset.md"
+      ],
+      "prohibited_inference": [
+        "Do not imply company-wide revenue ownership or that the $10M+ was a single client budget."
+      ]
+    },
+    {
+      "id": "wex.approved_applications_500pct",
+      "company": "WEX",
+      "competencies": [
+        "acquisition_rebuild",
+        "growth_outcomes",
+        "investment_discipline"
+      ],
+      "canonical_public_wording": "Approved applications grew approximately 500% after a phased account rebuild and tighter investment discipline.",
+      "metric": {
+        "value": 500,
+        "unit": "percent_growth",
+        "qualifier": "approximate"
+      },
+      "funnel_level": "approved_applications",
+      "causal_state": "directly_supported",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:wex",
+        "01-case-studies/wex-app-growth-rebuild.md"
+      ],
+      "prohibited_inference": [
+        "Approved applications are not revenue, profit, subscriptions, or enterprise value.",
+        "Do not imply sole causality by one tactic."
+      ]
+    },
+    {
+      "id": "standtogether.network_scope_250mplus",
+      "company": "Stand Together",
+      "competencies": [
+        "organizational_scale",
+        "mission_driven_growth"
+      ],
+      "canonical_public_wording": "Rebuilt paid media operations for a $250M+ advocacy and philanthropic network.",
+      "metric": {
+        "value": 250000000,
+        "unit": "USD",
+        "qualifier": "network_scope_plus"
+      },
+      "funnel_level": "not_applicable",
+      "causal_state": "scope_only",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:stand_together"
+      ],
+      "prohibited_inference": [
+        "Do not present $250M+ as media budget, revenue owned, or value created by Jared."
+      ]
+    },
+    {
+      "id": "standtogether.direct_reports_3",
+      "company": "Stand Together",
+      "competencies": [
+        "people_leadership",
+        "organizational_leadership"
+      ],
+      "canonical_public_wording": "Managed three direct reports while rebuilding paid media operations.",
+      "metric": {
+        "value": 3,
+        "unit": "direct_reports",
+        "qualifier": "exact"
+      },
+      "funnel_level": "not_applicable",
+      "causal_state": "scope_only",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:stand_together"
+      ],
+      "prohibited_inference": [
+        "Do not use this as Jared's maximum team scale; Essence provides the larger team example."
+      ]
+    },
+    {
+      "id": "standtogether.web_qualified_engagements_86pct_3x",
+      "company": "Stand Together",
+      "competencies": [
+        "organizational_performance",
+        "measurement",
+        "growth_outcomes"
+      ],
+      "canonical_public_wording": "Delivered 86% year-over-year growth in web-qualified engagements while outperforming benchmarks by three times.",
+      "metric": {
+        "growth": 86,
+        "growth_unit": "percent_yoy",
+        "benchmark_multiple": 3,
+        "funnel": "web_qualified_engagements"
+      },
+      "funnel_level": "web_qualified_engagements",
+      "causal_state": "directly_supported",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:stand_together",
+        "01-case-studies/stand-together-ffia-measurement.md"
+      ],
+      "prohibited_inference": [
+        "Web-qualified engagements are not revenue.",
+        "Three times refers to benchmark outperformance, not a 3x growth rate unless a source explicitly says so."
+      ]
+    },
+    {
+      "id": "tbc.cost_savings_85pct",
+      "company": "TBC",
+      "competencies": [
+        "efficiency",
+        "channel_strategy",
+        "messaging_strategy"
+      ],
+      "canonical_public_wording": "Achieved 85% cost savings for an online pharmacy client through tighter channel and messaging strategy.",
+      "metric": {
+        "value": 85,
+        "unit": "percent_cost_savings",
+        "qualifier": "exact"
+      },
+      "funnel_level": "cost_efficiency",
+      "causal_state": "directly_supported",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:tbc"
+      ],
+      "prohibited_inference": [
+        "Do not generalize the savings across all TBC clients or convert it into revenue growth."
+      ]
+    },
+    {
+      "id": "butlertill.seo_adoption_50pct",
+      "company": "Butler/Till",
+      "competencies": [
+        "enablement",
+        "adoption",
+        "capability_building"
+      ],
+      "canonical_public_wording": "Increased brand SEO adoption by 50% through training and an implementation guide.",
+      "metric": {
+        "value": 50,
+        "unit": "percent_adoption_increase",
+        "qualifier": "exact"
+      },
+      "funnel_level": "capability_adoption",
+      "causal_state": "directly_supported",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:butler_till"
+      ],
+      "prohibited_inference": [
+        "Do not translate adoption into revenue or search-performance lift without separate evidence."
+      ]
+    },
+    {
+      "id": "myron.revenue_over_target_500kplus",
+      "company": "Myron Manufacturing",
+      "competencies": [
+        "revenue_outcomes",
+        "audience_strategy",
+        "data_activation"
+      ],
+      "canonical_public_wording": "Surpassed sub-brand revenue targets by more than $500K year over year through CDP integration and audience strategy.",
+      "metric": {
+        "value": 500000,
+        "unit": "USD_revenue_over_target",
+        "qualifier": "more_than"
+      },
+      "funnel_level": "revenue",
+      "causal_state": "directly_supported",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:myron"
+      ],
+      "prohibited_inference": [
+        "Do not imply company-wide revenue lift, audited finance ownership, or that media alone caused the result."
+      ]
+    },
+    {
+      "id": "essence.program_scale_100mplus",
+      "company": "Essence Global",
+      "competencies": [
+        "global_scale",
+        "media_investment",
+        "enterprise_leadership"
+      ],
+      "canonical_public_wording": "Directed global digital investment across $100M+ programs spanning North America, EMEA, APJ, and LATAM.",
+      "metric": {
+        "value": 100000000,
+        "unit": "USD_programs",
+        "qualifier": "plus",
+        "regions": [
+          "North America",
+          "EMEA",
+          "APJ",
+          "LATAM"
+        ]
+      },
+      "funnel_level": "not_applicable",
+      "causal_state": "scope_only",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:essence"
+      ],
+      "prohibited_inference": [
+        "Do not collapse program scale into company revenue or imply every named historical client individually had a $100M+ program."
+      ]
+    },
+    {
+      "id": "essence.team_scale_30plus",
+      "company": "Essence Global",
+      "competencies": [
+        "large_team_leadership",
+        "global_leadership"
+      ],
+      "canonical_public_wording": "Led 30+ person teams spanning media, analytics, and strategy across global programs.",
+      "metric": {
+        "value": 30,
+        "unit": "people",
+        "qualifier": "plus"
+      },
+      "funnel_level": "not_applicable",
+      "causal_state": "scope_only",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:essence"
+      ],
+      "prohibited_inference": [
+        "Do not imply all 30+ were direct reports."
+      ]
+    },
+    {
+      "id": "starcom.investment_doubled_to_100m",
+      "company": "Starcom / Performics",
+      "competencies": [
+        "portfolio_growth",
+        "media_investment",
+        "audience_strategy"
+      ],
+      "canonical_public_wording": "Doubled managed investment to $100M by replacing keyword-first planning with an audience-segmentation strategy.",
+      "metric": {
+        "ending_value": 100000000,
+        "unit": "USD_managed_investment",
+        "change": "doubled"
+      },
+      "funnel_level": "not_applicable",
+      "causal_state": "directly_supported",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:starcom"
+      ],
+      "prohibited_inference": [
+        "Do not convert managed-investment growth into client revenue or profit."
+      ]
+    },
+    {
+      "id": "ai.governed_growth_workflows",
+      "company": "Public portfolio",
+      "competencies": [
+        "ai",
+        "automation",
+        "governance",
+        "marketing_operations"
+      ],
+      "canonical_public_wording": "Build and use AI-enabled workflows for performance monitoring, marketing-operations automation, governance, QA, and decision support while keeping accountable human judgment in the loop.",
+      "metric": null,
+      "funnel_level": "not_applicable",
+      "causal_state": "directly_supported",
+      "confidence": "verified_canonical",
+      "source_refs": [
+        "canonical_resume:ai_growth_systems",
+        "04-ai-systems/ai-operating-model.md"
+      ],
+      "prohibited_inference": [
+        "Do not imply autonomous business decision-making, private-data publication, or production scale not demonstrated by the public repositories."
+      ]
+    },
+    {
+      "id": "global_enterprise.platform_alignment_21",
+      "company": "Global enterprise enablement",
+      "competencies": [
+        "capability_enablement",
+        "global_scale",
+        "operating_standards"
+      ],
+      "canonical_public_wording": "Public portfolio materials cite alignment across 21 distinct platforms in one Google environment.",
+      "metric": {
+        "value": 21,
+        "unit": "platforms",
+        "qualifier": "distinct"
+      },
+      "funnel_level": "not_applicable",
+      "causal_state": "contextual",
+      "confidence": "public_portfolio_supported",
+      "source_refs": [
+        "01-case-studies/global-enterprise-enablement.md"
+      ],
+      "prohibited_inference": [
+        "Do not imply the 21 platforms represent all Google or Alphabet media activity.",
+        "Do not translate platform alignment into a revenue or performance outcome."
+      ]
+    }
+  ]
+}

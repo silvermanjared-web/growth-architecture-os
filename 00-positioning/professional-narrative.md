@@ -4,13 +4,13 @@
 
 I stabilize and scale growth systems.
 
-Over the past 15+ years, I have been brought into environments where growth was important, complex, and too fragmented for the operating model underneath it. My work sits across paid media, CRO, analytics, marketing operations, agency governance, and executive decision support.
+Over the past 15+ years, I have been brought into environments where growth was important, complex, and too fragmented for the operating model underneath it. My work sits across performance media, CRO, measurement, marketing operations, agency governance, AI-enabled workflows, and executive decision support.
 
 The work is not just to optimize campaigns. The work is to make the system easier to see, easier to manage, and easier to improve.
 
 ## The fuller version
 
-I am a growth and performance marketing leader who builds the operating infrastructure behind scalable demand.
+I am a growth systems leader with deep performance-media operating expertise. I build the infrastructure behind scalable demand: allocation, CRO, measurement, agency governance, operating cadence, and executive decision support.
 
 That usually means working inside environments where spend, agencies, funnel quality, data, creative, and leadership expectations are moving at the same time. The obvious symptoms are media volatility, reporting debates, unclear ownership, slow decisions, and too much reliance on individual heroics. The root problem is usually simpler: the system does not have enough clarity to run well.
 
@@ -23,8 +23,8 @@ I map how demand actually moves. I identify where measurement is trusted, broken
 The common thread is ownership of the connective tissue between performance, measurement, partners, and leadership decisions.
 
 - Performance marketing leadership across brands, channels, agencies, and internal teams
-- Media investment strategy, allocation, and ROI accountability across $10M to $100M+ programs
-- Full-funnel growth systems across paid media, CRO, analytics, CRM, and enrollment or revenue operations
+- Media investment strategy and allocation across $15M+ current portfolio scope and $100M+ historical global programs
+- Full-funnel growth systems across performance media, CRO, measurement, CRM, and enrollment or revenue operations
 - Agency governance: SOWs, scope, standards, accountability, and in-housing decisions
 - Marketing operations infrastructure that makes execution cleaner without simply adding headcount
 - Executive decision support: turning performance noise into clear tradeoffs, risks, and recommended actions
@@ -33,7 +33,7 @@ The common thread is ownership of the connective tissue between performance, mea
 
 The thread through my career is practical systems work.
 
-At global agencies, that meant planning, measurement, and enablement frameworks across complex enterprise accounts. At Stand Together, it meant rebuilding paid media operations for a large advocacy and philanthropic network. At NP Digital, it meant restructuring a large paid media division during rapid growth and operational reset. At Pansophic Learning, it meant leading performance media, CRO, and in-housing work across a complex education portfolio.
+At global agencies, that meant planning, measurement, and enablement frameworks across complex enterprise accounts. At Stand Together, it meant rebuilding paid media operations for a large advocacy and philanthropic network. At NP Digital, it meant restructuring a large paid media division during rapid growth and operational reset. At Pansophic Learning, it means leading the growth operating system connecting $15M+ in media, CRO, measurement, agency governance, and investment decisions across 180+ institutions.
 
 Different environments. Same pattern.
 
