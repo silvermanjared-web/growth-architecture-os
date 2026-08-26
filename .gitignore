@@ -159,3 +159,7 @@ __pycache__/
 
 # OS/editor noise
 .DS_Store
+
+# Generated per-folder document-network manifests. Generated state, not source.
+DOCS_NETWORK.json
+DOCS_NETWORK.md
