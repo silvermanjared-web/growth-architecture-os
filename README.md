@@ -14,7 +14,7 @@ Do not read the repository front to back. Start with the question you are trying
 |---|---|
 | Can I run a complex growth system? | [`02-growth-architecture/performance-media-operating-model.md`](02-growth-architecture/performance-media-operating-model.md) |
 | Can I connect media performance to business economics without overstating causality? | [`06-reference/media-metrics-to-financial-outcomes.md`](06-reference/media-metrics-to-financial-outcomes.md) |
-| Can I show current bounded evidence? | [`01-case-studies/pansophic-growth-system.md`](01-case-studies/pansophic-growth-system.md) |
+| Can I show recent bounded enterprise evidence? | [`01-case-studies/pansophic-growth-system.md`](01-case-studies/pansophic-growth-system.md) |
 | Are the claims themselves governed? | [`00-positioning/claims/README.md`](00-positioning/claims/README.md) |
 | Can I establish an operating rhythm quickly? | [`03-playbooks/first-90-days.md`](03-playbooks/first-90-days.md) |
 | Is the AI work governed and useful? | [`04-ai-systems/ai-operating-model.md`](04-ai-systems/ai-operating-model.md) |

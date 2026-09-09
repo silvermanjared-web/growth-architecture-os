@@ -16,10 +16,10 @@ The old model was a flat table of approved wording. The current model separates 
 
 | Evidence | Admitted public wording | Critical boundary |
 |---|---|---|
-| Current scope | $15M+ in media across 180+ institutions inside a $700M PE-backed education enterprise | Scale, not formal enterprise P&L or company revenue ownership |
+| Recent enterprise scope | $15M+ in media across 180+ institutions inside a $700M PE-backed education enterprise | Scale, not formal enterprise P&L or company revenue ownership |
 | Operating transformation | Governed performance-media and CRO model across three business units with five CRO workstreams | Cross-functional governance, not ownership of every function |
 | Capital allocation | Redirected $500K in media investment across priority markets | Do not invent incremental revenue, profit, or savings |
-| Current funnel outcome | Lead-to-enrollment improved from approximately 17% to 28% following a broader nine-school channel-mix correction | Observed after the broader change; never YouTube-only causality |
+| Recent funnel outcome | Lead-to-enrollment improved from approximately 17% to 28% following a broader nine-school channel-mix correction | Observed after the broader change; never YouTube-only causality |
 | CRO infrastructure | 150+ custom landing pages | Infrastructure scale, not 150+ experiments or a claimed conversion lift |
 | High-pressure execution | 60+ campaigns restructured in under four weeks | Do not attach unrelated downstream outcomes |
 | WEX | Approximately 500% growth in approved applications after a phased rebuild | Approved applications are not revenue or profit |
@@ -34,7 +34,7 @@ The old model was a flat table of approved wording. The current model separates 
 
 - Keep every metric at the funnel level supported by its source.
 - Separate scope from outcome and contribution from causality.
-- The canonical resume may clear current-employer metrics for public use; private internal diagnostics remain excluded.
+- The canonical resume may clear employer-derived metrics for public use; private internal diagnostics remain excluded.
 - Semantic routing may choose or narrow approved evidence. It may never strengthen a claim.
 - If a question does not semantically close against admitted evidence, fail closed rather than filling the gap with plausible language.
 

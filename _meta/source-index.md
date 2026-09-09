@@ -19,7 +19,7 @@ Do not turn source material into confidential disclosure. Public-facing repo con
 
 ## Canonical claim authority
 
-The current canonical resume controls positioning, chronology, titles, dates, current-role framing, and resume-cleared metrics.
+The current canonical resume controls positioning, chronology, titles, dates, role chronology and tense framing, and resume-cleared metrics.
 
 Use `00-positioning/claims/claims-registry.json` as the machine-readable public claim authority and `00-positioning/proof-points.md` as the human-facing entry point. Semantic routing lives under `00-positioning/claims/` and may select only admitted public evidence.
 
