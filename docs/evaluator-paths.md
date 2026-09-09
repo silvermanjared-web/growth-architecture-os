@@ -20,9 +20,9 @@ What to look for:
 - how I connect investment, CRO, measurement, agencies, and decision cadence
 - how I clarify ownership and decision rights
 - how I stabilize before scaling
-- how current portfolio evidence is bounded by explicit claim controls
+- how recent enterprise evidence is bounded by explicit claim controls
 
-## If you are evaluating current bounded evidence
+## If you are evaluating recent bounded enterprise evidence
 
 Start here:
 
@@ -190,7 +190,7 @@ What to look for:
 
 Pick the question that matters most and inspect the evidence directly:
 
-1. **Current growth systems leadership:** [`01-case-studies/pansophic-growth-system.md`](../01-case-studies/pansophic-growth-system.md)
+1. **Recent enterprise growth systems leadership:** [`01-case-studies/pansophic-growth-system.md`](../01-case-studies/pansophic-growth-system.md)
 2. **Claim discipline:** [`00-positioning/claims/README.md`](../00-positioning/claims/README.md)
 3. **Business and financial judgment:** [`06-reference/media-metrics-to-financial-outcomes.md`](../06-reference/media-metrics-to-financial-outcomes.md)
 4. **Concrete acquisition outcome:** [`01-case-studies/wex-app-growth-rebuild.md`](../01-case-studies/wex-app-growth-rebuild.md)

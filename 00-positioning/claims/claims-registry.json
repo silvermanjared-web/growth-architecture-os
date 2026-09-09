@@ -5,7 +5,7 @@
     "label": "August 2026 canonical resume",
     "filename": "Jared_Neal_Silverman_August_2026_Final_Resume.docx",
     "sha256": "b0d5e2e6cc1d26219161766dacbd25140937a5edc09aab7eba7f449898e6484f",
-    "role": "Primary authority for positioning, chronology, titles, dates, current-role framing, and resume-cleared claims."
+    "role": "Primary authority for positioning, chronology, titles, dates, role chronology and tense framing, and resume-cleared claims."
   },
   "public_safety": {
     "excluded_categories": [
@@ -71,7 +71,7 @@
         "enterprise_scale",
         "growth_systems"
       ],
-      "canonical_public_wording": "Current work sits inside a $700M PE-backed education enterprise.",
+      "canonical_public_wording": "Most recent enterprise work sat inside a $700M PE-backed education enterprise.",
       "metric": {
         "value": 700000000,
         "unit": "USD",
@@ -95,7 +95,7 @@
         "enterprise_scale",
         "capital_allocation"
       ],
-      "canonical_public_wording": "Lead $15M+ in media investment across a complex education portfolio.",
+      "canonical_public_wording": "Led $15M+ in media investment across a complex education portfolio.",
       "metric": {
         "value": 15000000,
         "unit": "USD",
@@ -119,7 +119,7 @@
         "portfolio_scale",
         "enterprise_scale"
       ],
-      "canonical_public_wording": "Operate across a portfolio of 180+ institutions.",
+      "canonical_public_wording": "Operated across a portfolio of 180+ institutions.",
       "metric": {
         "value": 180,
         "unit": "institutions",

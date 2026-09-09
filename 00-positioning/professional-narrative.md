@@ -23,7 +23,7 @@ I map how demand actually moves. I identify where measurement is trusted, broken
 The common thread is ownership of the connective tissue between performance, measurement, partners, and leadership decisions.
 
 - Performance marketing leadership across brands, channels, agencies, and internal teams
-- Media investment strategy and allocation across $15M+ current portfolio scope and $100M+ historical global programs
+- Media investment strategy and allocation across $15M+ recent enterprise portfolio scope and $100M+ historical global programs
 - Full-funnel growth systems across performance media, CRO, measurement, CRM, and enrollment or revenue operations
 - Agency governance: SOWs, scope, standards, accountability, and in-housing decisions
 - Marketing operations infrastructure that makes execution cleaner without simply adding headcount
@@ -33,7 +33,7 @@ The common thread is ownership of the connective tissue between performance, mea
 
 The thread through my career is practical systems work.
 
-At global agencies, that meant planning, measurement, and enablement frameworks across complex enterprise accounts. At Stand Together, it meant rebuilding paid media operations for a large advocacy and philanthropic network. At NP Digital, it meant restructuring a large paid media division during rapid growth and operational reset. At Pansophic Learning, it means leading the growth operating system connecting $15M+ in media, CRO, measurement, agency governance, and investment decisions across 180+ institutions.
+At global agencies, that meant planning, measurement, and enablement frameworks across complex enterprise accounts. At Stand Together, it meant rebuilding paid media operations for a large advocacy and philanthropic network. At NP Digital, it meant restructuring a large paid media division during rapid growth and operational reset. At Pansophic Learning, it meant leading the growth operating system connecting $15M+ in media, CRO, measurement, agency governance, and investment decisions across 180+ institutions.
 
 Different environments. Same pattern.
 

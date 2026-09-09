@@ -4,7 +4,7 @@
 
 A $700M PE-backed education enterprise with 180+ institutions needed performance media, CRO, measurement, agency work, and investment decisions to operate as one system.
 
-The current mandate spans $15M+ in media across a complex portfolio and three business units. The growth challenge was not just channel performance. It was system performance.
+The mandate spanned $15M+ in media across a complex portfolio and three business units. The growth challenge was not just channel performance. It was system performance.
 
 ## Problem
 
