@@ -2,9 +2,9 @@
   "schema_version": "growth-architecture.claim-registry/v1",
   "owner": "Jared Silverman",
   "canonical_resume_binding": {
-    "label": "August 2026 canonical resume",
-    "filename": "Jared_Neal_Silverman_August_2026_Final_Resume.docx",
-    "sha256": "b0d5e2e6cc1d26219161766dacbd25140937a5edc09aab7eba7f449898e6484f",
+    "label": "September 2026 canonical resume",
+    "filename": "Jared_Neal_Silverman_September_2026_Canonical_Master_Resume.docx",
+    "sha256": "cb48c0df00ecda2d2e13625843a6993389fbe7313b1068a004815d93fce46a31",
     "role": "Primary authority for positioning, chronology, titles, dates, role chronology and tense framing, and resume-cleared claims."
   },
   "public_safety": {
