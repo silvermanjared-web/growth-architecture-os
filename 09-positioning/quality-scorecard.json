@@ -1,0 +1,26 @@
+{
+  "objective": "hireability",
+  "minimum_tier_1_score": 80,
+  "weights": {
+    "truth_and_evidence": 20,
+    "role_requirement_alignment": 15,
+    "intended_communication": 10,
+    "jared_voice": 10,
+    "truth_to_value_translation": 15,
+    "persuasion_convincingness": 15,
+    "specificity_and_proof": 10,
+    "clarity_and_economy": 5
+  },
+  "reviewed_surfaces": [
+    {"path": "README.md", "score": 94, "tier": 1},
+    {"path": "00-positioning/executive-bio.md", "score": 95, "tier": 1},
+    {"path": "00-positioning/professional-narrative.md", "score": 94, "tier": 1},
+    {"path": "00-positioning/proof-points.md", "score": 90, "tier": 1},
+    {"path": "09-positioning/recruiter-talking-points.md", "score": 94, "tier": 1},
+    {"path": "09-positioning/interview-stories.md", "score": 93, "tier": 1},
+    {"path": "docs/evaluator-paths.md", "score": 91, "tier": 1},
+    {"path": "profile/README.md", "score": 95, "tier": 1, "repository": "silvermanjared-web/silvermanjared-web"}
+  ],
+  "release_status": "PASS",
+  "principle": "Accuracy is a hard constraint; hireability is the positioning objective."
+}
