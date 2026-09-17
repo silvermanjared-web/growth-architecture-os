@@ -1,6 +1,8 @@
 # Interview Story Map
 
-These are public-safe story routes, not scripts. Use the governed claim system in `00-positioning/claims/` to select evidence and preserve metric and causal boundaries.
+These story routes are designed to answer the employer's actual question: **what does this evidence show Jared can do for this organization?**
+
+Use the strongest relevant supported evidence first. Keep factual and causal controls in the governed claim system rather than turning caveats into the thesis of the answer.
 
 ## Story 1: Rebuilding a growth operating system
 
@@ -10,62 +12,60 @@ These are public-safe story routes, not scripts. Use the governed claim system i
 
 **Action:** Rebuilt performance media and CRO into a governed model across three business units, including five CRO workstreams and shared standards for conversion logic, taxonomy, QA, pacing, reporting, escalation, and ownership.
 
-**Result:** Leadership gained a clearer operating structure for interpreting spend, funnel performance, forecast exposure, and the decisions that needed to move.
+**Result / employer value:** Created a clearer growth operating system connecting spend, funnel performance, forecast exposure, partners, and leadership decisions. This demonstrates the ability to bring structure to a fragmented enterprise environment and create repeatable operating leverage.
 
 **Claim route:** `operating_transformation`
 
 ## Story 2: Making an allocation decision under pressure
 
-**Use for:** capital allocation, difficult decisions, incomplete data, forecasting and risk.
+**Use for:** capital allocation, difficult decisions, incomplete data, forecasting, executive judgment.
 
-**Situation:** Portfolio performance and forecast risk required moving investment rather than defending the existing plan.
+**Situation:** Portfolio performance and forecast risk required changing the investment plan rather than defending existing allocations.
 
 **Action:** Redirected $500K across priority markets using funnel quality, pacing, and portfolio needs to guide the tradeoff.
 
-**Result:** The reallocation created a clearer investment response to changing performance conditions. Do not invent incremental revenue or profit.
+**Result / employer value:** Demonstrated willingness and ability to treat media as capital, make portfolio-level tradeoffs, and move investment when the evidence changed rather than optimize around sunk decisions.
+
 **Claim route:** `capital_allocation`
 
-## Story 3: Correcting channel mix without overstating causality
+## Story 3: Correcting channel mix using downstream signals
 
 **Use for:** growth outcomes, channel strategy, full-funnel thinking, measurement discipline.
 
 **Situation:** A nine-school acquisition mix had become too search-heavy and top-line efficiency was not telling the full downstream story.
 
-**Action:** Corrected the broader channel mix and used deeper enrollment signals to evaluate the change.
+**Action:** Corrected the broader channel mix and used deeper enrollment signals to evaluate performance.
 
-**Result:** Lead-to-enrollment improved from approximately 17% to 28% following the broader correction, informing subsequent allocation planning.
-
-**Boundary:** This is an observed outcome after the broader mix change, not proof that one channel caused the improvement.
+**Result / employer value:** Lead-to-enrollment improved from approximately 17% to 28% following the broader correction. The story demonstrates full-funnel judgment: optimizing the acquisition system around downstream quality rather than allowing inexpensive front-end metrics to dictate investment.
 
 **Claim route:** `current_growth_outcome`
 
 ## Story 4: Rebuilding acquisition end to end
 
-**Use for:** acquisition turnaround, account rebuild, performance improvement, measurement alignment.
+**Use for:** acquisition turnaround, performance improvement, measurement alignment, growth economics.
 
 **Situation:** WEX needed a cleaner acquisition system across account structure, conversion tracking, KPI alignment, QA, and pacing.
 
-**Action:** Led a phased rebuild around the right application-stage signal rather than surface-level activity.
+**Action:** Led a phased rebuild around approved applications, aligning media structure and optimization with the deeper application-stage signal that mattered to the business.
 
-**Result:** Approved applications grew approximately 500% after the rebuild.
-**Boundary:** Approved applications are not revenue or profit.
+**Result / employer value:** Approved applications grew approximately 500% after the rebuild. This demonstrates the ability to diagnose an acquisition system, change multiple operating levers, and materially increase the productive output of marketing investment.
 
 **Claim route:** `acquisition_rebuild`
 
 ## Story 5: Leading at global scale
 
-**Use for:** large-team leadership, global complexity, enterprise programs.
+**Use for:** large-team leadership, global complexity, enterprise programs, scalable standards.
 
 **Situation:** Global digital investment required shared standards across North America, EMEA, APJ, and LATAM.
 
 **Action:** Led 30+ person teams spanning media, analytics, and strategy across $100M+ programs.
 
-**Result:** Built planning, testing, measurement, and enablement frameworks that could operate across regions while preserving local execution judgment.
-
-**Boundary:** 30+ person teams does not mean 30+ direct reports.
+**Result / employer value:** Built planning, testing, measurement, and enablement frameworks that could operate across regions while preserving local execution judgment. This demonstrates leadership across scale, complexity, disciplines, and geographies rather than dependence on one market or channel.
 
 **Claim routes:** `people_leadership`, `global_scale`
 
 ## Selection rule
 
-Do not use the story with the flashiest metric. Use the story that best closes the competency being tested. If the requested axis is unsupported, do not fill the gap with plausible prose.
+Choose the story that best proves the capability the employer needs. Lead with the supported achievement and translate it into employer value. Apply evidence boundaries silently unless the distinction is material to the question.
+
+**Do not answer an objection the employer has not raised.** Accuracy is a hard constraint; hireability is the positioning objective.

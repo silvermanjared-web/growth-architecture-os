@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "objective": "hireability",
+  "tier_1_minimum": 80,
+  "factors": [
+    {"name": "truth_and_evidence", "weight": 20},
+    {"name": "role_requirement_alignment", "weight": 15},
+    {"name": "intended_communication", "weight": 10},
+    {"name": "jared_voice", "weight": 10},
+    {"name": "truth_to_value_translation", "weight": 15},
+    {"name": "persuasion_convincingness", "weight": 15},
+    {"name": "specificity_and_proof", "weight": 10},
+    {"name": "clarity_and_economy", "weight": 5}
+  ],
+  "hard_constraint": "No score can authorize a claim outside the governed evidence boundary.",
+  "release_rule": "truth_test_pass AND hireability_score >= 80"
+}
