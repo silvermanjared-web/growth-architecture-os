@@ -10,11 +10,14 @@ The evidence system in `../00-positioning/claims/` controls what may be claimed.
 
 ## Start here
 
-- [`hireability-quality-standard.md`](hireability-quality-standard.md) — Tier 1 quality contract and 100-point model
+- [`hireability-standard.md`](hireability-standard.md) — canonical Tier 1 quality contract and 100-point model
+- [`positioning-contract.md`](positioning-contract.md) — evidence-to-positioning authority split
 - [`hireability-audit.md`](hireability-audit.md) — current public-surface audit
+- [`quality-scorecard.md`](quality-scorecard.md) — human-readable Tier 1 scoring
 - [`role-targeting.md`](role-targeting.md) — target roles and environments
 - [`recruiter-talking-points.md`](recruiter-talking-points.md) — recruiter-facing value proposition
 - [`interview-stories.md`](interview-stories.md) — evidence-to-employer-value story routes
+- [`release-checklist.md`](release-checklist.md) — pre-release QA
 
 ## Positioning rule
 
