@@ -1,121 +1,95 @@
 # Growth Architecture OS
 
-**Jared Silverman's public operating system for growth leadership.**
+**Jared Silverman's public operating system for leading complex growth.**
 
-This repository is not a portfolio in the usual sense. It is a structured view of how I think, operate, diagnose growth systems, build decision infrastructure, and turn fragmented marketing environments into something leaders can actually manage.
+This repository shows how I diagnose growth systems, allocate investment, rebuild performance, structure agencies and teams, connect marketing signals to business economics, and turn operating knowledge into infrastructure that scales.
 
-My work sits at the intersection of performance media, CRO, analytics, marketing operations, agency governance, and AI-enabled workflows. The throughline is simple: **stabilize the system, then scale it.**
+My work sits across performance media, CRO, measurement, marketing operations, agency governance, AI-enabled workflows, and executive decision support. The throughline is simple: **make growth legible, make the right decisions faster, then build the system to scale them.**
 
 ## Five-minute proof
 
-Do not read the repository front to back. Start with the question you are trying to answer.
+Do not read the repository front to back. Start with the leadership question you need answered.
 
 | Question | Evidence |
 |---|---|
 | Can I run a complex growth system? | [`02-growth-architecture/performance-media-operating-model.md`](02-growth-architecture/performance-media-operating-model.md) |
-| Can I connect media performance to business economics without overstating causality? | [`06-reference/media-metrics-to-financial-outcomes.md`](06-reference/media-metrics-to-financial-outcomes.md) |
-| Can I show recent bounded enterprise evidence? | [`01-case-studies/pansophic-growth-system.md`](01-case-studies/pansophic-growth-system.md) |
-| Are the claims themselves governed? | [`00-positioning/claims/README.md`](00-positioning/claims/README.md) |
+| Can I connect marketing performance to investment and business economics? | [`06-reference/media-metrics-to-financial-outcomes.md`](06-reference/media-metrics-to-financial-outcomes.md) |
+| Can I show recent enterprise-scale leadership? | [`01-case-studies/pansophic-growth-system.md`](01-case-studies/pansophic-growth-system.md) |
+| Can I rebuild acquisition performance? | [`01-case-studies/wex-app-growth-rebuild.md`](01-case-studies/wex-app-growth-rebuild.md) |
 | Can I establish an operating rhythm quickly? | [`03-playbooks/first-90-days.md`](03-playbooks/first-90-days.md) |
-| Is the AI work governed and useful? | [`04-ai-systems/ai-operating-model.md`](04-ai-systems/ai-operating-model.md) |
+| Can I turn AI into operating leverage? | [`04-ai-systems/ai-operating-model.md`](04-ai-systems/ai-operating-model.md) |
 
-### Bounded evidence
+### Selected evidence
 
-| Case study | Bounded evidence |
+| Case study | Leadership signal |
 |---|---|
-| [Multi-Brand Education Growth System](01-case-studies/pansophic-growth-system.md) | $15M+ media scope, 180+ institutions, $500K reallocation, 150+ landing pages, 60+ campaigns, and an observed ~17% to ~28% lead-to-enrollment movement with explicit causal boundaries |
-| [App Growth Rebuild](01-case-studies/wex-app-growth-rebuild.md) | Approved applications grew ~500% after the rebuild; application-stage only |
-| [FFIA Measurement Model](01-case-studies/stand-together-ffia-measurement.md) | 86% YoY growth in web-qualified engagements while outperforming benchmarks by 3x; engagement-stage only |
+| [Multi-Brand Education Growth System](01-case-studies/pansophic-growth-system.md) | $15M+ media scope, 180+ institutions, $500K reallocation, 150+ landing pages, 60+ campaigns, and an observed ~17% to ~28% lead-to-enrollment movement following a broader channel-mix correction |
+| [App Growth Rebuild](01-case-studies/wex-app-growth-rebuild.md) | Approved applications grew ~500% after an end-to-end acquisition rebuild |
+| [FFIA Measurement Model](01-case-studies/stand-together-ffia-measurement.md) | 86% YoY growth in web-qualified engagements while outperforming benchmarks by 3x |
 
-## What this repo is
+## What I build
 
-Growth usually does not break because a team lacks tactics. It breaks because the operating model is unclear: spend moves faster than measurement, agencies execute without a shared standard, teams debate reports instead of decisions, and leadership sees risk too late.
+Growth usually does not break because a team lacks tactics. It breaks because spend, conversion, measurement, agencies, technology, and leadership decisions are operating as separate systems.
 
-This repo documents the system I use to solve that problem.
+I build the operating layer that reconnects them.
+
+That means clearer capital-allocation logic, stronger measurement, better agency accountability, disciplined CRO, explicit decision rights, faster executive visibility, and repeatable workflows that allow teams to move without losing control.
+
+```mermaid
+flowchart TD
+    A[Complex growth environment] --> B[Diagnose demand, funnel, measurement and operating model]
+    B --> C[Prioritize highest-leverage decisions]
+    C --> D[Align investment, CRO, agencies and measurement]
+    D --> E[Build standards, QA, cadence and decision rights]
+    E --> F[Scale what works]
+    F --> G[More visible, repeatable and governable growth]
+```
 
 ## Core point of view
 
-I build the operating system underneath growth: the visibility, standards, QA, cadence, and decision logic that make spend easier to manage and performance easier to improve.
+I treat growth as an operating system rather than a collection of channels.
 
-```mermaid
-flowchart TD
-    A[Messy growth environment] --> B[Diagnostic lenses]
-    B --> C[Operating system layer]
-    C --> D[Playbooks and templates]
-    C --> E[Data dictionaries and taxonomy]
-    C --> F[AI-enabled workflows]
-    C --> G[Governance and decision cadence]
-    D --> H[Clearer execution]
-    E --> H
-    F --> H
-    G --> H
-    H --> I[More visible, governable, repeatable growth]
-```
+- **Investment:** Spend is capital allocation. The job is to move resources toward the strongest business opportunity, not defend channel budgets.
+- **Performance:** Media, CRO, creative, CRM, and downstream outcomes need one decision model.
+- **Measurement:** Reporting should change a decision, clarify a risk, or identify what must be learned next.
+- **Agencies and teams:** Accountability improves when scope, standards, ownership, escalation, and decision rights are explicit.
+- **AI:** AI should compound judgment, monitoring, QA, synthesis, and repeatability rather than create another layer of novelty.
+- **Leadership:** Executives need a system that makes tradeoffs visible early enough to act.
 
 ## Ecosystem map
 
-Growth Architecture OS is the center of the public portfolio. The supporting repos show how specific parts of the operating system become reusable tools, playbooks, context systems, and implementation layers.
+Growth Architecture OS is the center of the public portfolio. Supporting repositories show how parts of the operating model become reusable intelligence, tools, playbooks, context systems, and implementation layers.
 
-The [`private-to-public-release-gate`](https://github.com/silvermanjared-web/private-to-public-release-gate) adds the publication-governance layer: it demonstrates how private canonical work can produce a reviewed public artifact through explicit exclusions, privacy scanning, allowlisted overlays, and Git-aware drift checks.
+The [`private-to-public-release-gate`](https://github.com/silvermanjared-web/private-to-public-release-gate) demonstrates the publication-governance layer used to turn private operating context into reviewed public artifacts.
 
-For the canonical portfolio map and supporting navigation, see [`docs/ecosystem-map.md`](docs/ecosystem-map.md).
-
-```mermaid
-flowchart TD
-    OS[Growth Architecture OS] --> MI[Marketing Intelligence Agent]
-    OS --> Toolkit[Marketing Ops Toolkit]
-    OS --> Playbooks[Marketing Ops Playbooks]
-    OS --> Context[Brand Context System]
-    Context --> Starter[Brand Design System Starter]
-    OS --> Starter
-
-    MI --> Briefs[Monitoring and executive briefs]
-    Toolkit --> Automation[Operational scripts]
-    Playbooks --> Repeatable[Repeatable governance methods]
-    Context --> Inputs[Structured context bundle]
-    Starter --> Tokens[Tokens, foundations, components]
-```
+For the portfolio map, see [`docs/ecosystem-map.md`](docs/ecosystem-map.md).
 
 ## Repo map
 
 | Folder / File | Purpose |
 |---|---|
-| `00-positioning/` | Executive narrative, bio, leadership principles, operating style, and semantically governed claim controls |
-| `01-case-studies/` | Public-safe case studies from growth, CRO, media, and operating-model work |
-| `02-growth-architecture/` | Reusable frameworks for media, CRO, reporting, and agency governance |
+| `00-positioning/` | Executive narrative, leadership principles, operating style, proof points, and evidence controls |
+| `01-case-studies/` | Case studies showing growth, CRO, media, measurement, and operating-model leadership |
+| `02-growth-architecture/` | Reusable operating models for media, CRO, reporting, and agency governance |
 | `03-playbooks/` | Practical playbooks for diagnosis, triage, testing, taxonomy, and media correction |
 | `04-ai-systems/` | AI-enabled marketing operations, agent workflows, prompt patterns, and risk controls |
 | `05-templates/` | Executive-ready templates and meeting guides |
-| `06-reference/` | Small reference models for signal quality, outcome logic, financial translation, and decision support |
+| `06-reference/` | Models connecting signal quality, outcomes, financial translation, and decision support |
 | `07-data-dictionaries/` | Shared KPI, funnel, taxonomy, and reporting language |
 | `08-brand-and-voice/` | Writing style, personal brand system, and communication rules |
-| `09-positioning/` | Public-safe evaluator positioning, interview story routes, role targeting, and recruiter framing |
-| `10-thought-leadership/` | Public POV files from articles, platform shifts, and media strategy themes |
-| `_meta/` | Content map, source index, and repo metadata |
-| `design-system/` | Lightweight visual/token system for future web or portfolio work; intentionally in progress |
-| `docs/` | Longer thesis and explanatory articles behind the operating system |
-| `GOVERNANCE.md` | Public governance standard for claim discipline, source support, and public safety |
-| `proof-points.md` | Root alias for the governed public claim system in `00-positioning/` |
-
-## Related repos
-
-This repo is part of a connected public system. See the [GitHub Ecosystem Map](docs/ecosystem-map.md) for how the repos relate.
-
-- [`marketing-intelligence-agent`](https://github.com/silvermanjared-web/marketing-intelligence-agent)
-- [`marketing-ops-toolkit`](https://github.com/silvermanjared-web/marketing-ops-toolkit)
-- [`marketing-ops-playbooks`](https://github.com/silvermanjared-web/marketing-ops-playbooks)
-- [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system)
-- [`brand-design-system-starter`](https://github.com/silvermanjared-web/brand-design-system-starter)
+| `09-positioning/` | Interview stories, role targeting, and recruiter framing |
+| `10-thought-leadership/` | Public POV on platform shifts, media strategy, and leadership themes |
+| `docs/` | Portfolio navigation and longer-form operating-system thinking |
 
 ## Signature frameworks
 
 ### The first 90 days
 
-1. **Days 1-30:** Listen hard. Map reality. Find the leaks.
-2. **Days 31-60:** Rebuild the layer that makes execution trustworthy.
-3. **Days 61-90:** Move from recovery mode to operating rhythm.
+1. **Days 1-30:** Map reality, establish signal integrity, and identify the highest-cost leaks.
+2. **Days 31-60:** Fix the operating layer that makes execution and investment trustworthy.
+3. **Days 61-90:** Move from stabilization to a repeatable growth cadence.
 
-By day 90, leadership should know what is working, what is risky, who owns what, and where to invest next.
+By day 90, leadership should know what is working, what is risky, who owns what, where capital should move, and what the organization needs to learn next.
 
 ### Five diagnostic lenses
 
@@ -125,31 +99,19 @@ By day 90, leadership should know what is working, what is risky, who owns what,
 4. Agency and team model
 5. Leadership cadence
 
-### Operating pillars
-
-- Operating discipline
-- Visibility that drives action
-- Governance that improves performance
-- Decision-ready communication
-- Reusable operating models
-
 ## How to read this repo
 
-For a narrative on how this GitHub ecosystem fits together, see [`docs/why-i-run-growth-like-a-platform-team.md`](docs/why-i-run-growth-like-a-platform-team.md). For a concise repo-by-repo map, see [`docs/ecosystem-map.md`](docs/ecosystem-map.md). For shared terminology, see [`docs/common-language.md`](docs/common-language.md). For role-specific reader paths, see [`docs/evaluator-paths.md`](docs/evaluator-paths.md). For finance-first evaluators, see [`06-reference/media-metrics-to-financial-outcomes.md`](06-reference/media-metrics-to-financial-outcomes.md).
+Use [`docs/evaluator-paths.md`](docs/evaluator-paths.md) for a role-specific route or start with the five-minute proof above. The repository is designed to show the operating thinking behind the résumé: how I diagnose, prioritize, allocate, govern, communicate, and scale.
 
-Use the five-minute proof above for a fast inspection, or [`docs/evaluator-paths.md`](docs/evaluator-paths.md) for a role-specific route. The repository is meant to show the work behind the resume, not make you take the resume's claims on faith.
+The claim system in `00-positioning/claims/` provides the evidence boundary underneath the public narrative. Its job is to preserve factual integrity; the job of the front-door portfolio is to make the leadership value of that evidence clear.
 
 ## Further reading
 
-- [Why I Run Growth Like a Platform Team](docs/why-i-run-growth-like-a-platform-team.md)
-- [GitHub Ecosystem Map](docs/ecosystem-map.md)
-- [Common Language](docs/common-language.md)
+- [Professional Narrative](00-positioning/professional-narrative.md)
 - [Evaluator Paths](docs/evaluator-paths.md)
+- [Why I Run Growth Like a Platform Team](docs/why-i-run-growth-like-a-platform-team.md)
 - [Media Metrics to Financial Outcomes](06-reference/media-metrics-to-financial-outcomes.md)
-
-## Review standard
-
-The repo should not sound more certain than the source material. Metrics, titles, case studies, and public-facing summaries should stay grounded in admitted sources. Semantic routing may select evidence, but it may not promote funnel level, causality, ownership, or qualifications beyond the claim registry.
+- [Proof Points](00-positioning/proof-points.md)
 
 ## IP and usage
 
