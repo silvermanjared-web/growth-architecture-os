@@ -1,0 +1,6 @@
+release_status=PASS
+tier=1
+minimum_score=80
+objective=hireability
+factual_authority=00-positioning/claims/
+canonical_standard=09-positioning/hireability-standard.md
