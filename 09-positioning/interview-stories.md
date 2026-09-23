@@ -28,19 +28,31 @@ Use the strongest relevant supported evidence first. Keep factual and causal con
 
 **Claim route:** `capital_allocation`
 
-## Story 3: Correcting channel mix using downstream signals
+## Story 3: Testing channel allocation by school economics
 
-**Use for:** growth outcomes, channel strategy, full-funnel thinking, measurement discipline.
+**Use for:** channel strategy, experimentation, capital allocation, full-funnel judgment.
 
-**Situation:** A nine-school acquisition mix had become too search-heavy and top-line efficiency was not telling the full downstream story.
+**Situation:** Across a nine-school group, the right balance between Meta lead generation and paid search could not be determined from top-line efficiency alone.
 
-**Action:** Corrected the broader channel mix and used deeper enrollment signals to evaluate performance.
+**Action:** Ran a school-level allocation test to determine when incremental investment should favor Meta versus paid search, using school economics, available scale, and downstream conversion quality as the decision context.
 
-**Result / employer value:** Lead-to-enrollment improved from approximately 17% to 28% following the broader correction. The story demonstrates full-funnel judgment: optimizing the acquisition system around downstream quality rather than allowing inexpensive front-end metrics to dictate investment.
+**Result / employer value:** The test showed there was no universal channel winner. The right mix depended on the school and the economics underneath the funnel, demonstrating disciplined allocation judgment rather than channel bias.
+
+**Claim route:** `channel_allocation_test`
+
+## Story 4: Using deeper-funnel movement to guide channel planning
+
+**Use for:** growth outcomes, channel planning, full-funnel thinking, measurement discipline.
+
+**Situation:** The portfolio needed broader acquisition coverage and stronger use of downstream enrollment signals.
+
+**Action:** Reintroduced YouTube within the broader acquisition mix and evaluated subsequent portfolio movement through the lead-to-enrollment signal.
+
+**Result / employer value:** Portfolio lead-to-enrollment improved from approximately 17% to 28% after the change, informing subsequent planning. The story demonstrates the ability to use deeper-funnel outcomes without overstating single-channel causality.
 
 **Claim route:** `current_growth_outcome`
 
-## Story 4: Rebuilding acquisition end to end
+## Story 5: Rebuilding acquisition end to end
 
 **Use for:** acquisition turnaround, performance improvement, measurement alignment, growth economics.
 
@@ -52,7 +64,7 @@ Use the strongest relevant supported evidence first. Keep factual and causal con
 
 **Claim route:** `acquisition_rebuild`
 
-## Story 5: Leading at global scale
+## Story 6: Leading at global scale
 
 **Use for:** large-team leadership, global complexity, enterprise programs, scalable standards.
 
