@@ -38,21 +38,27 @@ The model made experimentation and conversion work less ad hoc across media, ana
 
 ### Move capital when the portfolio required it
 
-Redirected $500K in media investment across priority markets rather than protecting the existing plan when performance and forecast risk pointed elsewhere.
+Directed a $500K cross-market media reallocation across priority markets, including the flagship school, when downstream performance and forecast risk justified moving investment.
 
-The point of the evidence is the allocation decision itself. It is not a claim of incremental revenue, profit, or savings.
+The point of the evidence is the allocation judgment and downstream orientation. It is not a claim of incremental revenue, profit, or savings.
 
-### Correct channel mix against deeper funnel quality
+### Test channel allocation by school economics
 
-Across a nine-school brick-and-mortar group, the acquisition mix had become too search-heavy. Following a broader channel-mix correction, lead-to-enrollment improved from approximately 17% to 28%, informing subsequent allocation planning.
+Ran a separate nine-school allocation test to determine when incremental investment should favor Meta lead generation versus paid search.
 
-The result is treated as an observed outcome after the broader mix change, not as proof of single-channel causality.
+The finding was not that one channel universally won. The right allocation depended on school-level economics, available scale, and downstream conversion quality.
+
+### Reintroduce YouTube and watch the deeper funnel
+
+Separately, YouTube was reintroduced within the broader acquisition mix. Following that change, portfolio lead-to-enrollment improved from approximately 17% to 28%, informing subsequent channel planning.
+
+The movement is treated as an observed portfolio outcome after the change, not proof of YouTube-only causality.
 
 ### Scale conversion and measurement infrastructure
 
-Scaled acquisition and conversion infrastructure across 150+ custom landing pages while strengthening Google/Meta-to-Salesforce measurement, offline and deep-funnel conversion signals, and QA.
+Scaled acquisition and conversion infrastructure across 150+ custom landing pages while strengthening platform-to-Salesforce signals, reporting QA, attribution, dashboard interfaces, and deeper-funnel optimization inputs.
 
-The objective was to make applications and enrollments increasingly usable as investment signals rather than optimizing only to lead volume.
+The objective was to make applications and enrollments increasingly usable as bidding and allocation signals rather than optimizing only to lead volume. The work also included evaluation of call-tracking and measurement integrations, interpretation of MMM outputs, and design of incrementality and retention-testing roadmaps; proposed or modeled work remains distinct from realized outcomes.
 ### Stabilize execution at speed
 
 Restructured 60+ campaigns in under four weeks during a high-pressure enrollment period, restoring clearer market, audience, and channel architecture while improving visibility into pacing and execution risk.
@@ -80,7 +86,7 @@ The value is not simply better campaign management. It is better business contro
 
 ## Claim boundaries
 
-The quantitative evidence in this case study is governed in `../00-positioning/claims/claims-registry.json`. The 17% to 28% result is observational after a broader mix correction. The $500K reallocation is an investment decision, not a claimed financial return. The 150+ landing pages and 60+ campaigns establish operating scale, not isolated causal outcomes.
+The quantitative evidence in this case study is governed in `../00-positioning/claims/claims-registry.json`. The $500K reallocation, the nine-school Meta-versus-paid-search allocation test, and the YouTube-associated 17% to 28% lead-to-enrollment movement are three distinct pieces of evidence. The 17% to 28% movement is observational, not proof of YouTube-only causality. The 150+ landing pages and 60+ campaigns establish operating scale, not isolated causal outcomes.
 
 ## Reusable lesson
 

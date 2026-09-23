@@ -10,8 +10,10 @@ The objective is straightforward: use supported evidence to make the clearest, s
 |---|---|---|
 | Recent enterprise scope | $15M+ in media across 180+ institutions inside a $700M PE-backed education enterprise | Enterprise portfolio scale; ability to connect investment, performance, CRO, measurement, agencies, and leadership decisions |
 | Operating transformation | Governed performance-media and CRO model across three business units with five CRO workstreams | Cross-functional transformation and operating-model leadership |
-| Capital allocation | Redirected $500K in media investment across priority markets | Portfolio judgment and willingness to move capital as performance conditions change |
-| Recent funnel outcome | Lead-to-enrollment improved from approximately 17% to 28% following a broader nine-school channel-mix correction | Full-funnel thinking and use of downstream quality signals to guide acquisition strategy |
+| Capital allocation | Directed a $500K cross-market reallocation across priority markets, including the flagship school, while tying decisions to downstream enrollment signals | Portfolio judgment and willingness to move capital as performance conditions change |
+| Channel-allocation experiment | Ran a separate nine-school Meta-versus-paid-search test; the right allocation depended on school economics, available scale, and downstream conversion quality | Experimental discipline and school-level capital-allocation judgment |
+| Recent funnel outcome | Following YouTube reintroduction within the broader acquisition mix, portfolio lead-to-enrollment improved from approximately 17% to 28% | Full-funnel thinking and use of observed downstream movement to inform channel planning without overstating causality |
+| Measurement architecture | Strengthened platform-to-Salesforce signals, reporting QA, attribution, dashboard interfaces, and deeper-funnel optimization inputs; evaluated MarTech integrations and interpreted MMM outputs | Ability to improve the information architecture behind bidding, allocation, and executive decisions |
 | CRO infrastructure | 150+ custom landing pages | Ability to build CRO infrastructure at portfolio scale |
 | High-pressure execution | 60+ campaigns restructured in under four weeks | Speed, operating discipline, and execution under material time pressure |
 | WEX | Approximately 500% growth in approved applications after a phased rebuild | End-to-end acquisition diagnosis, measurement alignment, and material improvement in productive acquisition output |

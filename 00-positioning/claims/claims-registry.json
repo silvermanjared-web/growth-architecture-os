@@ -192,7 +192,7 @@
         "forecast_risk",
         "portfolio_management"
       ],
-      "canonical_public_wording": "Redirected $500K in media investment across priority markets based on portfolio needs and allocation tradeoffs.",
+      "canonical_public_wording": "Directed a $500K cross-market media reallocation across priority markets, including the flagship school, improving downstream performance while tying investment decisions to enrollment signals rather than lead volume alone.",
       "metric": {
         "value": 500000,
         "unit": "USD",
@@ -202,36 +202,67 @@
       "causal_state": "directly_supported",
       "confidence": "verified_canonical",
       "source_refs": [
-        "canonical_resume:pansophic_allocation"
+        "canonical_resume:pansophic_allocation",
+        "01-case-studies/pansophic-growth-system.md"
       ],
       "prohibited_inference": [
-        "Do not translate the reallocation into unsupported incremental revenue, profit, or savings."
+        "Do not translate the reallocation into unsupported incremental revenue, profit, savings, or a fabricated improvement percentage.",
+        "Do not merge this decision with the separate nine-school allocation test or the YouTube-associated funnel outcome."
+      ]
+    },
+    {
+      "id": "pansophic.channel_mix_test_9_school",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "channel_mix",
+        "capital_allocation",
+        "experimentation"
+      ],
+      "canonical_public_wording": "Ran a nine-school Meta-versus-paid-search allocation test; the right allocation depended on school-level economics, available scale, and downstream conversion quality rather than a universal channel winner.",
+      "metric": {
+        "value": 9,
+        "unit": "schools",
+        "qualifier": "exact"
+      },
+      "funnel_level": "acquisition_mix",
+      "causal_state": "test_supported_allocation_finding",
+      "confidence": "operator_confirmed_canonical",
+      "source_refs": [
+        "canonical_resume:pansophic_channel_mix_test",
+        "01-case-studies/pansophic-growth-system.md"
+      ],
+      "prohibited_inference": [
+        "Do not claim Meta universally outperformed paid search or vice versa.",
+        "Do not attach the 17% to 28% lead-to-enrollment outcome to this test.",
+        "Do not merge this test with the separate $500K cross-market reallocation."
       ]
     },
     {
       "id": "pansophic.lead_to_enrollment_17_to_28",
       "company": "Pansophic Learning",
       "competencies": [
-        "channel_mix",
+        "channel_planning",
         "growth_outcomes",
         "funnel_quality"
       ],
-      "canonical_public_wording": "Following a broader nine-school channel-mix correction, lead-to-enrollment improved from approximately 17% to 28%, informing subsequent allocation planning.",
+      "canonical_public_wording": "Following YouTube reintroduction within the broader acquisition mix, portfolio lead-to-enrollment improved from approximately 17% to 28%, informing subsequent channel planning.",
       "metric": {
         "from": 17,
         "to": 28,
         "unit": "percent",
         "qualifier": "approximate",
-        "population": "nine-school group"
+        "context": "portfolio movement observed after YouTube reintroduction within the broader mix"
       },
       "funnel_level": "lead_to_enrollment",
       "causal_state": "associated_after_change",
       "confidence": "verified_canonical",
       "source_refs": [
-        "canonical_resume:pansophic_allocation"
+        "canonical_resume:pansophic_youtube",
+        "01-case-studies/pansophic-growth-system.md"
       ],
       "prohibited_inference": [
-        "Never attribute the improvement solely to YouTube or a single channel.",
+        "Do not claim YouTube alone caused the improvement.",
+        "Do not merge this outcome with the separate nine-school Meta-versus-paid-search allocation test.",
         "Do not convert lead-to-enrollment into revenue or profit."
       ]
     },
@@ -312,18 +343,46 @@
       "competencies": [
         "measurement",
         "attribution",
-        "decision_support"
+        "decision_support",
+        "media_optimization"
       ],
-      "canonical_public_wording": "Strengthened Google/Meta-to-Salesforce measurement, offline and deep-funnel conversion signals, and QA so investment decisions could increasingly optimize toward applications and enrollments rather than lead volume alone.",
+      "canonical_public_wording": "Strengthened platform-to-Salesforce signals, reporting QA, attribution, dashboard interfaces, and deeper-funnel optimization inputs so bidding and allocation could move closer to applications and enrollments rather than lead volume alone.",
       "metric": null,
       "funnel_level": "applications_and_enrollments",
       "causal_state": "directly_supported",
       "confidence": "verified_canonical",
       "source_refs": [
-        "canonical_resume:pansophic_conversion_infrastructure"
+        "canonical_resume:pansophic_measurement_architecture",
+        "01-case-studies/pansophic-growth-system.md"
       ],
       "prohibited_inference": [
-        "Do not claim perfect attribution, formal MMM ownership, or causal certainty not supported by the source."
+        "Do not claim perfect attribution, formal data-engineering ownership, or an unsupported algorithmic lift.",
+        "Keep proposed or modeled experimentation distinct from realized outcomes."
+      ]
+    },
+    {
+      "id": "pansophic.martech_measurement_experimentation",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "martech_evaluation",
+        "measurement",
+        "mmm_interpretation",
+        "incrementality",
+        "retention_experimentation"
+      ],
+      "canonical_public_wording": "Evaluated call-tracking and measurement integrations, audited reporting quality, interpreted MMM outputs, and designed incrementality and retention-testing roadmaps to strengthen allocation and decision quality.",
+      "metric": null,
+      "funnel_level": "measurement_and_lifecycle",
+      "causal_state": "mixed_realized_and_designed",
+      "confidence": "operator_confirmed_canonical",
+      "source_refs": [
+        "canonical_resume:pansophic_martech_measurement",
+        "01-case-studies/pansophic-growth-system.md"
+      ],
+      "prohibited_inference": [
+        "Do not claim a proposed call-tracking pilot or retention holdout was completed unless separately evidenced.",
+        "Do not claim formal MMM model ownership.",
+        "Do not convert modeled economics into realized savings or revenue."
       ]
     },
     {
@@ -646,5 +705,6 @@
         "Do not translate platform alignment into a revenue or performance outcome."
       ]
     }
-  ]
+  ],
+  "reviewed_on": "2026-09-23"
 }
