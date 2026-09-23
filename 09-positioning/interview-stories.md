@@ -76,6 +76,30 @@ Use the strongest relevant supported evidence first. Keep factual and causal con
 
 **Claim routes:** `people_leadership`, `global_scale`
 
+## Story 7: Building internal capability while resetting the agency model
+
+**Use for:** in-housing, people development, agency selection, capability building, change management.
+
+**Situation:** Three business units outside Online Schools needed stronger internal media capability while the external partner model was also being reassessed.
+
+**Action:** Built an in-house media capability from scratch, developed a direct report from limited media literacy into independent operating capability, and led agency RFP/partner evaluation that included removing one partner and elevating another.
+
+**Result / employer value:** Demonstrates that in-housing was not treated as a slogan or cost-cutting exercise. The work connected talent development, partner selection, economics, decision rights, and operating fit so the organization owned more of the knowledge required to govern growth.
+
+**Claim routes:** `inhouse_capability_build`, `agency_selection_governance`
+
+## Story 8: Rebuilding the forecasting basis behind investment decisions
+
+**Use for:** forecasting, planning, executive decision support, agency leadership, investment turnaround.
+
+**Situation:** Forecasts and media plans needed a stronger basis than a single assumption set, and one incremental-investment plan had become social-heavy despite being grounded in search-based forecast assumptions.
+
+**Action:** Required a multi-factor forecasting process using roughly three to four years of historical performance, MMM inputs, agency expertise, business goals, and iterative revision. Used that logic to identify the plan mismatch and redirect investment heavily toward search.
+
+**Result / employer value:** Demonstrates the ability to improve the planning machinery itself, coach partners through a more rigorous process, and use forecast logic to correct capital allocation before a flawed plan becomes an end-of-period explanation.
+
+**Claim route:** `forecasting_governance`
+
 ## Selection rule
 
 Choose the story that best proves the capability the employer needs. Lead with the supported achievement and translate it into employer value. Apply evidence boundaries silently unless the distinction is material to the question.
