@@ -65,9 +65,23 @@ Restructured 60+ campaigns in under four weeks during a high-pressure enrollment
 
 ### Reset agency governance and decision rights
 
-Tightened scope, pricing, budget controls, performance accountability, escalation, and in-housing decision rights across media, creative, analytics, and CRO.
+Tightened scope, pricing, budget controls, performance accountability, escalation, and in-housing decision rights across media, creative, analytics, and CRO. Led agency RFP and partner-evaluation work, including removing one partner and elevating another based on capability, performance, economics, and operating fit.
 
-The objective was not more vendor management. It was clearer accountability and earlier visibility into operating and spend risk.
+The objective was not more vendor management. It was clearer accountability and earlier visibility into operating and spend risk. Day to day, that also meant auditing campaign architecture and performance, coaching agency teams, and translating between specialist recommendations and internal business decisions.
+
+### Build internal capability instead of outsourcing the operating brain
+
+Stood up an in-house media capability from scratch across three business units outside Online Schools and developed a direct report from limited media literacy into independent operating capability.
+
+The in-housing decision was therefore not simply about cost. It was about which knowledge, decision rights, and execution capability the organization needed to own.
+
+### Make forecasting decision infrastructure
+
+Instituted a multi-factor forecasting process using roughly three to four years of historical performance, MMM inputs, agency expertise, business goals, and iterative revision rather than relying on one assumption set.
+
+That forecasting discipline also exposed a separate incremental-investment problem: a social-heavy allocation did not match the search-based assumptions underneath the forecast. The plan was redirected heavily toward search so investment logic matched the demand and forecast basis.
+
+Separately, built marketing initiatives, forecasts, planning materials, and marketing plans for the Capital Education (CapEd) program.
 
 ## Resulting operating model
 
@@ -77,7 +91,9 @@ The portfolio moved toward a common decision system across:
 - Campaign and audience architecture
 - Conversion definitions and measurement QA
 - CRO prioritization and rollout
-- Agency scope and accountability
+- Agency selection, scope, accountability, and partner coaching
+- In-house capability and people development
+- Multi-factor forecasting and planning discipline
 - Executive escalation and forecast risk
 
 ## Why this matters
