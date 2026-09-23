@@ -23,7 +23,7 @@ Do not read the repository front to back. Start with the leadership question you
 
 | Case study | Leadership signal |
 |---|---|
-| [Multi-Brand Education Growth System](01-case-studies/pansophic-growth-system.md) | $15M+ media scope, 180+ institutions, $500K reallocation, 150+ landing pages, 60+ campaigns, and an observed ~17% to ~28% lead-to-enrollment movement following a broader channel-mix correction |
+| [Multi-Brand Education Growth System](01-case-studies/pansophic-growth-system.md) | $15M+ media scope across 180+ institutions; a $500K cross-market reallocation; a separate nine-school Meta-versus-paid-search allocation test; YouTube reintroduction followed by an observed ~17% to ~28% portfolio lead-to-enrollment movement; 150+ landing pages; 60+ campaigns; and deeper-funnel measurement architecture |
 | [App Growth Rebuild](01-case-studies/wex-app-growth-rebuild.md) | Approved applications grew ~500% after an end-to-end acquisition rebuild |
 | [FFIA Measurement Model](01-case-studies/stand-together-ffia-measurement.md) | 86% YoY growth in web-qualified engagements while outperforming benchmarks by 3x |
 
@@ -33,7 +33,7 @@ Growth usually does not break because a team lacks tactics. It breaks because sp
 
 I build the operating layer that reconnects them.
 
-That means clearer capital-allocation logic, stronger measurement, better agency accountability, disciplined CRO, explicit decision rights, faster executive visibility, and repeatable workflows that allow teams to move without losing control.
+That means clearer capital-allocation logic, stronger measurement architecture, better agency accountability, disciplined CRO, explicit decision rights, faster executive visibility, and repeatable workflows that allow teams to move without losing control.
 
 ```mermaid
 flowchart TD
