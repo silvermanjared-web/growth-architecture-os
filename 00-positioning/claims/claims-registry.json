@@ -704,6 +704,146 @@
         "Do not imply the 21 platforms represent all Google or Alphabet media activity.",
         "Do not translate platform alignment into a revenue or performance outcome."
       ]
+    },
+    {
+      "id": "pansophic.agency_rfp_partner_selection",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "agency_governance",
+        "vendor_selection",
+        "commercial_judgment"
+      ],
+      "canonical_public_wording": "Led agency RFP and partner evaluation, including removing one agency and elevating another based on capability, performance, economics, and operating fit.",
+      "metric": null,
+      "funnel_level": "operating_model",
+      "causal_state": "operator_confirmed_action",
+      "confidence": "operator_confirmed_canonical",
+      "source_refs": [
+        "operator_confirmation:2026-09-23",
+        "01-case-studies/pansophic-growth-system.md"
+      ],
+      "prohibited_inference": [
+        "Do not invent procurement savings or imply sole enterprise procurement authority.",
+        "Do not name specific removed/elevated agencies unless separately appropriate and supported."
+      ]
+    },
+    {
+      "id": "pansophic.inhouse_team_three_business_units",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "in_housing",
+        "people_leadership",
+        "capability_building"
+      ],
+      "canonical_public_wording": "Built an in-house media capability from scratch across three business units outside Online Schools and developed a direct report from limited media literacy to independent operating capability.",
+      "metric": {
+        "business_units": 3,
+        "unit": "business_units",
+        "qualifier": "exact"
+      },
+      "funnel_level": "operating_model",
+      "causal_state": "operator_confirmed_action",
+      "confidence": "operator_confirmed_canonical",
+      "source_refs": [
+        "operator_confirmation:2026-09-23",
+        "01-case-studies/pansophic-growth-system.md"
+      ],
+      "prohibited_inference": [
+        "Do not infer headcount beyond the evidenced direct report.",
+        "Do not claim enterprise-wide in-housing or a formal certification program."
+      ]
+    },
+    {
+      "id": "pansophic.multifactor_forecasting",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "forecasting",
+        "planning",
+        "executive_decision_support",
+        "agency_governance"
+      ],
+      "canonical_public_wording": "Instituted a multi-factor forecasting process using roughly three to four years of historical performance, MMM inputs, agency expertise, business goals, and iterative revision to improve the planning basis used across departments.",
+      "metric": {
+        "history_years": "3-4",
+        "unit": "years",
+        "qualifier": "approximate"
+      },
+      "funnel_level": "portfolio_planning",
+      "causal_state": "operator_confirmed_action",
+      "confidence": "operator_confirmed_canonical",
+      "source_refs": [
+        "operator_confirmation:2026-09-23",
+        "01-case-studies/pansophic-growth-system.md"
+      ],
+      "prohibited_inference": [
+        "Do not claim formal finance ownership or MMM model ownership.",
+        "Do not invent a forecast-accuracy improvement."
+      ]
+    },
+    {
+      "id": "pansophic.incremental_investment_search_turnaround",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "capital_allocation",
+        "channel_strategy",
+        "forecast_diagnostics"
+      ],
+      "canonical_public_wording": "Corrected an incremental-investment plan after identifying that social-heavy allocation conflicted with search-based forecast assumptions, then redirected investment heavily toward search.",
+      "metric": null,
+      "funnel_level": "acquisition_allocation",
+      "causal_state": "operator_confirmed_action",
+      "confidence": "operator_confirmed_canonical",
+      "source_refs": [
+        "operator_confirmation:2026-09-23",
+        "01-case-studies/pansophic-growth-system.md"
+      ],
+      "prohibited_inference": [
+        "Do not merge this with the nine-school Meta-versus-paid-search test or the $500K cross-market reallocation.",
+        "Do not invent a recovery percentage or revenue result."
+      ]
+    },
+    {
+      "id": "pansophic.caped_planning",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "strategic_planning",
+        "forecasting",
+        "marketing_planning"
+      ],
+      "canonical_public_wording": "Built marketing initiatives, forecasts, planning materials, and marketing plans for the Capital Education (CapEd) program.",
+      "metric": null,
+      "funnel_level": "portfolio_planning",
+      "causal_state": "operator_confirmed_action",
+      "confidence": "operator_confirmed_canonical",
+      "source_refs": [
+        "operator_confirmation:2026-09-23",
+        "01-case-studies/pansophic-growth-system.md"
+      ],
+      "prohibited_inference": [
+        "Do not invent program revenue or formal finance ownership."
+      ]
+    },
+    {
+      "id": "pansophic.agency_translation_campaign_audit",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "agency_management",
+        "campaign_audit",
+        "coaching",
+        "stakeholder_translation"
+      ],
+      "canonical_public_wording": "Continuously audited campaign architecture and performance, coached agency teams, and translated between specialist recommendations and internal business decisions while managing agency relationships.",
+      "metric": null,
+      "funnel_level": "operating_model",
+      "causal_state": "operator_confirmed_action",
+      "confidence": "operator_confirmed_canonical",
+      "source_refs": [
+        "operator_confirmation:2026-09-23",
+        "01-case-studies/pansophic-growth-system.md"
+      ],
+      "prohibited_inference": [
+        "Do not imply every platform keystroke was personally executed or invent an audit frequency."
+      ]
     }
   ],
   "reviewed_on": "2026-09-23"

@@ -18,5 +18,8 @@
   "cost_efficiency": ["cost savings", "efficiency", "reduce cost", "unit economics"],
   "capability_enablement": ["training", "adoption", "enablement", "capability building"],
   "portfolio_growth": ["grow budget", "expand investment", "managed investment", "portfolio growth"],
-  "ai_and_automation": ["AI", "automation", "AI governance", "AI-enabled workflows"]
+  "ai_and_automation": ["AI", "automation", "AI governance", "AI-enabled workflows"],
+  "agency_selection_governance": ["agency RFP", "select an agency", "replace an agency", "agency evaluation", "agency relationship management", "agency coaching"],
+  "inhouse_capability_build": ["build in-house team", "in-housing", "develop direct report", "media literacy", "capability building", "team from scratch"],
+  "forecasting_governance": ["forecasting", "forecast process", "multi-factor forecast", "planning assumptions", "MMM inputs", "CapEd planning"]
 }
