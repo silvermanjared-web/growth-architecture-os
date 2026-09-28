@@ -33,7 +33,15 @@ ALLOW_TRACKED = {
 }
 SKIP_DIRS = {".git", "node_modules", "venv", ".venv", "__pycache__", ".pytest_cache", ".mypy_cache", ".ruff_cache"}
 TEXT_SUFFIXES = {".py", ".md", ".txt", ".json", ".jsonl", ".yaml", ".yml", ".toml", ".sh", ".css", ".js", ".ts", ".html"}
-ALLOWED_CAUSAL_STATES = {"directly_supported", "associated_after_change", "scope_only", "contextual"}
+ALLOWED_CAUSAL_STATES = {
+    "directly_supported",
+    "associated_after_change",
+    "scope_only",
+    "contextual",
+    "test_supported_allocation_finding",
+    "mixed_realized_and_designed",
+    "operator_confirmed_action",
+}
 ALLOWED_SG_TIERS = {"SG0", "SG1", "SG2", "SG3"}
 REQUIRED_CLAIM_FIELDS = {
     "id",
