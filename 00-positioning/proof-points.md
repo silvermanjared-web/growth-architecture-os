@@ -9,7 +9,7 @@ The objective is straightforward: use supported evidence to make the clearest, s
 | Evidence | Supported result or scope | What it demonstrates |
 |---|---|---|
 | Recent enterprise scope | $15M+ in media across 180+ institutions inside a $700M PE-backed education enterprise | Enterprise portfolio scale; ability to connect investment, performance, CRO, measurement, agencies, and leadership decisions |
-| Operating transformation | Governed performance-media and CRO model across three business units with five CRO workstreams | Cross-functional transformation and operating-model leadership |
+| Operating transformation | Governed performance-media and CRO model across three of four business units with five CRO workstreams | Cross-functional transformation and operating-model leadership |
 | Capital allocation | Directed a $500K cross-market reallocation across priority markets, including the flagship school, while tying decisions to downstream enrollment signals | Portfolio judgment and willingness to move capital as performance conditions change |
 | Channel-allocation experiment | Ran a separate nine-school Meta-versus-paid-search test; the right allocation depended on school economics, available scale, and downstream conversion quality | Experimental discipline and school-level capital-allocation judgment |
 | Recent funnel outcome | Following YouTube reintroduction within the broader acquisition mix, portfolio lead-to-enrollment improved from approximately 17% to 28% | Full-funnel thinking and use of observed downstream movement to inform channel planning without overstating causality |

@@ -31,7 +31,7 @@ Do not read the repository front to back. Start with the leadership question you
 
 | Case study | Leadership signal |
 |---|---|
-| [Multi-Brand Education Growth System](01-case-studies/pansophic-growth-system.md) | $15M+ media scope across 180+ institutions; capital reallocation and channel-allocation testing; multi-factor forecasting; agency RFP/partner selection; in-house capability building across three business units; 150+ landing pages; 60+ campaigns; and deeper-funnel measurement architecture |
+| [Multi-Brand Education Growth System](01-case-studies/pansophic-growth-system.md) | $15M+ media scope across 180+ institutions; capital reallocation and channel-allocation testing; multi-factor forecasting; agency RFP/partner selection; in-house capability building across three of four business units; 150+ landing pages; 60+ campaigns; and deeper-funnel measurement architecture |
 | [App Growth Rebuild](01-case-studies/wex-app-growth-rebuild.md) | Approved applications grew ~500% after an end-to-end acquisition rebuild |
 | [FFIA Measurement Model](01-case-studies/stand-together-ffia-measurement.md) | 86% YoY growth in web-qualified engagements while outperforming benchmarks by 3x |
 
