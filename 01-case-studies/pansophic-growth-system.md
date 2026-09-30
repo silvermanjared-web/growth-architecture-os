@@ -4,7 +4,7 @@
 
 A $700M PE-backed education enterprise with 180+ institutions needed performance media, CRO, measurement, agency work, and investment decisions to operate as one system.
 
-The mandate spanned $15M+ in media across a complex portfolio and three business units. The growth challenge was not just channel performance. It was system performance.
+The mandate spanned $15M+ in media across a complex portfolio and four business units: three run through an in-house performance media model, and Online Schools run under a separate model managed directly with agency support. The growth challenge was not just channel performance. It was system performance.
 
 ## Problem
 
@@ -72,6 +72,8 @@ The objective was not more vendor management. It was clearer accountability and 
 ### Build internal capability instead of outsourcing the operating brain
 
 Stood up an in-house media capability from scratch across three business units outside Online Schools and developed a direct report from limited media literacy into independent operating capability.
+
+Online Schools, the fourth business unit, operated under a separate model, managed directly with agency support.
 
 The in-housing decision was therefore not simply about cost. It was about which knowledge, decision rights, and execution capability the organization needed to own.
 
