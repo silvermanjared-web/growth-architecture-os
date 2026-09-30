@@ -4,10 +4,11 @@
   "canonical_resume_binding": {
     "label": "October 2026 canonical resume",
     "filename": "Jared_Neal_Silverman_October_2026_Canonical_Master_Resume.docx",
-    "sha256": "0165dd5f801c157b32c78465ed81466939c8922b236364d46146a04c33f49952",
+    "sha256": "641a558854f58c4910880d56db40f041575f81183c2040541d2f43b3b8c2f3a3",
     "role": "Primary authority for positioning, chronology, titles, dates, role chronology and tense framing, and resume-cleared claims.",
     "interpretation_notes": [
-      "The resume's \"three business units\" language refers to the in-housed performance media scope, not total enterprise scope. Four business units were within overall scope; see pansophic.business_unit_scope_4 (operator confirmation, 2026-09-30)."
+      "Reissued 2026-09-30. The resume states four business units in overall scope and \"three of four business units\" for the governed in-house operating model; Online Schools, the fourth, was managed directly with agency support. See pansophic.business_units_3 and pansophic.business_unit_scope_4 (operator confirmation, 2026-09-30).",
+      "The prior October issue (sha256 0165dd5f801c157b32c78465ed81466939c8922b236364d46146a04c33f49952) read \"three business units\"; that language referred to the in-housed scope, not total enterprise scope."
     ]
   },
   "public_safety": {
@@ -146,7 +147,7 @@
         "operating_transformation",
         "cross_functional_governance"
       ],
-      "canonical_public_wording": "Rebuilt performance media and CRO into a governed operating model across three business units.",
+      "canonical_public_wording": "Rebuilt performance media and CRO into a governed operating model across three of four business units.",
       "metric": {
         "value": 3,
         "unit": "business_units",
@@ -187,7 +188,7 @@
       "prohibited_inference": [
         "Do not claim in-housing across all four business units; the in-house model covered three.",
         "Do not describe Online Schools as in-housed or as outside Jared's scope; it ran under a separate model managed directly with agency support.",
-        "Do not treat the canonical resume's \"three business units\" language as a conflicting total-scope claim; it refers to the in-housed scope."
+        "Do not collapse this claim into pansophic.business_units_3; three of four business units is the in-housed scope and four is the overall scope."
       ]
     },
     {

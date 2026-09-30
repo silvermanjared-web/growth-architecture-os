@@ -10,7 +10,7 @@ Use the strongest relevant supported evidence first. Keep factual and causal con
 
 **Situation:** A complex education portfolio had performance media, CRO, measurement, agencies, and executive reporting moving through different operating rhythms.
 
-**Action:** Rebuilt performance media and CRO into a governed model across three business units, including five CRO workstreams and shared standards for conversion logic, taxonomy, QA, pacing, reporting, escalation, and ownership.
+**Action:** Rebuilt performance media and CRO into a governed model across three of four business units, including five CRO workstreams and shared standards for conversion logic, taxonomy, QA, pacing, reporting, escalation, and ownership.
 
 **Result / employer value:** Created a clearer growth operating system connecting spend, funnel performance, forecast exposure, partners, and leadership decisions. This demonstrates the ability to bring structure to a fragmented enterprise environment and create repeatable operating leverage.
 
