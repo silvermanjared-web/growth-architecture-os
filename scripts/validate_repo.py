@@ -33,7 +33,15 @@ ALLOW_TRACKED = {
 }
 SKIP_DIRS = {".git", "node_modules", "venv", ".venv", "__pycache__", ".pytest_cache", ".mypy_cache", ".ruff_cache"}
 TEXT_SUFFIXES = {".py", ".md", ".txt", ".json", ".jsonl", ".yaml", ".yml", ".toml", ".sh", ".css", ".js", ".ts", ".html"}
-ALLOWED_CAUSAL_STATES = {"directly_supported", "associated_after_change", "scope_only", "contextual"}
+ALLOWED_CAUSAL_STATES = {
+    "directly_supported",
+    "associated_after_change",
+    "scope_only",
+    "contextual",
+    "test_supported_allocation_finding",
+    "mixed_realized_and_designed",
+    "operator_confirmed_action",
+}
 ALLOWED_SG_TIERS = {"SG0", "SG1", "SG2", "SG3"}
 REQUIRED_CLAIM_FIELDS = {
     "id",
@@ -104,6 +112,13 @@ def validate_claim_system(failures: list[str]) -> None:
     resume_sha = registry.get("canonical_resume_binding", {}).get("sha256", "")
     if not re.fullmatch(r"[a-f0-9]{64}", str(resume_sha)):
         failures.append("Claim registry canonical resume binding must include a 64-character lowercase sha256")
+
+    governance_text = required_paths["semantic governance"].read_text()
+    defined_states = set(re.findall(r"^- `([a-z_]+)` — ", governance_text, re.MULTILINE))
+    for state in sorted(ALLOWED_CAUSAL_STATES - defined_states):
+        failures.append(f"Causal state {state} is admitted by the validator but not defined in semantic-governance.md")
+    for state in sorted(defined_states - ALLOWED_CAUSAL_STATES):
+        failures.append(f"Causal state {state} is defined in semantic-governance.md but not admitted by the validator")
 
     claims = registry.get("claims")
     if not isinstance(claims, list) or not claims:

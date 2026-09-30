@@ -8,6 +8,14 @@ My work sits across performance media, CRO, measurement, marketing operations, a
 
 ## Five-minute proof
 
+Run the repository validation gate with:
+
+```bash
+npm test
+```
+
+`npm test` is a thin wrapper around `python3 scripts/validate_repo.py`, which remains the canonical validator.
+
 Do not read the repository front to back. Start with the leadership question you need answered.
 
 | Question | Evidence |

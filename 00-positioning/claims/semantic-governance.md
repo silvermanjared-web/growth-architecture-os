@@ -41,8 +41,13 @@ The registry distinguishes:
 - `associated_after_change` — the outcome was observed after a broader change; do not assign single-tactic causality.
 - `scope_only` — the metric establishes scale, not performance impact.
 - `contextual` — useful supporting context with narrower public use.
+- `test_supported_allocation_finding` — a bounded test supports a conditional allocation finding; do not generalize it into a universal channel winner or attach unrelated outcomes to it.
+- `mixed_realized_and_designed` — the claim combines completed work with designed, proposed, or modeled work; keep the two distinct and never present designed work as a realized outcome.
+- `operator_confirmed_action` — the operator confirms the action was taken; it establishes what was done, not a measured result, and carries no outcome or causal claim.
 
 A semantic route may narrow a claim. It may not strengthen the causal state.
+
+Every causal state used in the registry must be defined in this section. The validator rejects a state that is admitted in code but not defined here, and a claim that uses a state outside the admitted set.
 
 ## Fail-closed triggers
 

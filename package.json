@@ -1,1 +1,10 @@
-{"name":"growth-architecture-os","version":"0.1.0","private":true,"description":"Jared Silverman's growth architecture system.","license":"UNLICENSED"}
+{
+  "name": "growth-architecture-os",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Jared Silverman's growth architecture system.",
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "python3 scripts/validate_repo.py"
+  }
+}
