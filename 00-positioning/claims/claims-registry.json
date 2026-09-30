@@ -2,10 +2,13 @@
   "schema_version": "growth-architecture.claim-registry/v1",
   "owner": "Jared Silverman",
   "canonical_resume_binding": {
-    "label": "September 2026 canonical resume",
-    "filename": "Jared_Neal_Silverman_September_2026_Canonical_Master_Resume.docx",
-    "sha256": "cb48c0df00ecda2d2e13625843a6993389fbe7313b1068a004815d93fce46a31",
-    "role": "Primary authority for positioning, chronology, titles, dates, role chronology and tense framing, and resume-cleared claims."
+    "label": "October 2026 canonical resume",
+    "filename": "Jared_Neal_Silverman_October_2026_Canonical_Master_Resume.docx",
+    "sha256": "0165dd5f801c157b32c78465ed81466939c8922b236364d46146a04c33f49952",
+    "role": "Primary authority for positioning, chronology, titles, dates, role chronology and tense framing, and resume-cleared claims.",
+    "interpretation_notes": [
+      "The resume's \"three business units\" language refers to the in-housed performance media scope, not total enterprise scope. Four business units were within overall scope; see pansophic.business_unit_scope_4 (operator confirmation, 2026-09-30)."
+    ]
   },
   "public_safety": {
     "excluded_categories": [
@@ -156,7 +159,35 @@
         "canonical_resume:pansophic_operating_model"
       ],
       "prohibited_inference": [
-        "Do not imply direct-line ownership of every function inside the three business units."
+        "Do not imply direct-line ownership of every function inside the three business units.",
+        "Do not read the three business units as total enterprise scope; they are the in-housed performance media scope. Total scope was four business units (see pansophic.business_unit_scope_4)."
+      ]
+    },
+    {
+      "id": "pansophic.business_unit_scope_4",
+      "company": "Pansophic Learning",
+      "competencies": [
+        "operating_transformation",
+        "in_housing",
+        "agency_governance"
+      ],
+      "canonical_public_wording": "Four business units were within overall scope: an in-house performance media model built and managed across three, and Online Schools, the fourth, operated under a separate model managed directly with agency support.",
+      "metric": {
+        "value": 4,
+        "unit": "business_units",
+        "qualifier": "exact"
+      },
+      "funnel_level": "not_applicable",
+      "causal_state": "scope_only",
+      "confidence": "operator_confirmed_canonical",
+      "source_refs": [
+        "operator_confirmation:2026-09-30",
+        "01-case-studies/pansophic-growth-system.md"
+      ],
+      "prohibited_inference": [
+        "Do not claim in-housing across all four business units; the in-house model covered three.",
+        "Do not describe Online Schools as in-housed or as outside Jared's scope; it ran under a separate model managed directly with agency support.",
+        "Do not treat the canonical resume's \"three business units\" language as a conflicting total-scope claim; it refers to the in-housed scope."
       ]
     },
     {
@@ -720,6 +751,7 @@
       "confidence": "operator_confirmed_canonical",
       "source_refs": [
         "operator_confirmation:2026-09-23",
+        "canonical_resume:pansophic_inhouse_capability_and_partner_selection",
         "01-case-studies/pansophic-growth-system.md"
       ],
       "prohibited_inference": [
@@ -746,11 +778,13 @@
       "confidence": "operator_confirmed_canonical",
       "source_refs": [
         "operator_confirmation:2026-09-23",
+        "canonical_resume:pansophic_inhouse_capability_and_partner_selection",
         "01-case-studies/pansophic-growth-system.md"
       ],
       "prohibited_inference": [
         "Do not infer headcount beyond the evidenced direct report.",
-        "Do not claim enterprise-wide in-housing or a formal certification program."
+        "Do not claim enterprise-wide in-housing or a formal certification program.",
+        "Do not describe Online Schools as part of the in-housed scope; it was the fourth business unit and ran under a separate model managed directly with agency support."
       ]
     },
     {
