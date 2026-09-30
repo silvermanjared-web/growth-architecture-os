@@ -113,6 +113,13 @@ def validate_claim_system(failures: list[str]) -> None:
     if not re.fullmatch(r"[a-f0-9]{64}", str(resume_sha)):
         failures.append("Claim registry canonical resume binding must include a 64-character lowercase sha256")
 
+    governance_text = required_paths["semantic governance"].read_text()
+    defined_states = set(re.findall(r"^- `([a-z_]+)` — ", governance_text, re.MULTILINE))
+    for state in sorted(ALLOWED_CAUSAL_STATES - defined_states):
+        failures.append(f"Causal state {state} is admitted by the validator but not defined in semantic-governance.md")
+    for state in sorted(defined_states - ALLOWED_CAUSAL_STATES):
+        failures.append(f"Causal state {state} is defined in semantic-governance.md but not admitted by the validator")
+
     claims = registry.get("claims")
     if not isinstance(claims, list) or not claims:
         failures.append("Claim registry must contain a non-empty claims array")
