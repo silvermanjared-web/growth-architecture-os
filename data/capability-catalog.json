@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "canonical_parent": "growth-architecture-os",
+  "members": [
+    {"member":"growth-architecture-os","role":"canonical architecture","capabilities":["growth diagnosis","capital allocation","measurement architecture","agency operating model","CRO architecture","executive cadence"]},
+    {"member":"marketing-intelligence-agent","role":"intelligence","capabilities":["intelligence briefing","health scan","organization preview","bounded organization","system audit","capability discovery","receipts"]},
+    {"member":"marketing-ops-toolkit","role":"execution","capabilities":["gmail preview","campaign health","inbox apply","state reset","brief write","audit snapshot","recommendations export"]},
+    {"member":"marketing-ops-playbooks","role":"method","capabilities":["UTM validation","funnel validation","data sanity","negative keyword classification","performance diagnostics","CRO test planning","LTV/CAC audit","competitive analysis","full-cycle learning"]},
+    {"member":"brand-context-system","role":"context and implementation","capabilities":["structured context","source provenance","design extraction","design tokens","CSS generation","component contracts","context validation"]},
+    {"member":"private-to-public-release-gate","role":"publication boundary","capabilities":["export decisions","overlay allowlist","privacy scan","drift comparison","redacted findings","release evidence"]}
+  ]
+}
