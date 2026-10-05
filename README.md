@@ -6,6 +6,16 @@ This repository shows how I diagnose growth systems, allocate investment, rebuil
 
 My work sits across performance media, CRO, measurement, marketing operations, agency governance, AI-enabled workflows, and executive decision support. The throughline is simple: **make growth legible, make the right decisions faster, then build the system to scale them.**
 
+![Portfolio status](assets/portfolio-status-strip.svg)
+
+![Jared Growth Systems Architecture](assets/jared-growth-systems-architecture.svg)
+
+## Start here
+
+For the fastest route through the system, use the [Executive Portfolio Index](docs/executive-portfolio-index.md).
+
+For inspectable evidence, use the [Proof Ledger](docs/proof-ledger.md). For the complete public operating surface, use the [Capability Catalog](docs/capability-catalog.md). To see the architecture reason through realistic problems, use [Try the System](scenarios/README.md).
+
 ## Five-minute proof
 
 Run the repository validation gate with:
@@ -112,6 +122,17 @@ By day 90, leadership should know what is working, what is risky, who owns what,
 Use [`docs/evaluator-paths.md`](docs/evaluator-paths.md) for a role-specific route or start with the five-minute proof above. The repository is designed to show the operating thinking behind the résumé: how I diagnose, prioritize, allocate, govern, communicate, and scale.
 
 The claim system in `00-positioning/claims/` provides the evidence boundary underneath the public narrative. Its job is to preserve factual integrity; the job of the front-door portfolio is to make the leadership value of that evidence clear.
+
+## Portfolio proof layer
+
+- [Executive Portfolio Index](docs/executive-portfolio-index.md)
+- [Proof Ledger](docs/proof-ledger.md)
+- [Capability Catalog](docs/capability-catalog.md)
+- [Federation Status](docs/federation-status.md)
+- [Try the System](scenarios/README.md)
+- [Architecture Decision Records](architecture-decisions/README.md)
+- [Private Scale / Public Proof](docs/private-scale-public-proof.md)
+- [Portfolio OS v1.0](RELEASE.md)
 
 ## Further reading
 

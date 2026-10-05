@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<rect width="1600" height="1000" fill="#F5F1E8"/>
+<line x1="110" y1="120" x2="1490" y2="120" stroke="#171717" stroke-width="2"/>
+<text x="110" y="82" font-family="Georgia, serif" font-size="24" letter-spacing="4" fill="#171717">JARED SILVERMAN / GROWTH SYSTEMS</text>
+<text x="110" y="220" font-family="Georgia, serif" font-size="72" fill="#111111">Architecture for</text>
+<text x="110" y="300" font-family="Georgia, serif" font-size="72" font-style="italic" fill="#111111">compounding decisions.</text>
+<text x="110" y="360" font-family="Arial, sans-serif" font-size="23" fill="#4A4741">Enough structure to create trust. Not enough process to slow the work.</text>
+
+<rect x="110" y="445" width="330" height="150" fill="#111111"/>
+<text x="140" y="492" font-family="Arial, sans-serif" font-size="15" letter-spacing="2" fill="#F5F1E8">CANONICAL ARCHITECTURE</text>
+<text x="140" y="535" font-family="Georgia, serif" font-size="28" fill="#F5F1E8">Growth Architecture OS</text>
+<text x="140" y="568" font-family="Arial, sans-serif" font-size="16" fill="#D7D0C3">Decision logic / common language</text>
+
+<line x1="440" y1="520" x2="520" y2="520" stroke="#9A7B4F" stroke-width="3"/>
+<rect x="520" y="430" width="290" height="90" fill="none" stroke="#171717" stroke-width="1.5"/>
+<text x="545" y="467" font-family="Georgia, serif" font-size="23" fill="#171717">Intelligence</text>
+<text x="545" y="494" font-family="Arial, sans-serif" font-size="14" fill="#5D5952">Signals / synthesis / routing</text>
+
+<rect x="520" y="545" width="290" height="90" fill="none" stroke="#171717" stroke-width="1.5"/>
+<text x="545" y="582" font-family="Georgia, serif" font-size="23" fill="#171717">Execution</text>
+<text x="545" y="609" font-family="Arial, sans-serif" font-size="14" fill="#5D5952">Checks / bounded mutation</text>
+
+<rect x="845" y="430" width="290" height="90" fill="none" stroke="#171717" stroke-width="1.5"/>
+<text x="870" y="467" font-family="Georgia, serif" font-size="23" fill="#171717">Method</text>
+<text x="870" y="494" font-family="Arial, sans-serif" font-size="14" fill="#5D5952">Playbooks / learning loop</text>
+
+<rect x="845" y="545" width="290" height="90" fill="none" stroke="#171717" stroke-width="1.5"/>
+<text x="870" y="582" font-family="Georgia, serif" font-size="23" fill="#171717">Context</text>
+<text x="870" y="609" font-family="Arial, sans-serif" font-size="14" fill="#5D5952">Evidence / tokens / handoff</text>
+
+<rect x="1170" y="487" width="320" height="90" fill="#D8C6A4"/>
+<text x="1195" y="524" font-family="Georgia, serif" font-size="23" fill="#171717">Publication boundary</text>
+<text x="1195" y="551" font-family="Arial, sans-serif" font-size="14" fill="#4F473D">Privacy / drift / release evidence</text>
+
+<line x1="810" y1="475" x2="845" y2="475" stroke="#9A7B4F" stroke-width="2"/>
+<line x1="810" y1="590" x2="845" y2="590" stroke="#9A7B4F" stroke-width="2"/>
+<line x1="1135" y1="532" x2="1170" y2="532" stroke="#9A7B4F" stroke-width="2"/>
+
+<text x="110" y="735" font-family="Arial, sans-serif" font-size="15" letter-spacing="3" fill="#6C655B">THE OPERATING LOOP</text>
+<text x="110" y="785" font-family="Georgia, serif" font-size="31" fill="#171717">Brief → Plan → Execute → Test &amp; Learn → Diagnose → Feed Forward</text>
+<line x1="110" y1="825" x2="1490" y2="825" stroke="#171717" stroke-width="1"/>
+<text x="110" y="875" font-family="Georgia, serif" font-size="25" font-style="italic" fill="#171717">The technology gets more sophisticated. The leadership principle stays simple.</text>
+<text x="110" y="925" font-family="Arial, sans-serif" font-size="16" fill="#5D5952">Autonomous members. Explicit contracts. Bounded authority. Evidence after execution. Learning carried forward.</text>
+<text x="1490" y="950" text-anchor="end" font-family="Arial, sans-serif" font-size="13" letter-spacing="2" fill="#6C655B">PUBLIC PORTFOLIO / 2026</text>
+</svg>

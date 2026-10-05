@@ -5,6 +5,7 @@
   "description": "Jared Silverman's growth architecture system.",
   "license": "UNLICENSED",
   "scripts": {
-    "test": "python3 scripts/validate_repo.py"
+    "test": "python3 scripts/validate_repo.py && python3 scripts/validate_portfolio_proof.py",
+    "test:portfolio": "python3 scripts/validate_portfolio_proof.py"
   }
 }
