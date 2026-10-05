@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Execution Receipt",
+  "type": "object",
+  "required": ["run_id", "capability", "effect", "status", "evidence"],
+  "properties": {
+    "run_id": {"type": "string"},
+    "capability": {"type": "string"},
+    "effect": {"enum": ["read", "write"]},
+    "status": {"enum": ["observed", "executed", "refused"]},
+    "evidence": {"type": "object"},
+    "reason": {"type": ["string", "null"]}
+  },
+  "additionalProperties": true
+}

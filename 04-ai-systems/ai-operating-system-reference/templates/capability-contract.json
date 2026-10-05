@@ -1,0 +1,14 @@
+{
+  "name": "artifact.write",
+  "description": "Write a text artifact inside an admitted sandbox root.",
+  "effect": "write",
+  "requires_confirmation": true,
+  "inputs": {
+    "relative_path": "string",
+    "content": "string"
+  },
+  "returns": {
+    "status": "executed|refused",
+    "receipt": "object"
+  }
+}
