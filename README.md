@@ -121,6 +121,13 @@ The claim system in `00-positioning/claims/` provides the evidence boundary unde
 - [Media Metrics to Financial Outcomes](06-reference/media-metrics-to-financial-outcomes.md)
 - [Proof Points](00-positioning/proof-points.md)
 
+
+## Federation
+
+This repository is an autonomous member of the public [Growth Architecture OS federation](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/public-federation.md). It remains independently usable while publishing explicit contracts for what it provides, what it can consume, and the authority it retains locally.
+
+See [FEDERATION.md](FEDERATION.md).
+
 ## IP and usage
 
 This repository contains Jared Silverman's personal intellectual property, professional positioning, frameworks, templates, and work samples. It is shared for evaluation, collaboration, and professional context. It is not licensed for reuse, resale, training, or commercial adaptation without permission.
