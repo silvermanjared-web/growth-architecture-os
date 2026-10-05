@@ -1,56 +1,77 @@
 # GitHub Ecosystem Map
 
-This page explains how the public GitHub repositories fit together as one larger operating system.
+The public repositories are one portfolio system, not a collection of unrelated coding exercises.
 
-The goal is not to present unrelated projects. The goal is to show how growth leadership, marketing operations, AI workflows, brand context, and front-end handoff can be organized into a repeatable system.
+They show how I move from growth leadership and decision architecture into AI-enabled intelligence, bounded execution, context engineering, and privacy-safe publication.
 
 ## System roles
 
 | Repository | Role in the system | What it proves |
 |---|---|---|
-| `silvermanjared-web` | Profile and front door | Executive narrative, current focus, and navigation into the portfolio |
-| `growth-architecture-os` | Operating-system hub | Growth leadership structure, diagnostic frameworks, playbooks, templates, and decision logic |
-| `marketing-intelligence-agent` | Intelligence and monitoring layer | AI-assisted monitoring, signal detection, risk triage, and briefing workflows |
-| `marketing-ops-toolkit` | Utility and automation layer | Practical scripts and tools for marketing operations, audits, reporting, and campaign-health workflows |
-| `marketing-ops-playbooks` | Repeatable method layer | Playbooks for taxonomy, QA, funnel review, governance, and performance diagnostics |
-| `brand-context-system` | Intake and context layer | Working context bundle with structured JSON, demo source notes, selected code samples, asset manifests, Figma metadata, prompts, example output, and validation |
-| `brand-design-system-starter` | Implementation and handoff layer | Tokens, foundations, component specs, CSS variables, and AI-assisted front-end handoff |
-| `private-to-public-release-gate` | Publication-governance layer | Privacy scanning, explicit exclusions, allowlisted overlays, and Git-aware drift checks for reviewed public derivatives of private systems |
+| `silvermanjared-web` | Profile and front door | Executive narrative, proof routing, and portfolio navigation |
+| `growth-architecture-os` | Operating-system hub | Growth leadership, capital allocation, diagnostics, playbooks, and the canonical AI operating-system reference |
+| `marketing-intelligence-agent` | Intelligence layer | Source-aware synthesis, capability discovery, modular agent routing, and receipts |
+| `marketing-ops-toolkit` | Execution layer | Deterministic checks, platform utilities, and five bounded mutation contracts |
+| `marketing-ops-playbooks` | Method layer | Repeatable taxonomy, QA, funnel, governance, and performance-diagnostic playbooks |
+| `brand-context-system` | AI context & design layer | Structured source context through reviewed extraction into tokens, CSS, and component contracts |
+| `brand-design-system-starter` | Historical implementation reference | Earlier standalone design-system implementation retained for portfolio history |
+| `private-to-public-release-gate` | Publication boundary | Privacy scanning, explicit export decisions, allowlisted overlays, and Git-aware drift checks |
 
-## Supporting navigation
+## Canonical AI architecture
 
-- [Common Language](common-language.md) defines the shared terms used across the ecosystem.
-- [Evaluator Paths](evaluator-paths.md) gives role-specific reading paths for different audiences.
+The shared technical pattern is documented and tested in [AI Operating System Reference](../04-ai-systems/ai-operating-system-reference/README.md).
 
-## How the system works
+```mermaid
+flowchart LR
+    G[Growth Architecture OS] --> I[Marketing Intelligence Agent]
+    G --> O[Marketing Ops Toolkit]
+    G --> C[AI Context & Design System]
+    G --> P[Private-to-Public Release Gate]
+    I --> D[Decisions]
+    O --> D
+    C --> D
+    P --> D
+```
 
-Growth Architecture OS is the hub. It explains the larger operating philosophy: stabilize the system, then scale it.
+The architecture is intentionally simple:
 
-The marketing operations repos show how that operating philosophy becomes practical work: monitoring, scripts, playbooks, QA, governance, and repeatable execution.
-
-The brand and design-system repos show a related implementation pattern: collect the right context first, then turn that context into reusable front-end structure.
-
-The release-gate repo defines the publication boundary around the ecosystem. It shows how a reusable pattern can move from a private canonical system into a reviewed public artifact without treating matching repository trees as proof that the content is safe. It is a governance pattern for private-derived releases, not a claim that every repository in this portfolio is generated from private source.
+1. establish trustworthy context;
+2. expose real capabilities;
+3. route work to a narrow executor;
+4. constrain mutation at the capability boundary;
+5. return evidence;
+6. preserve human authority where consequence requires it.
 
 ## Portfolio logic
 
-The repos are organized around one central idea: growth systems become easier to scale when the underlying operating model is visible, governable, and repeatable.
+The throughline is not “I write code.”
 
-That means the portfolio is not only about campaign execution. It is about the infrastructure underneath the work:
+It is: **I design growth operating systems, and I now have enough AI and software capability to build the infrastructure around those systems directly.**
 
-- diagnostic frameworks
-- decision cadence
-- source-of-truth discipline
-- taxonomy and reporting standards
-- AI-assisted workflows
-- reusable playbooks
-- implementation-ready handoff systems
-- privacy-aware publication controls
+The repositories demonstrate different parts of that thesis:
+
+- business and capital-allocation judgment;
+- operating-model design;
+- source and measurement discipline;
+- AI context engineering;
+- agent and client interoperability;
+- deterministic automation;
+- bounded mutation;
+- self-maintaining workflows;
+- privacy-safe publication;
+- evidence-driven execution.
 
 ## Reader paths
 
-For audience-specific reading paths, see [Evaluator Paths](evaluator-paths.md).
+- Growth leadership: start in `growth-architecture-os`.
+- AI systems: start in [AI Operating System Reference](../04-ai-systems/ai-operating-system-reference/README.md).
+- Agentic intelligence: open `marketing-intelligence-agent`.
+- Execution architecture: open `marketing-ops-toolkit`.
+- Context engineering and design: open `brand-context-system`.
+- Technical governance: open `private-to-public-release-gate`.
+
+See [Evaluator Paths](evaluator-paths.md) for role-specific navigation.
 
 ## Source-of-truth note
 
-Each repo has its own local purpose. Growth Architecture OS is the canonical map of the overall ecosystem. Individual repos should stay focused on their specific role and link back here when a reader needs the larger context.
+Growth Architecture OS is the canonical relationship map for the public portfolio. Inclusion in the ecosystem does not mean every repository is generated from the same private source. The release gate describes how private-derived publication can be governed when that relationship exists.
