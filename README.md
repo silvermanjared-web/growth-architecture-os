@@ -43,6 +43,8 @@ I build the operating layer that reconnects them.
 
 That means clearer capital-allocation and forecasting logic, stronger measurement architecture, better agency selection and accountability, deliberate in-housing and capability building, disciplined CRO, explicit decision rights, faster executive visibility, and repeatable workflows that allow teams to move without losing control.
 
+The goal is not to make teams more process-bound. I use a **minimum viable operating system**: enough shared structure to create trust, consistency, and learning, but not enough ceremony to slow day-to-day execution. Standardize what is expensive to rediscover or dangerous to let drift; keep everything else as lightweight as the work allows. See [Minimum Viable Operating System](02-growth-architecture/minimum-viable-operating-system.md).
+
 ```mermaid
 flowchart TD
     A[Complex growth environment] --> B[Diagnose demand, funnel, measurement and operating model]
@@ -63,6 +65,8 @@ I treat growth as an operating system rather than a collection of channels.
 - **Agencies and teams:** Accountability improves when scope, standards, ownership, escalation, and decision rights are explicit.
 - **AI:** AI should compound judgment, monitoring, QA, synthesis, and repeatability rather than create another layer of novelty.
 - **Leadership:** Executives need a system that makes tradeoffs visible early enough to act.
+- **Operating design:** The best system reduces coordination cost. A little shared structure should make execution faster, not turn the organization into a process machine.
+- **Learning loop:** Brief → Plan → Execute → Test & Learn → Report & Diagnose → Feed Learning Forward → Better Brief. The framework is repeatable; the implementation adapts to the organization. See the [Full-Cycle Growth Loop](https://github.com/silvermanjared-web/marketing-ops-playbooks/blob/main/frameworks/full-cycle-growth-loop.md).
 
 ## Ecosystem map
 
@@ -90,6 +94,15 @@ For the portfolio map, see [`docs/ecosystem-map.md`](docs/ecosystem-map.md).
 | `docs/` | Portfolio navigation and longer-form operating-system thinking |
 
 ## Signature frameworks
+
+### Minimum viable operating system
+
+Standardize the small number of things that create trust and prevent expensive drift: objectives, measurement, decision rights, consequential QA, test-and-learn discipline, and the feedback loop into the next planning cycle.
+
+Then get out of the team's way.
+
+See [Minimum Viable Operating System](02-growth-architecture/minimum-viable-operating-system.md) and the companion [Full-Cycle Growth Loop](https://github.com/silvermanjared-web/marketing-ops-playbooks/blob/main/frameworks/full-cycle-growth-loop.md).
+
 
 ### The first 90 days
 
