@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Public Federation Member",
+  "type": "object",
+  "required": ["member", "role", "canonical_parent", "provides", "consumes", "authority", "independent"],
+  "properties": {
+    "member": {"type": "string"},
+    "role": {"type": "string"},
+    "canonical_parent": {"const": "growth-architecture-os"},
+    "provides": {"type": "array", "items": {"type": "string"}},
+    "consumes": {"type": "array", "items": {"type": "string"}},
+    "authority": {"type": "string"},
+    "independent": {"type": "boolean", "const": true}
+  },
+  "additionalProperties": false
+}
