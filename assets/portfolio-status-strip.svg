@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="90" viewBox="0 0 1100 90">
+<rect width="1100" height="90" fill="#111111"/>
+<text x="35" y="54" font-family="Arial, sans-serif" font-size="16" letter-spacing="2" fill="#F5F1E8">FEDERATED</text>
+<line x1="190" y1="24" x2="190" y2="66" stroke="#8B8174"/>
+<text x="225" y="54" font-family="Arial, sans-serif" font-size="16" letter-spacing="2" fill="#F5F1E8">TESTED</text>
+<line x1="355" y1="24" x2="355" y2="66" stroke="#8B8174"/>
+<text x="390" y="54" font-family="Arial, sans-serif" font-size="16" letter-spacing="2" fill="#F5F1E8">SECURITY SCANNED</text>
+<line x1="630" y1="24" x2="630" y2="66" stroke="#8B8174"/>
+<text x="665" y="54" font-family="Arial, sans-serif" font-size="16" letter-spacing="2" fill="#D8C6A4">PUBLIC-SAFE REFERENCE</text>
+<line x1="935" y1="24" x2="935" y2="66" stroke="#8B8174"/>
+<text x="970" y="54" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#F5F1E8">v1</text>
+</svg>
