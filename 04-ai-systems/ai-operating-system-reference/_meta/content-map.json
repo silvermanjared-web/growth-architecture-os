@@ -1,0 +1,13 @@
+{
+  "entrypoint": "README.md",
+  "runtime": "tools/reference_runtime.py",
+  "capability_template": "templates/capability-contract.json",
+  "receipt_schema": "templates/receipt.schema.json",
+  "governance": "GOVERNANCE.md",
+  "security": "SECURITY.md",
+  "usage": "USAGE.md",
+  "tests": [
+    "tests/test_reference_runtime.py",
+    "tests/test_security.py"
+  ]
+}
