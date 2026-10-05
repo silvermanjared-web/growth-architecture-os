@@ -1,0 +1,13 @@
+{
+  "name": "ai-operating-system-reference",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Public-safe reference architecture for capability discovery, bounded AI execution, receipts, and interoperability.",
+  "scripts": {
+    "smoke": "python3 scripts/smoke.py",
+    "test:unit": "python3 -m unittest tests.test_reference_runtime",
+    "test:security": "python3 -m unittest tests.test_security",
+    "test": "npm run smoke && npm run test:unit && npm run test:security"
+  },
+  "license": "UNLICENSED"
+}
