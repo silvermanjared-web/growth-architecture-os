@@ -8,7 +8,8 @@
     "role": "Primary authority for positioning, chronology, titles, dates, role chronology and tense framing, and resume-cleared claims.",
     "interpretation_notes": [
       "Reissued 2026-09-30. The resume states four business units in overall scope and \"three of four business units\" for the governed in-house operating model; Online Schools, the fourth, was managed directly with agency support. See pansophic.business_units_3 and pansophic.business_unit_scope_4 (operator confirmation, 2026-09-30).",
-      "The prior October issue (sha256 0165dd5f801c157b32c78465ed81466939c8922b236364d46146a04c33f49952) read \"three business units\"; that language referred to the in-housed scope, not total enterprise scope."
+      "The prior October issue (sha256 0165dd5f801c157b32c78465ed81466939c8922b236364d46146a04c33f49952) read \"three business units\"; that language referred to the in-housed scope, not total enterprise scope.",
+      "Operator confirmation, 2026-10-18: the 60+ campaign restructure occurred April–June 2025 while Jared was Pansophic's agency lead at NP Digital, before the in-house Senior Director role; the Samsung doubling to $100M occurred within approximately six months; the broader SAP program reported 30%+ YoY revenue growth, to which the SEM work contributed. The canonical resume should be reissued to match; until then these operator confirmations govern the affected claims."
     ]
   },
   "public_safety": {
@@ -330,22 +331,26 @@
         "campaign_architecture",
         "stabilization"
       ],
-      "canonical_public_wording": "Restructured 60+ campaigns in under four weeks during a high-pressure enrollment period.",
+      "canonical_public_wording": "Led Pansophic Learning's restructure of 60+ campaigns in under four weeks during a high-pressure enrollment period, as the agency lead at NP Digital (April–June 2025), before Pansophic recruited Jared in-house as Senior Director.",
       "metric": {
         "value": 60,
         "unit": "campaigns",
         "qualifier": "plus",
-        "time_window": "under four weeks"
+        "time_window": "under four weeks",
+        "period": "2025-04 to 2025-06",
+        "engagement_context": "NP Digital agency lead for Pansophic Learning (pre-hire)"
       },
       "funnel_level": "execution_scale",
       "causal_state": "directly_supported",
-      "confidence": "verified_canonical",
+      "confidence": "operator_confirmed_canonical",
       "source_refs": [
+        "operator_confirmation:2026-10-18",
         "canonical_resume:pansophic_campaign_restructure",
         "01-case-studies/pansophic-rapid-campaign-launch.md"
       ],
       "prohibited_inference": [
-        "Do not imply the restructure alone caused later business outcomes without evidence."
+        "Do not imply the restructure alone caused later business outcomes without evidence.",
+        "Do not present the restructure as work performed inside the July 2025 – September 2026 Senior Director role; it was agency-side work for Pansophic in April–June 2025."
       ]
     },
     {
@@ -674,20 +679,51 @@
         "media_investment",
         "audience_strategy"
       ],
-      "canonical_public_wording": "Doubled managed investment to $100M by replacing keyword-first planning with an audience-segmentation strategy.",
+      "canonical_public_wording": "Doubled managed investment to $100M within approximately six months by replacing keyword-first planning with an audience-segmentation strategy.",
       "metric": {
         "ending_value": 100000000,
         "unit": "USD_managed_investment",
-        "change": "doubled"
+        "change": "doubled",
+        "time_window": "approximately six months"
       },
       "funnel_level": "not_applicable",
       "causal_state": "directly_supported",
-      "confidence": "verified_canonical",
+      "confidence": "operator_confirmed_canonical",
       "source_refs": [
-        "canonical_resume:starcom"
+        "canonical_resume:starcom",
+        "operator_confirmation:2026-10-18"
       ],
       "prohibited_inference": [
-        "Do not convert managed-investment growth into client revenue or profit."
+        "Do not convert managed-investment growth into client revenue or profit.",
+        "Do not state the six-month window as exact; it is approximately six months."
+      ]
+    },
+    {
+      "id": "sap.program_revenue_growth_30plus",
+      "company": "SAP (via Resolution Media)",
+      "competencies": [
+        "global_strategy",
+        "operating_model_alignment",
+        "b2b_demand_generation"
+      ],
+      "canonical_public_wording": "Supported a broader SAP program that reported 30%+ year-over-year revenue growth against aggressive goals, through unified targeting strategy and SEM playbooks across regions.",
+      "metric": {
+        "value": 30,
+        "unit": "percent_yoy_revenue_growth",
+        "qualifier": "plus",
+        "level": "broader SAP program"
+      },
+      "funnel_level": "business_outcome",
+      "causal_state": "contextual",
+      "confidence": "operator_confirmed_canonical",
+      "source_refs": [
+        "operator_confirmation:2026-10-18",
+        "01-case-studies/sap-global-sem-playbooks.md"
+      ],
+      "prohibited_inference": [
+        "Do not attribute the 30%+ revenue growth solely to the SEM playbooks or to Jared; it is program-level growth the work contributed to.",
+        "Do not present the figure as personal P&L or as revenue owned by Resolution Media.",
+        "Do not claim universal adoption across every SAP business unit."
       ]
     },
     {
@@ -881,5 +917,5 @@
       ]
     }
   ],
-  "reviewed_on": "2026-09-23"
+  "reviewed_on": "2026-10-18"
 }

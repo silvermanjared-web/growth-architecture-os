@@ -59,9 +59,9 @@ The movement is treated as an observed portfolio outcome after the change, not p
 Scaled acquisition and conversion infrastructure across 150+ custom landing pages while strengthening platform-to-Salesforce signals, reporting QA, attribution, dashboard interfaces, and deeper-funnel optimization inputs.
 
 The objective was to make applications and enrollments increasingly usable as bidding and allocation signals rather than optimizing only to lead volume. The work also included evaluation of call-tracking and measurement integrations, interpretation of MMM outputs, and design of incrementality and retention-testing roadmaps; proposed or modeled work remains distinct from realized outcomes.
-### Stabilize execution at speed
+### Stabilize execution at speed (before the in-house role)
 
-Restructured 60+ campaigns in under four weeks during a high-pressure enrollment period, restoring clearer market, audience, and channel architecture while improving visibility into pacing and execution risk.
+As Pansophic's agency lead at NP Digital (April–June 2025), restructured 60+ campaigns in under four weeks during a high-pressure enrollment period, restoring clearer market, audience, and channel architecture while improving visibility into pacing and execution risk. That work preceded, and led to, the in-house Senior Director role.
 
 ### Reset agency governance and decision rights
 

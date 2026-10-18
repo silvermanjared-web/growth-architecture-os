@@ -2,7 +2,7 @@
 
 ## Context
 
-A multi-brand education environment needed fast campaign restructuring across state-level programs during a seasonal enrollment window.
+A multi-brand education environment needed fast campaign restructuring across state-level programs during a seasonal enrollment window. This work ran April–June 2025, while Jared led the Pansophic Learning account as agency lead at NP Digital. Pansophic then recruited him in-house as Senior Director, Performance Media & CRO (July 2025 – September 2026).
 
 ## Challenge
 
@@ -18,7 +18,7 @@ Restructured 60+ campaigns in under four weeks during a high-pressure enrollment
 
 ## Jared's role
 
-Led launch strategy, built QA systems, and collaborated across analytics, media, and stakeholder groups to hit aggressive timing.
+As agency lead at NP Digital, led launch strategy, built QA systems, and collaborated across analytics, media, and stakeholder groups to hit aggressive timing.
 
 ## Reusable lesson
 

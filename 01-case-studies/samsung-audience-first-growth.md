@@ -14,7 +14,7 @@ Rebuilt the strategy around audience-first segmentation, refined measurement mod
 
 ## Outcome
 
-Public portfolio materials cite major investment expansion during this period, with the audience-first model becoming a lasting reference point.
+Managed media investment doubled to $100M within approximately six months, with the audience-first model becoming a lasting reference point. The figure is managed media investment, not client revenue or profit.
 
 ## Jared's role
 

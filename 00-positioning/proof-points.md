@@ -19,14 +19,15 @@ The objective is straightforward: use supported evidence to make the clearest, s
 | Forecasting governance | Instituted a multi-factor forecasting process using roughly three to four years of historical performance, MMM inputs, agency expertise, business goals, and iterative revision | Ability to improve the planning infrastructure behind cross-functional investment decisions |
 | Investment turnaround | Corrected a distinct incremental-investment plan after identifying that social-heavy allocation conflicted with search-based forecast assumptions, then redirected investment heavily toward search | Diagnostic rigor and willingness to repair allocation when plan logic and forecast logic diverge |
 | CRO infrastructure | 150+ custom landing pages | Ability to build CRO infrastructure at portfolio scale |
-| High-pressure execution | 60+ campaigns restructured in under four weeks | Speed, operating discipline, and execution under material time pressure |
+| High-pressure execution | 60+ campaigns restructured in under four weeks as Pansophic's agency lead at NP Digital (April–June 2025), before the in-house role | Speed, operating discipline, and execution under material time pressure |
 | WEX | Approximately 500% growth in approved applications after a phased rebuild | End-to-end acquisition diagnosis, measurement alignment, and material improvement in productive acquisition output |
 | Stand Together | 86% YoY growth in web-qualified engagements while outperforming benchmarks by 3x | Measurement transformation and stronger operating performance |
 | TBC | 85% cost savings for an online-pharmacy client | Ability to materially improve efficiency in a specific client engagement |
 | Butler/Till | 50% increase in brand SEO adoption | Enterprise enablement and adoption of a repeatable operating capability |
 | Myron | More than $500K above sub-brand revenue target YoY | Direct evidence of performance against a revenue target within the supported business scope |
 | Essence | $100M+ global programs and 30+ person teams | Leadership across large-scale investment, multidisciplinary teams, and global complexity |
-| Starcom / Performics | Doubled managed investment to $100M | Growth in entrusted media scope and enterprise client responsibility |
+| Starcom / Performics | Doubled managed investment to $100M within approximately six months | Growth in entrusted media scope and enterprise client responsibility |
+| Resolution Media / SAP | Supported a broader SAP program that reported 30%+ YoY revenue growth against aggressive goals, through unified targeting strategy and SEM playbooks | Global operating-model leadership contributing to a program-level business outcome |
 
 ## How to use the evidence
 
