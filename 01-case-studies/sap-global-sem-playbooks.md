@@ -14,7 +14,7 @@ Created and deployed unified SEM playbooks across global regions. Supported in-m
 
 ## Outcome
 
-Public portfolio materials support the adoption of unified SEM systems across business units. The public claim here is enablement and operating-system adoption, not a clean revenue-causality claim.
+Unified SEM systems were adopted across regions, and the broader SAP program reported 30%+ year-over-year revenue growth against aggressive goals over the same period. The SEM playbooks and regional alignment were a contributing factor; the growth is program-level, not attributed solely to this work.
 
 ## Jared's role
 
