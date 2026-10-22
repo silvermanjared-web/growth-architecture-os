@@ -1,10 +1,10 @@
 # Growth Architecture OS
 
-**A practical growth method: improve what's holding teams back, without replacing what makes them effective.**
+**The greatest defensible growth improvement with the least necessary intervention.**
 
 This repository shows how I diagnose growth systems, allocate investment, rebuild performance, structure agencies and teams, connect marketing signals to business economics, and turn operating knowledge into infrastructure that scales.
 
-My work spans performance media, CRO, measurement, marketing operations, agency governance, AI-enabled workflows, and executive decision support. The method is deliberately lightweight: **understand what works, isolate the constraint, align with existing owners, implement the smallest defensible improvement, and make good decisions repeatable.** Speed matters, but early results are evidence to test and learn from, not permission to bypass decision rights or proof of long-term causality.
+My work spans performance media, CRO, measurement, marketing operations, agency governance, AI-enabled workflows, and executive decision support. The method is deliberately lightweight: **use evidence and judgment to select the highest-leverage defensible change, align existing owners, act with minimal unnecessary disruption, verify the outcome, and make the useful reasoning repeatable.** The differentiator is knowing which change merits action, not simply doing the easiest task quickly. Early signals still need downstream validation.
 
 ![Portfolio status](assets/portfolio-status-strip.svg)
 
@@ -49,7 +49,7 @@ Do not read the repository front to back. Start with the leadership question you
 
 Growth usually does not break because a team lacks tactics. It breaks because spend, conversion, measurement, agencies, technology, and leadership decisions are operating as separate systems.
 
-I build the *smallest useful operating layer* that reconnects them, in partnership with the people already doing the work.
+I build only the operating layer the business actually needs, in partnership with the people already doing the work. The size of the intervention follows the value and evidence, not a preference for small projects.
 
 That means clearer capital-allocation and forecasting logic, stronger measurement architecture, better agency selection and accountability, deliberate in-housing and capability building, disciplined CRO, explicit decision rights, faster executive visibility, and repeatable workflows that allow teams to move without losing control.
 

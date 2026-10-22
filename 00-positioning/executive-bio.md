@@ -6,7 +6,7 @@ His work spans media investment, CRO, measurement, agency governance, marketing 
 
 Most recently, Jared led growth work connecting **$15M+ in media across 180+ institutions** with CRO, measurement, agency governance, and portfolio investment decisions. Earlier in his career, he directed **$100M+ global programs and 30+ person teams**, rebuilt paid media operations at Stand Together, restructured NP Digital's largest paid media division, and led acquisition work that produced **~500% growth in approved applications** after a phased rebuild.
 
-His leadership model treats spend as capital allocation rather than channel management. He starts with the business objective and what an existing team does well, finds the constraint using available evidence, works with its owners on the smallest defensible change, and validates the result before expanding it. Lightweight decision guides, clear ownership, measurement, QA, and coaching help people sustain improvements without adding bureaucracy or making everyone operate alike.
+His leadership model treats spend as capital allocation rather than channel management. He rapidly synthesizes commercial, measurement, and organizational evidence to identify the highest-value defensible improvement relative to the intervention required. He works with existing owners to act, validates near-term and downstream results, and turns useful judgment into lightweight guidance. The simple method is teachable; consistently calibrating it across complex situations is the distinguishing capability. Teams can sustain improvements without added bureaucracy or losing their individuality.
 
 Jared also builds AI-enabled operating systems for monitoring, synthesis, QA, context management, reporting, and executive decision support. The goal is practical operating leverage: make recurring work faster and more consistent while keeping human judgment accountable.
 
@@ -16,4 +16,4 @@ Jared Silverman is a growth systems leader who builds the operating infrastructu
 
 ## One-line positioning
 
-I strengthen growth by removing the few constraints that matter, working with existing owners, and making effective decisions repeatable without adding unnecessary process.
+I identify the greatest defensible business improvement for the least necessary intervention, then help existing teams sustain and improve the result.
