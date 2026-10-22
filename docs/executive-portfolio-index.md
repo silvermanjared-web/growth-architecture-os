@@ -8,7 +8,7 @@ This index is designed for evaluation, not exhaustive reading.
 
 Read these three artifacts:
 
-1. [Growth Architecture OS README](../README.md) — the operating thesis.
+1. [How I Build Durable Growth](how-i-build-durable-growth.md) — the decision method, owner alignment, and what remains unchanged.
 2. [Full-Cycle Growth Loop](https://github.com/silvermanjared-web/marketing-ops-playbooks/blob/main/frameworks/full-cycle-growth-loop.md) — how strategy becomes execution, learning, and a better next brief.
 3. [AI Operating System Reference](../04-ai-systems/ai-operating-system-reference/README.md) — how the same operating philosophy becomes technical architecture.
 

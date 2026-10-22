@@ -1,10 +1,10 @@
 # Growth Architecture OS
 
-**Jared Silverman's public operating system for leading complex growth.**
+**A practical growth method: improve what's holding teams back, without replacing what makes them effective.**
 
 This repository shows how I diagnose growth systems, allocate investment, rebuild performance, structure agencies and teams, connect marketing signals to business economics, and turn operating knowledge into infrastructure that scales.
 
-My work sits across performance media, CRO, measurement, marketing operations, agency governance, AI-enabled workflows, and executive decision support. The throughline is simple: **make growth legible, make the right decisions faster, then build the system to scale them.**
+My work spans performance media, CRO, measurement, marketing operations, agency governance, AI-enabled workflows, and executive decision support. The method is deliberately lightweight: **understand what works, isolate the constraint, align with existing owners, implement the smallest defensible improvement, and make good decisions repeatable.** Speed matters, but early results are evidence to test and learn from, not permission to bypass decision rights or proof of long-term causality.
 
 ![Portfolio status](assets/portfolio-status-strip.svg)
 
@@ -12,7 +12,7 @@ My work sits across performance media, CRO, measurement, marketing operations, a
 
 ## Start here
 
-For the fastest route through the system, use the [Executive Portfolio Index](docs/executive-portfolio-index.md).
+For the fastest route through the system, read [How I Build Durable Growth](docs/how-i-build-durable-growth.md), then use the [Executive Portfolio Index](docs/executive-portfolio-index.md).
 
 For inspectable evidence, use the [Proof Ledger](docs/proof-ledger.md). For the complete public operating surface, use the [Capability Catalog](docs/capability-catalog.md). To see the architecture reason through realistic problems, use [Try the System](scenarios/README.md).
 
@@ -49,9 +49,11 @@ Do not read the repository front to back. Start with the leadership question you
 
 Growth usually does not break because a team lacks tactics. It breaks because spend, conversion, measurement, agencies, technology, and leadership decisions are operating as separate systems.
 
-I build the operating layer that reconnects them.
+I build the *smallest useful operating layer* that reconnects them, in partnership with the people already doing the work.
 
 That means clearer capital-allocation and forecasting logic, stronger measurement architecture, better agency selection and accountability, deliberate in-housing and capability building, disciplined CRO, explicit decision rights, faster executive visibility, and repeatable workflows that allow teams to move without losing control.
+
+A good playbook is a short decision aid, not a mandate to make every team identical. It captures the minimum shared facts, owners, and signals needed for teams to make sound decisions on their own. It keeps useful local practices intact and explicitly invites correction from affected owners before significant changes.
 
 ```mermaid
 flowchart TD
