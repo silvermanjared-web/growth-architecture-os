@@ -2,7 +2,7 @@
 
 ## Core sentence
 
-I stabilize and scale growth systems. The goal is infrastructure that performs predictably and does not depend on heroics.
+I stabilize and scale growth systems by finding the highest-value defensible intervention relative to its effort, risk, and disruption. The goal is durable capability, not procedural overhead or dependence on heroics.
 
 ## Operating pillars
 

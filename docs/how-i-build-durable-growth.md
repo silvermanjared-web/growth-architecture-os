@@ -1,12 +1,12 @@
 # How I Build Durable Growth
 
-**The 30-second answer:** Understand the business objective and the people already delivering it. Keep what works. Identify the binding constraint using the evidence available. Agree with the relevant owners on the smallest defensible change, test for a near-term signal, and make the useful lesson repeatable. The result should be greater team capability, not a replacement culture.
+**The 30-second answer:** I use rapid, cross-functional judgment to identify the greatest defensible business improvement relative to the time, cost, risk, and disruption required. With existing owners, I choose the least necessary intervention, not merely the easiest task, verify early and downstream results, and make the useful reasoning repeatable. The benefit is a more capable team, not more bureaucracy.
 
-## The method: small change, compounding capability
+## The method: high-leverage change, compounding capability
 
 1. **Know the goal and the existing strengths.** Start with the desired business outcome, constraints, current practices, and the reasons those practices exist. Listen to the people with day-to-day ownership.
 2. **Separate the constraint from the symptoms.** Compare the evidence, name what is uncertain, and prioritize the specific decision currently restricting the outcome. Do not build a large program to solve a narrow problem.
-3. **Choose a defensible intervention.** Look for the smallest change likely to create a measurable improvement within an appropriate time horizon. Make tradeoffs explicit, including cost, reversibility, and who is affected. Reliability is useful, but avoid selecting a quick win when a higher-value strategic opportunity warrants a larger investment.
+3. **Compare defensible interventions.** Weigh expected business value, evidence, likelihood of success, time to learning, effort, reversibility, risk, and necessary disruption. Select the intervention with the strongest value-to-burden tradeoff, not automatically the smallest or safest task. A larger investment is appropriate when the evidence and economics justify it.
 4. **Agree on authority before acting.** The right answer does not grant authority to change someone else's responsibilities. Confirm who recommends, approves, executes, and evaluates a consequential change. Seek dissent early and change the proposal when owners reveal missing context.
 5. **Observe, learn, and enable.** Treat early performance as a signal, not proof of causation. Share what worked, what remains uncertain, and one concise decision rule that colleagues can adapt. A playbook should free teams to act without repeated escalation.
 
@@ -16,6 +16,10 @@
 - **Accountability:** Existing owners keep their legitimate decision rights. Shared standards make roles clearer, not weaker.
 - **Proportion:** A one-page guide, useful checklist, or small rule can be sufficient. If the added process costs more than the problem, simplify it.
 - **Long-term ownership:** A transformation is stronger when people can repeat and improve the result after the initial work is complete.
+
+## Why simple is not easy
+
+The sequence can be taught quickly. The hard part is calibrating which business constraint matters, what evidence is trustworthy, and how much intervention is justified. Years of work across investment, conversion, measurement, agency economics, and team operations allow me to synthesize that context rapidly. The judgment and speed are personal strengths; the concise decision criteria are what colleagues can learn, adapt, and eventually improve. Neither eliminates uncertainty or the need for owner participation.
 
 ## What speed means
 
