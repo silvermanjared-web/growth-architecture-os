@@ -8,7 +8,7 @@ I stabilize and scale growth systems. The goal is infrastructure that performs p
 
 ### Operating discipline
 
-Clear process, ownership, QA, and escalation paths so teams do not need heroics to perform.
+The minimum useful standards, ownership clarity, QA, and escalation paths that let existing teams perform without heroics or unnecessary permission loops.
 
 ### Visibility that drives action
 
@@ -28,11 +28,11 @@ Workflows and playbooks that preserve institutional knowledge and make the next 
 
 ## How every engagement starts
 
-1. Understand the system
-2. Align metrics and owners
-3. Rebuild what is broken
-4. Prove what is working
-5. Build internal capability
+1. Listen to existing owners, understand the objective and preserve what works.
+2. Locate the constraint with enough evidence to distinguish signal from assumption.
+3. Propose the smallest defensible improvement and align decision rights before consequential action.
+4. Test for an early measurable signal; distinguish observation from proven causality.
+5. Codify only what teams need to repeat the judgment independently, then refine with their feedback.
 
 ## What this looks like in practice
 
